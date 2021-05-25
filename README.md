@@ -2,7 +2,8 @@
 
 #EXTINF:-1 tvg-id="RAMALHOTV VIP" tvg-logo="https://www.wdkx.com/wp-content/uploads/2020/07/image.png" group-title="Todos os canais ",RAMALHOTV VIP FILMES
 http://212.224.9
-
+#EXTINF:-1,Velozes e Furiosos 9 (Gravado) (LEG)
+http://canaishd.servidor.tv:8080/movie/coelho123/coelho123/60763.mp4
 
 #EXTINF:-1,O Poderoso Chefão (1972)
 http://163.172.103.202:8880/movie/287994003814/287994003814/476.mp4

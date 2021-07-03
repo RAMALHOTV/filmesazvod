@@ -3,7 +3,16 @@
 #EXTINF:-1 tvg-id="RAMALHOTV VIP" tvg-logo="https://www.wdkx.com/wp-content/uploads/2020/07/image.png" group-title="Todos os canais ",RAMALHOTV VIP FILMES
 http://212.224.9
 ############################### OI TV BASICO ################################
-
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://imgur.com/ualVUwe.png",Bons Tempos TV by-Ramalhotv
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mancheteweb.png" group-title="WebTV",TV Manchete - WebTV
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - TV Difusora (MA)
+https://diulq15o39.zoeweb.tv/z437-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PORTAL" tvg-logo="http://168.205.87.198/logocanais/maptv.png" group-title="OI TV BASICO",PORTAL
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/82.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AGRO CANAL" tvg-logo="http://168.205.87.198/logocanais/agrocanal.png" group-title="OI TV BASICO",AGRO CANAL
@@ -384,8 +393,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/25616
 http://srv.maxptv.net:8080/Ricardo1/123456/548
 #EXTINF:-1 tvg-id="" tvg-name="Cine Action HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Action HD
 http://srv.maxptv.net:8080/Ricardo1/123456/28657
-#EXTINF:-1 tvg-id="" tvg-name="CINE ADULTO" tvg-logo="" group-title="Canais | [XXX] ADULTO",CINE ADULTO
-http://srv.maxptv.net:8080/Ricardo1/123456/25535
 #EXTINF:-1 tvg-id="" tvg-name="Cine Aventura 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Aventura 24H Ultra HD
 http://srv.maxptv.net:8080/Ricardo1/123456/549
 #EXTINF:-1 tvg-id="" tvg-name="Cine Drama 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Drama 24H Ultra HD
@@ -1209,8 +1216,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/23658
 http://srv.maxptv.net:8080/Ricardo1/123456/23653
 #EXTINF:-1 tvg-id="" tvg-name="Rap - Internacional" tvg-logo="https://cdn-radiotime-logos.tunein.com/s190580q.png" group-title="Canais I MUSICAS I RÁDIOS",Rap - Internacional
 http://srv.maxptv.net:8080/Ricardo1/123456/23538
-#EXTINF:-1 tvg-id="" tvg-name="RAÇA NEGRA #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",RAÇA NEGRA #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28441
 #EXTINF:-1 tvg-id="" tvg-name="REALITY Z - 24H" tvg-logo="" group-title="Canais |  24 HORAS",REALITY Z - 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/25622
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record HD
@@ -1243,16 +1248,11 @@ http://srv.maxptv.net:8080/Ricardo1/123456/63
 http://srv.maxptv.net:8080/Ricardo1/123456/61
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV SD" tvg-logo="http://logos.nineuhd.xyz/redetv.png" group-title="Canais | ABERTOS",RedeTV SD
 http://srv.maxptv.net:8080/Ricardo1/123456/60
-#EXTINF:-1 tvg-id="" tvg-name="Retro Baladas" tvg-logo="https://cdn-profiles.tunein.com/s272561/images/logoq.png?t=160105" group-title="Canais I MUSICAS I RÁDIOS",Retro Baladas
-http://srv.maxptv.net:8080/Ricardo1/123456/23675
-#EXTINF:-1 tvg-id="" tvg-name="ROBERTO CARLOS #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",ROBERTO CARLOS #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28444
+
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="Rá -Tim Bum- HD" tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="Canais | INFANTIL",Rá -Tim Bum- HD
 http://srv.maxptv.net:8080/Ricardo1/123456/70
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="Rá- Tim- Bum SD" tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="Canais | INFANTIL",Rá- Tim- Bum SD
 http://srv.maxptv.net:8080/Ricardo1/123456/69
-#EXTINF:-1 tvg-id="" tvg-name="SANDY & JUNIOR #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",SANDY & JUNIOR #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28445
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="Sbt HD" tvg-logo="http://logos.nineuhd.xyz/sbt.png" group-title="Canais | ABERTOS",Sbt HD
 http://srv.maxptv.net:8080/Ricardo1/123456/59
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="Sbt SD" tvg-logo="http://logos.nineuhd.xyz/sbt.png" group-title="Canais | ABERTOS",Sbt SD

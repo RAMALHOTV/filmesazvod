@@ -257,8 +257,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/235
 http://srv.maxptv.net:8080/Ricardo1/123456/28241
 #EXTINF:-1 tvg-id="" tvg-name="Alem da Imaginação 2020 / 24h" tvg-logo="" group-title="Canais |  24 HORAS",Alem da Imaginação 2020 / 24h
 http://srv.maxptv.net:8080/Ricardo1/123456/28743
-#EXTINF:-1 tvg-id="" tvg-name="ALEXANDRE PIRES #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",ALEXANDRE PIRES #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28434
 #EXTINF:-1 tvg-id="" tvg-name="Alf, O ETeimoso" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",Alf, O ETeimoso
 http://srv.maxptv.net:8080/Ricardo1/123456/28658
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="Amc HD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",Amc HD
@@ -647,16 +645,10 @@ http://srv.maxptv.net:8080/Ricardo1/123456/26738
 http://srv.maxptv.net:8080/Ricardo1/123456/26739
 #EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="" group-title="Canais |  24 HORAS",Eu a Patroa e as Crianças
 http://srv.maxptv.net:8080/Ricardo1/123456/321
-#EXTINF:-1 tvg-id="" tvg-name="FABIO JR #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",FABIO JR #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28439
 #EXTINF:-1 tvg-id="" tvg-name="Familia da Pesada 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Familia da Pesada 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/1481
 #EXTINF:-1 tvg-id="" tvg-name="Familia Dinossauro  24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Familia Dinossauro  24H
 http://srv.maxptv.net:8080/Ricardo1/123456/569
-#EXTINF:-1 tvg-id="" tvg-name="FELIPE ARAUJO #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",FELIPE ARAUJO #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28433
-#EXTINF:-1 tvg-id="" tvg-name="FFH The 80's" tvg-logo="http://srv.maxptv.net:8080/images/5dedc077ba3428049f53faa20c863f0d.png" group-title="Canais I MUSICAS I RÁDIOS",FFH The 80's
-http://srv.maxptv.net:8080/Ricardo1/123456/23536
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Film&Arts HD" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais | FILMES",Film&Arts HD
 http://srv.maxptv.net:8080/Ricardo1/123456/163
 #EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Film&Arts SD" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais | FILMES",Film&Arts SD
@@ -721,8 +713,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/25579
 http://srv.maxptv.net:8080/Ricardo1/123456/25580
 #EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 9" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 9
 http://srv.maxptv.net:8080/Ricardo1/123456/25581
-#EXTINF:-1 tvg-id="" tvg-name="Funk - Americano" tvg-logo="https://cdn-radiotime-logos.tunein.com/s17439q.png" group-title="Canais I MUSICAS I RÁDIOS",Funk - Americano
-http://srv.maxptv.net:8080/Ricardo1/123456/23540
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX FHD
 http://srv.maxptv.net:8080/Ricardo1/123456/20275
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX HD
@@ -913,8 +903,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/139
 http://srv.maxptv.net:8080/Ricardo1/123456/138
 #EXTINF:-1 tvg-id="" tvg-name="Greatest Hits of Hip Hop" tvg-logo="https://cdn-radiotime-logos.tunein.com/s213410q.png" group-title="Canais I MUSICAS I RÁDIOS",Greatest Hits of Hip Hop
 http://srv.maxptv.net:8080/Ricardo1/123456/23541
-#EXTINF:-1 tvg-id="" tvg-name="GUSTAVO LIMA#FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",GUSTAVO LIMA#FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28428
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Canais | DOCUMENTÁRIOS ",H2 FHD
 http://srv.maxptv.net:8080/Ricardo1/123456/20260
 #EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://3.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNw/5x4z2seCJVs/s1600/H2_1.png" group-title="Canais | DOCUMENTÁRIOS ",H2 HD
@@ -1013,22 +1001,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/28442
 http://srv.maxptv.net:8080/Ricardo1/123456/570
 #EXTINF:-1 tvg-id="" tvg-name="Jiraya  O Incrivel Ninja 24H" tvg-logo="https://http2.mlstatic.com/dvd-colecao-jiraya-D_NQ_NP_773820-MLB25537680599_042017-F.jpg" group-title="Canais |  24 HORAS",Jiraya  O Incrivel Ninja 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/1475
-#EXTINF:-1 tvg-id="" tvg-name="JOELMA #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",JOELMA #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28436
-#EXTINF:-1 tvg-id="" tvg-name="JORGE E MATHEUS #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",JORGE E MATHEUS #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28426
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Anos 2000" tvg-logo="https://cdn-radiotime-logos.tunein.com/s194020q.png" group-title="Canais I MUSICAS I RÁDIOS",Jovem Pan Anos 2000
-http://srv.maxptv.net:8080/Ricardo1/123456/23670
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Anos 80" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143769q.png" group-title="Canais I MUSICAS I RÁDIOS",Jovem Pan Anos 80
-http://srv.maxptv.net:8080/Ricardo1/123456/23668
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Anos 90" tvg-logo="https://cdn-radiotime-logos.tunein.com/s143770q.png" group-title="Canais I MUSICAS I RÁDIOS",Jovem Pan Anos 90
-http://srv.maxptv.net:8080/Ricardo1/123456/23669
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan FM Piracicaba" tvg-logo="https://cdn-profiles.tunein.com/s143616/images/logoq.jpg?t=155609" group-title="Canais I MUSICAS I RÁDIOS",Jovem Pan FM Piracicaba
-http://srv.maxptv.net:8080/Ricardo1/123456/23662
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Pagode" tvg-logo="https://cdn-radiotime-logos.tunein.com/s118667q.png" group-title="Canais I MUSICAS I RÁDIOS",Jovem Pan Pagode
-http://srv.maxptv.net:8080/Ricardo1/123456/23655
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan Sertanejo" tvg-logo="https://cdn-radiotime-logos.tunein.com/s118658q.png" group-title="Canais I MUSICAS I RÁDIOS",Jovem Pan Sertanejo
-http://srv.maxptv.net:8080/Ricardo1/123456/23667
 #EXTINF:-1 tvg-id="" tvg-name="KENAN E KEL" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",KENAN E KEL
 http://srv.maxptv.net:8080/Ricardo1/123456/25541
 #EXTINF:-1 tvg-id="" tvg-name="LADY NIGHT - 24H" tvg-logo="" group-title="Canais |  24 HORAS",LADY NIGHT - 24H
@@ -1039,8 +1011,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/25613
 http://srv.maxptv.net:8080/Ricardo1/123456/25482
 #EXTINF:-1 tvg-id="" tvg-name="Larva 24H" tvg-logo="https://i.ytimg.com/vi/hNQ_NbLpgE4/maxresdefault.jpg" group-title="Canais | INFANTIL 24 HORAS",Larva 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/1474
-#EXTINF:-1 tvg-id="" tvg-name="LEONARDO #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",LEONARDO #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28423
 #EXTINF:-1 tvg-id="" tvg-name="LIE TO ME - 24H" tvg-logo="" group-title="Canais |  24 HORAS",LIE TO ME - 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/25644
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Lifetime FHD
@@ -1125,16 +1095,10 @@ http://srv.maxptv.net:8080/Ricardo1/123456/20313
 http://srv.maxptv.net:8080/Ricardo1/123456/93
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="https://vignette.wikia.nocookie.net/vvikipedia/images/e/e4/559.png/revision/latest?cb=20140305100026&path-prefix=pt" group-title="Canais | INFANTIL",Nickelodeon SD
 http://srv.maxptv.net:8080/Ricardo1/123456/92
-#EXTINF:-1 tvg-id="" tvg-name="Nova Brasil FM Campinas" tvg-logo="https://cdn-profiles.tunein.com/s151034/images/logoq.png?t=160459" group-title="Canais I MUSICAS I RÁDIOS",Nova Brasil FM Campinas
-http://srv.maxptv.net:8080/Ricardo1/123456/23671
-#EXTINF:-1 tvg-id="" tvg-name="One Love Hip Hop" tvg-logo="https://cdn-radiotime-logos.tunein.com/s125403q.png" group-title="Canais I MUSICAS I RÁDIOS",One Love Hip Hop
-http://srv.maxptv.net:8080/Ricardo1/123456/23539
 #EXTINF:-1 tvg-id="" tvg-name="Os 3 patetas 24H" tvg-logo="" group-title="Canais |  24 HORAS",Os 3 patetas 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/19540
 #EXTINF:-1 tvg-id="" tvg-name="OS FEITICEIROS DE WAVERLY PLACE - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",OS FEITICEIROS DE WAVERLY PLACE - 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/25539
-#EXTINF:-1 tvg-id="" tvg-name="OS MENOTTI #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",OS MENOTTI #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28440
 #EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Os Simpsons 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/563
 #EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES - 24H" tvg-logo="" group-title="Canais |  24 HORAS",OS TRAPALHÕES - 24H
@@ -1202,16 +1166,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/75
 http://srv.maxptv.net:8080/Ricardo1/123456/74
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD Alternativo" tvg-logo="" group-title="Canais | PREMIERE",Premiere 7 HD Alternativo
 http://srv.maxptv.net:8080/Ricardo1/123456/1467
-#EXTINF:-1 tvg-id="" tvg-name="PUNKY A LEVADA DA BRECA - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",PUNKY A LEVADA DA BRECA - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25619
-#EXTINF:-1 tvg-id="" tvg-name="Radio Mania FM" tvg-logo="https://cdn-radiotime-logos.tunein.com/s127019q.png" group-title="Canais I MUSICAS I RÁDIOS",Radio Mania FM
-http://srv.maxptv.net:8080/Ricardo1/123456/23678
-#EXTINF:-1 tvg-id="" tvg-name="Radio Modão Sertanejo" tvg-logo="https://cdn-radiotime-logos.tunein.com/s280773q.png" group-title="Canais I MUSICAS I RÁDIOS",Radio Modão Sertanejo
-http://srv.maxptv.net:8080/Ricardo1/123456/23658
-#EXTINF:-1 tvg-id="" tvg-name="Radio Zig Zag" tvg-logo="https://cdn-profiles.tunein.com/s280123/images/logoq.png?t=161228" group-title="Canais I MUSICAS I RÁDIOS",Radio Zig Zag
-http://srv.maxptv.net:8080/Ricardo1/123456/23653
-#EXTINF:-1 tvg-id="" tvg-name="Rap - Internacional" tvg-logo="https://cdn-radiotime-logos.tunein.com/s190580q.png" group-title="Canais I MUSICAS I RÁDIOS",Rap - Internacional
-http://srv.maxptv.net:8080/Ricardo1/123456/23538
 #EXTINF:-1 tvg-id="" tvg-name="REALITY Z - 24H" tvg-logo="" group-title="Canais |  24 HORAS",REALITY Z - 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/25622
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record HD
@@ -4750,10 +4704,7 @@ http://srv.maxptv.net:8080/Ricardo1/123456/28220
 http://srv.maxptv.net:8080/Ricardo1/123456/28161
 #EXTINF:-1 tvg-id="" tvg-name="24H AS TARTARUGAS NINJAS CLASSICO" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H AS TARTARUGAS NINJAS CLASSICO
 http://srv.maxptv.net:8080/Ricardo1/123456/28213
-#EXTINF:-1 tvg-id="" tvg-name="24H BELO #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",24H BELO #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28431
-#EXTINF:-1 tvg-id="" tvg-name="24H Bisexual" tvg-logo="" group-title="Canais | [XXX] ADULTO",24H Bisexual
-http://srv.maxptv.net:8080/Ricardo1/123456/32149
+
 #EXTINF:-1 tvg-id="" tvg-name="24H BOB CONSTRUTOR 1999" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H BOB CONSTRUTOR 1999
 http://srv.maxptv.net:8080/Ricardo1/123456/28185
 #EXTINF:-1 tvg-id="" tvg-name="24H BOB CONSTRUTOR 1999" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H BOB CONSTRUTOR 1999
@@ -4778,8 +4729,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/28199
 http://srv.maxptv.net:8080/Ricardo1/123456/28136
 #EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H CAVERNA DO DRAGÃO
 http://srv.maxptv.net:8080/Ricardo1/123456/28188
-#EXTINF:-1 tvg-id="" tvg-name="24H Cine Adulto" tvg-logo="" group-title="Canais | [XXX] ADULTO",24H Cine Adulto
-http://srv.maxptv.net:8080/Ricardo1/123456/32151
 #EXTINF:-1 tvg-id="" tvg-name="24H CORAGEM O CÃO COVARDE" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H CORAGEM O CÃO COVARDE
 http://srv.maxptv.net:8080/Ricardo1/123456/28198
 #EXTINF:-1 tvg-id="" tvg-name="24H DIGIMON" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H DIGIMON
@@ -4844,14 +4793,10 @@ http://srv.maxptv.net:8080/Ricardo1/123456/28201
 http://srv.maxptv.net:8080/Ricardo1/123456/28180
 #EXTINF:-1 tvg-id="" tvg-name="24H FÁBULAS DA DISNEY" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H FÁBULAS DA DISNEY
 http://srv.maxptv.net:8080/Ricardo1/123456/28232
-#EXTINF:-1 tvg-id="" tvg-name="24H GORDAS" tvg-logo="" group-title="Canais | [XXX] ADULTO",24H GORDAS
-http://srv.maxptv.net:8080/Ricardo1/123456/32152
 #EXTINF:-1 tvg-id="" tvg-name="24H HE-MAN" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H HE-MAN
 http://srv.maxptv.net:8080/Ricardo1/123456/28142
 #EXTINF:-1 tvg-id="" tvg-name="24H HE-MAN" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H HE-MAN
 http://srv.maxptv.net:8080/Ricardo1/123456/28194
-#EXTINF:-1 tvg-id="" tvg-name="24H INTER RACIAL" tvg-logo="" group-title="Canais | [XXX] ADULTO",24H INTER RACIAL
-http://srv.maxptv.net:8080/Ricardo1/123456/32153
 #EXTINF:-1 tvg-id="" tvg-name="24H JONNY QUEST" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H JONNY QUEST
 http://srv.maxptv.net:8080/Ricardo1/123456/28164
 #EXTINF:-1 tvg-id="" tvg-name="24H JONNY QUEST" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H JONNY QUEST
@@ -4908,8 +4853,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/28208
 http://srv.maxptv.net:8080/Ricardo1/123456/28162
 #EXTINF:-1 tvg-id="" tvg-name="24H POPEYE" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H POPEYE
 http://srv.maxptv.net:8080/Ricardo1/123456/28214
-#EXTINF:-1 tvg-id="" tvg-name="24H RUIVAS" tvg-logo="" group-title="Canais | [XXX] ADULTO",24H RUIVAS
-http://srv.maxptv.net:8080/Ricardo1/123456/32155
 #EXTINF:-1 tvg-id="" tvg-name="24H SAKURA CARDCAPTORS" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H SAKURA CARDCAPTORS
 http://srv.maxptv.net:8080/Ricardo1/123456/28150
 #EXTINF:-1 tvg-id="" tvg-name="24H SAKURA CARDCAPTORS" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H SAKURA CARDCAPTORS
@@ -4918,8 +4861,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/28202
 http://srv.maxptv.net:8080/Ricardo1/123456/28140
 #EXTINF:-1 tvg-id="" tvg-name="24H SCOOBY-DOO & SCOOBY-LOO" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H SCOOBY-DOO & SCOOBY-LOO
 http://srv.maxptv.net:8080/Ricardo1/123456/28192
-#EXTINF:-1 tvg-id="" tvg-name="24H Sexo Na Praia" tvg-logo="" group-title="Canais | [XXX] ADULTO",24H Sexo Na Praia
-http://srv.maxptv.net:8080/Ricardo1/123456/32154
 #EXTINF:-1 tvg-id="" tvg-name="24H SHE-RA CLASSICA" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H SHE-RA CLASSICA
 http://srv.maxptv.net:8080/Ricardo1/123456/28179
 #EXTINF:-1 tvg-id="" tvg-name="24H SHE-RA CLASSICA" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H SHE-RA CLASSICA
@@ -4932,14 +4873,10 @@ http://srv.maxptv.net:8080/Ricardo1/123456/28210
 http://srv.maxptv.net:8080/Ricardo1/123456/28183
 #EXTINF:-1 tvg-id="" tvg-name="24H SUPERCAMPEÕES" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H SUPERCAMPEÕES
 http://srv.maxptv.net:8080/Ricardo1/123456/28235
-#EXTINF:-1 tvg-id="" tvg-name="24H SURUBA CASEIRA" tvg-logo="" group-title="Canais | [XXX] ADULTO",24H SURUBA CASEIRA
-http://srv.maxptv.net:8080/Ricardo1/123456/32156
 #EXTINF:-1 tvg-id="" tvg-name="24H TAZ MANIA" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H TAZ MANIA
 http://srv.maxptv.net:8080/Ricardo1/123456/28186
 #EXTINF:-1 tvg-id="" tvg-name="24H TAZ MANIA" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H TAZ MANIA
 http://srv.maxptv.net:8080/Ricardo1/123456/28238
-#EXTINF:-1 tvg-id="" tvg-name="24H TRANSEXUAL" tvg-logo="" group-title="Canais | [XXX] ADULTO",24H TRANSEXUAL
-http://srv.maxptv.net:8080/Ricardo1/123456/32157
 #EXTINF:-1 tvg-id="" tvg-name="24H TRANSFORMERS" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H TRANSFORMERS
 http://srv.maxptv.net:8080/Ricardo1/123456/28184
 #EXTINF:-1 tvg-id="" tvg-name="24H TRANSFORMERS" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H TRANSFORMERS
@@ -4950,10 +4887,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/28163
 http://srv.maxptv.net:8080/Ricardo1/123456/28215
 #EXTINF:-1 tvg-id="" tvg-name="24H XODÓ DA VOVÓ" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H XODÓ DA VOVÓ
 http://srv.maxptv.net:8080/Ricardo1/123456/28200
-#EXTINF:-1 tvg-id="" tvg-name="80's" tvg-logo="http://srv.maxptv.net:8080/images/28692b72613c05a145176dea04c4218c.png" group-title="Canais I MUSICAS I RÁDIOS",80's
-http://srv.maxptv.net:8080/Ricardo1/123456/23537
-#EXTINF:-1 tvg-id="" tvg-name="89 FM A Rádio Rock" tvg-logo="https://cdn-radiotime-logos.tunein.com/s85089q.png" group-title="Canais I MUSICAS I RÁDIOS",89 FM A Rádio Rock
-http://srv.maxptv.net:8080/Ricardo1/123456/23663
 #EXTINF:-1 tvg-id="" tvg-name="9-1-1 - 24H" tvg-logo="" group-title="Canais |  24 HORAS",9-1-1 - 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/25630
 #EXTINF:-1 tvg-id="" tvg-name="A FAMILÍA HATHAWAYS - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",A FAMILÍA HATHAWAYS - 24H

@@ -965,6 +965,54 @@ http://srv.maxptv.net:8080/Ricardo1/123456/520
 http://srv.maxptv.net:8080/Ricardo1/123456/113
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png" group-title="Canais | HBO",HBO+ FHD
 http://srv.maxptv.net:8080/Ricardo1/123456/19529
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="Canais | FILMES E SÉRIES ",TBS FHD
+http://srv.maxptv.net:8080/Ricardo1/123456/20268
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="Tbs HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/tbs_N.png" group-title="Canais | FILMES E SÉRIES ",Tbs HD
+http://srv.maxptv.net:8080/Ricardo1/123456/39
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="Tbs SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/tbs_N.png" group-title="Canais | FILMES E SÉRIES ",Tbs SD
+http://srv.maxptv.net:8080/Ricardo1/123456/38
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://logos.nineuhd.xyz/tcm.png" group-title="Canais | FILMES",TCM HD
+http://srv.maxptv.net:8080/Ricardo1/123456/37
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://logos.nineuhd.xyz/tcm.png" group-title="Canais | FILMES",TCM SD
+http://srv.maxptv.net:8080/Ricardo1/123456/36
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="Canais | TELECINE",Telecine Action FHD
+http://srv.maxptv.net:8080/Ricardo1/123456/20247
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="Canais | TELECINE",Telecine Action HD
+http://srv.maxptv.net:8080/Ricardo1/123456/35
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="Canais | TELECINE",Telecine Action SD
+http://srv.maxptv.net:8080/Ricardo1/123456/34
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://yippekyyay.files.wordpress.com/2010/12/telecine_cult2.png" group-title="Canais | TELECINE",Telecine Cult FHD
+http://srv.maxptv.net:8080/Ricardo1/123456/20246
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="https://yippekyyay.files.wordpress.com/2010/12/telecine_cult2.png" group-title="Canais | TELECINE",Telecine Cult HD
+http://srv.maxptv.net:8080/Ricardo1/123456/33
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="https://yippekyyay.files.wordpress.com/2010/12/telecine_cult2.png" group-title="Canais | TELECINE",Telecine Cult SD
+http://srv.maxptv.net:8080/Ricardo1/123456/32
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Telecine Fun FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Canais | TELECINE",Telecine Fun FHD
+http://srv.maxptv.net:8080/Ricardo1/123456/20248
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD H265" tvg-logo="http://logos.nineuhd.xyz/telecinefunhd.png" group-title="Teste-h265",Telecine Fun FHD H265
+http://srv.maxptv.net:8080/Ricardo1/123456/33258
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Canais | TELECINE",Telecine Fun HD
+http://srv.maxptv.net:8080/Ricardo1/123456/31
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Canais | TELECINE",Telecine Fun SD
+http://srv.maxptv.net:8080/Ricardo1/123456/30
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png" group-title="Canais | TELECINE",Telecine Pipoca FHD
+http://srv.maxptv.net:8080/Ricardo1/123456/20230
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Telecine_Pipoca_2.png" group-title="Canais | TELECINE",Telecine Pipoca HD
+http://srv.maxptv.net:8080/Ricardo1/123456/29
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Telecine_Pipoca_2.png" group-title="Canais | TELECINE",Telecine Pipoca SD
+http://srv.maxptv.net:8080/Ricardo1/123456/28
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Canais | TELECINE",Telecine Premium FHD
+http://srv.maxptv.net:8080/Ricardo1/123456/20228
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://1.bp.blogspot.com/-4v5YG02wIkQ/Uy0naXP_HFI/AAAAAAAAhxg/TbM7durqJYU/s1600/tcpremium.png" group-title="Canais | TELECINE",Telecine Premium HD
+http://srv.maxptv.net:8080/Ricardo1/123456/27
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://1.bp.blogspot.com/-4v5YG02wIkQ/Uy0naXP_HFI/AAAAAAAAhxg/TbM7durqJYU/s1600/tcpremium.png" group-title="Canais | TELECINE",Telecine Premium SD
+http://srv.maxptv.net:8080/Ricardo1/123456/26
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="Canais | TELECINE",Telecine Touch FHD
+http://srv.maxptv.net:8080/Ricardo1/123456/20229
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="Canais | TELECINE",Telecine Touch HD
+http://srv.maxptv.net:8080/Ricardo1/123456/25
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="Canais | TELECINE",Telecine Touch SD
+http://srv.maxptv.net:8080/Ricardo1/123456/24
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais | HBO",HBO2 FHD
 http://srv.maxptv.net:8080/Ricardo1/123456/19528
 #EXTINF:-1 tvg-id="" tvg-name="HEROES - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",HEROES - 24H
@@ -993,10 +1041,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/121
 http://srv.maxptv.net:8080/Ricardo1/123456/120
 #EXTINF:-1 tvg-id="" tvg-name="IRMÃOS A OBRA - 24H" tvg-logo="" group-title="Canais |  24 HORAS",IRMÃOS A OBRA - 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/25625
-#EXTINF:-1 tvg-id="" tvg-name="IVETE SANGALO #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",IVETE SANGALO #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28443
-#EXTINF:-1 tvg-id="" tvg-name="J.QUEST #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",J.QUEST #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28442
 #EXTINF:-1 tvg-id="" tvg-name="Jaspion 24H" tvg-logo="" group-title="Canais |  24 HORAS",Jaspion 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/570
 #EXTINF:-1 tvg-id="" tvg-name="Jiraya  O Incrivel Ninja 24H" tvg-logo="https://http2.mlstatic.com/dvd-colecao-jiraya-D_NQ_NP_773820-MLB25537680599_042017-F.jpg" group-title="Canais |  24 HORAS",Jiraya  O Incrivel Ninja 24H

@@ -1075,10 +1075,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/117
 http://srv.maxptv.net:8080/Ricardo1/123456/116
 #EXTINF:-1 tvg-id="" tvg-name="MALHAÇÃO 1999 - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",MALHAÇÃO 1999 - 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/25537
-#EXTINF:-1 tvg-id="" tvg-name="Man to Man" tvg-logo="" group-title="Canais | [XXX] ADULTO",Man to Man
-http://srv.maxptv.net:8080/Ricardo1/123456/32147
-#EXTINF:-1 tvg-id="" tvg-name="MARILIA MENDONÇA #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",MARILIA MENDONÇA #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28432
 #EXTINF:-1 tvg-id="" tvg-name="MARVEL DEMOLIDOR - 24H" tvg-logo="" group-title="Canais |  24 HORAS",MARVEL DEMOLIDOR - 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/25634
 #EXTINF:-1 tvg-id="" tvg-name="Mazzaropi - 24H" tvg-logo="" group-title="Canais |  24 HORAS",Mazzaropi - 24H
@@ -1994,48 +1990,6 @@ http://srv.maxptv.net:8080/movie/Ricardo1/123456/21689.mp4
 http://srv.maxptv.net:8080/movie/Ricardo1/123456/21924.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Branca de Neve e os Sete Anões (1937)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l0dsoLXP2eifLQ0lFCYNC5Lcv0.jpg" group-title="Filmes | Disney +",Branca de Neve e os Sete Anões (1937)
 http://srv.maxptv.net:8080/movie/Ricardo1/123456/22178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Branquinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Drama",Branquinha
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/23005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: 1 Contos Eroticos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: 1 Contos Eroticos
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: 2 Contos Eroticos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: 2 Contos Eroticos
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: 3 Contos Eroticos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: 3 Contos Eroticos
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: A Campea Do Anal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: A Campea Do Anal
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Anal Total 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Anal Total 3
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Carol Fodeu E Levou Gozada Na Boca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Carol Fodeu E Levou Gozada Na Boca
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Como Fazer uma Mulher Gozar Muito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Como Fazer uma Mulher Gozar Muito
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Fazendo Gang Bang Ao Vivo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Fazendo Gang Bang Ao Vivo
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Fome de Sexo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Fome de Sexo
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Forum 27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Forum 27
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Historias de uma Gueixa 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Historias de uma Gueixa 1
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Invasao de Privacidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Invasao de Privacidade
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Julia Paes vs Regininha Poltergeist" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Julia Paes vs Regininha Poltergeist
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Louquinha 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Louquinha 2
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Ninfetas Gulosas 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Ninfetas Gulosas 2
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Novatas do Porno" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Novatas do Porno
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Regininha PolterGeist" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Regininha PolterGeist
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Teste de Atriz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Teste de Atriz
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Trepada Interracial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Trepada Interracial
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Vizinhas Gostosas 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0sC0TK6qZzkRiuqndJSZlbBbO2.jpg" group-title="Filmes | Editando não esta funcionando",Brasileirinhas: Vizinhas Gostosas 1
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/6679.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Breaking Bad: El Camino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4Il6gsDrOvrW5vi1ndTDR98UmS.jpg" group-title="Filmes | Drama",Breaking Bad: El Camino
 http://srv.maxptv.net:8080/movie/Ricardo1/123456/21793.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brian Banks: Um Sonho Interrompido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/debZGNmAjeXat4iLbRmmakXiFO7.jpg" group-title="Filmes | Drama",Brian Banks: Um Sonho Interrompido
@@ -4682,8 +4636,6 @@ http://srv.maxptv.net:8080/movie/Ricardo1/123456/28954.mp4
 http://srv.maxptv.net:8080/movie/Ricardo1/123456/7207.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wasp Network: Rede de Espiões (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SB4VhtTOER8VfeFPCA0HbnTsPN.jpg" group-title="Filmes | Lançamentos",Wasp Network: Rede de Espiões (2020)
 http://srv.maxptv.net:8080/movie/Ricardo1/123456/13122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Whindersson Nunes: Adulto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oilvqcZDNXpneiouCZEY2qZXmwp.jpg" group-title="Filmes | Comédia",Whindersson Nunes: Adulto
-http://srv.maxptv.net:8080/movie/Ricardo1/123456/8883.mp4
 #EXTINF:-1 tvg-id="" tvg-name="White Boy Rick" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIyqAObXHVHpJmbpun95d5iYlMx.jpg" group-title="Filmes | Drama",White Boy Rick
 http://srv.maxptv.net:8080/movie/Ricardo1/123456/21833.mp4
 #EXTINF:-1 tvg-id="" tvg-name="WiFi Ralph: Quebrando a Internet (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aaXBBT5Hwo7Oab8wyNyoN7z7mg.jpg" group-title="Filmes | Disney +",WiFi Ralph: Quebrando a Internet (2018)
@@ -4753,10 +4705,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/28213
 http://srv.maxptv.net:8080/Ricardo1/123456/28185
 #EXTINF:-1 tvg-id="" tvg-name="24H BOB CONSTRUTOR 1999" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H BOB CONSTRUTOR 1999
 http://srv.maxptv.net:8080/Ricardo1/123456/28237
-#EXTINF:-1 tvg-id="" tvg-name="24H BRUNO E MARRONE #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",24H BRUNO E MARRONE #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28430
-#EXTINF:-1 tvg-id="" tvg-name="24H CABARÉ #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",24H CABARÉ #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28427
 #EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO CAVERNA" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H CAPITÃO CAVERNA
 http://srv.maxptv.net:8080/Ricardo1/123456/28159
 #EXTINF:-1 tvg-id="" tvg-name="24H CAPITÃO CAVERNA" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H CAPITÃO CAVERNA

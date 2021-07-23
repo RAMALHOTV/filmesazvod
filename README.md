@@ -14,524 +14,7 @@ https://diulq15o39.zoeweb.tv/z437-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV ABERTA", SBT - TV Serra Dourada - (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-id="TV Cultura" tvg-chno="1" tvg-logo=""https://logodownload.org/wp-content/uploads/2017/11/tv-cultura-logo.png" group-title="Abertos", TV Cultura
-http://50.7.34.155:2200/BR/cultura-br/tracks-v1a1/mono.m3u8
 
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo=""" group-title="Abertos",SBT
-http://50.7.34.155:2200/BR/SBT_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", Globo SP
-http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", Globo RJ
-http://50.7.34.155:2200/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", Globo Nordeste
-http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", Globo Nordeste
-http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", RPC Curitiba
-http://50.7.34.155:2200/BR/RPC_TV_Curitiba_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", TV Anhanguera Goiania
-http://50.7.34.155:2200/BR/TV_Anhanguera_Gonia_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", EPTV Campinas
-http://50.7.34.155:2200/BR/EPTV_HD_Campinas-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", TV Verdes Mares Fortaleza
-http://50.7.34.155:2200/BR/TV_Verdes_Mares_HD_Fortaleza-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Rede Globo", RPC Cascavel
-http://50.7.34.155:2200/BR/Globo_Rpc_Cascavel_HD_-br/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos", Record SP
-http://50.7.34.155:2200/BR/RECORDTV_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos", RedeTV
-http://50.7.34.155:2200/BR/Rede_TV_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos", Gazeta
-http://50.7.34.155:2200/BR/Gazeta-br/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos", Band
-http://50.7.34.155:2200/BR/Band_HD-br/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos", Loading TV
-http://50.7.34.155:2200/BR/Loading_TV_-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos",TV Novo Tempo
-http://50.7.34.155:2200/BR/tvnovotempo-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos",Canal Rural
-http://50.7.34.155:2200/BR/canalrural-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos",TV Aparecida
-http://50.7.34.155:2200/BR/tvaparecida-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Abertos",TV Escola
-http://50.7.34.155:2200/BR/tvescola-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Notícias", CNN Brasil
-http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Notícias", Globo News
-http://50.7.34.155:2200/BR/Globo_News_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Notícias", Record News
-http://50.7.34.155:2200/BR/recordnews-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Mais Globosat
-http://50.7.34.155:2200/BR/Mais_Globosat_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", GNT
-http://50.7.34.155:2200/BR/GNT_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", SYFY
-http://50.7.34.155:2200/BR/SyFy_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Multishow
-http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Curta
-http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Food Network
-http://50.7.34.155:2200/BR/Food_Network_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Arte1
-http://50.7.34.155:2200/BR/Arte_1_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", Fashion
-http://50.7.34.155:2200/BR/Fashion_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", TLC
-http://50.7.34.155:2200/BR/TLC_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Variedades", TCM
-http://50.7.34.155:2200/BR/tcm-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO
-http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO 2
-http://50.7.34.155:2200/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Family
-http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Plus
-http://50.7.34.155:2200/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Mundi
-http://50.7.34.155:2200/BR/HBO_Mundi_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Pop
-http://50.7.34.155:2200/BR/HBO_Pop_Mundi_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Signature
-http://50.7.34.155:2200/BR/HBO_Signature_Mundi_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="HBO", HBO Xtreme
-http://50.7.34.155:2200/BR/HBO_Xtreme_Mundi_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Action
-http://50.7.34.155:2200/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Fun
-http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Pipoca
-http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Premium
-http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Touch
-http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Telecine", Telecine Cult
-http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Canal Brasil
-http://50.7.34.155:2200/BR/Canal_Brasil_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Universal TV
-http://50.7.34.155:2200/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Studio Universal
-http://50.7.34.155:2200/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Warner Channel
-http://50.7.34.155:2200/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Star Channel
-http://50.7.34.155:2200/BR/Fox_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Star Hits 1
-http://50.7.34.155:2200/BR/Fox_Premium_1_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Star Hits 2
-http://50.7.34.155:2200/BR/Fox_Premium_2_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Star Life
-http://50.7.34.155:2200/BR/Fox_Life_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Cinemax
-http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Megapix
-http://50.7.34.155:2200/BR/Megapix_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Space
-http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Film&Arts
-http://50.7.34.155:2200/BR/Film_Arts_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Fx
-http://50.7.34.155:2200/BR/Fx_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Sony Channel
-http://50.7.34.155:2200/BR/Canal_Sony_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", TBS
-http://50.7.34.155:2200/BR/TBS_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", Paramount
-http://50.7.34.155:2200/BR/Paramount_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", TNT
-http://50.7.34.155:2200/BR/TNT_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", TNT Séries
-http://50.7.34.155:2200/BR/TNT_Series_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", AMC
-http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="6" tvg-logo="" group-title="Filmes e Séries", A&E
-http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Sportv 1
-http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Sportv 2
-http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Sportv 3
-http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere Clubes
-http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 2
-http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 3
-http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 4
-http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 5
-http://50.7.34.155:2200/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 6
-http://50.7.34.155:2200/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 7
-http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Premiere 8
-http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", ESPN
-http://50.7.34.155:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", ESPN 2
-http://50.7.34.155:2200/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", ESPN Extra
-http://50.7.34.155:2200/BR/espnextra-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Fox Sports
-http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Fox Sports 2
-http://50.7.34.155:2200/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Combate
-http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Band Sports
-http://50.7.34.155:2200/BR/Band_Sports_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Estádio TNT Sports 2
-http://50.7.34.155:2200/BR/EI_PLUS_2_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Estádio TNT Sports 3
-http://50.7.34.155:2200/BR/EI_PLUS_3_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Estádio TNT Sports 4
-http://50.7.34.155:2200/BR/EI_PLUS_4_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Estádio TNT Sports 5
-http://50.7.34.155:2200/BR/EI_PLUS_5_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Estádio TNT Sports 6
-http://50.7.34.155:2200/BR/EI_PLUS_6_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esporte", Conmebol TV 4
-http://50.7.34.155:2200/BR/Conmebol_TV_04_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Música", MTV
-http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Música", MTV
-http://50.7.34.155:2200/BR/MTV_LIVE_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Música", BIS
-http://50.7.34.155:2200/BR/BIS_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Música", Travel Box Brasil
-http://50.7.34.155:2200/BR/Travel_Box_Brasil_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Fishtv
-http://50.7.34.155:2200/BR/fishtvhd-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Channel
-http://50.7.34.155:2200/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Science
-http://50.7.34.155:2200/BR/Discovery_Science_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery World
-http://50.7.34.155:2200/BR/Discovery_World_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Turbo
-http://50.7.34.155:2200/BR/Discovery_Turbo_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Home & Health
-http://50.7.34.155:2200/BR/Disc-_Home_Health_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Theater
-http://50.7.34.155:2200/BR/Discovery_Theater_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery ID
-http://50.7.34.155:2200/BR/ID_-_Investi_Discovery_HD/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Animal Planet
-http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nat Geo
-http://50.7.34.155:2200/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nat Geo Wild
-http://50.7.34.155:2200/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", History
-http://50.7.34.155:2200/BR/The_History_Channel_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", History 2
-http://50.7.34.155:2200/BR/History_2_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Disney XD
-http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Disney Junior
-http://50.7.34.155:2200/BR/disneyjunior-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Tooncast
-http://50.7.34.155:2200/BR/Tooncast-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Baby TV
-http://50.7.34.155:2200/BR/babytv-br/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nick Jr.
-http://50.7.34.155:2200/BR/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Disney Channel
-http://50.7.34.155:2200/BR/Dianey_Channel_HD-br/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nickelodeon
-http://50.7.34.155:2200/BR/Nickelodeon_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Gloob
-http://50.7.34.155:2200/BR/Gloob_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Boomerang
-http://50.7.34.155:2200/BR/Boomerang_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Discovery Kids
-http://50.7.34.155:2200/BR/Discovery_Ks_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Cartoon Network
-http://50.7.34.155:2200/BR/Cartoon_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", ZooMoo
-http://50.7.34.155:2200/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Play Kids
-http://50.7.34.155:2200/BR/PlayKids_-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF: -1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Documentários", Nat Geo Kids
-http://50.7.34.155:2200/BR/NatGeoKidsHD-br/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV ABERTA",Globo RJ HD
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV ABERTA",Globo RJ SD
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV ABERTA",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZLgQJeY.png" tvg-shift="0" group-title="TV ABERTA",RecordTV
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil" tvg-logo="https://imgur.com/ZgnRZ47.png" group-title="TV ABERTA",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
@@ -587,1008 +70,1675 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://logos.nineuhd.xyz/aandehd.png" group-title="Canais | FILMES E SÉRIES ",A&E FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20253
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://logos.nineuhd.xyz/aandehd.png" group-title="Canais | FILMES E SÉRIES ",A&E HD
-http://srv.maxptv.net:8080/Ricardo1/123456/236
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://logos.nineuhd.xyz/aandehd.png" group-title="Canais | FILMES E SÉRIES ",A&E SD
-http://srv.maxptv.net:8080/Ricardo1/123456/235
-#EXTINF:-1 tvg-id="" tvg-name="Alem da Imaginação - 24h" tvg-logo="" group-title="Canais |  24 HORAS",Alem da Imaginação - 24h
-http://srv.maxptv.net:8080/Ricardo1/123456/28241
-#EXTINF:-1 tvg-id="" tvg-name="Alem da Imaginação 2020 / 24h" tvg-logo="" group-title="Canais |  24 HORAS",Alem da Imaginação 2020 / 24h
-http://srv.maxptv.net:8080/Ricardo1/123456/28743
-#EXTINF:-1 tvg-id="" tvg-name="Alf, O ETeimoso" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",Alf, O ETeimoso
-http://srv.maxptv.net:8080/Ricardo1/123456/28658
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="Amc HD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",Amc HD
-http://srv.maxptv.net:8080/Ricardo1/123456/512
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",AMC SD
-http://srv.maxptv.net:8080/Ricardo1/123456/233
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://logos.nineuhd.xyz/animalplanethd.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20257
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://logos.nineuhd.xyz/animalplanethd.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet HD
-http://srv.maxptv.net:8080/Ricardo1/123456/232
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://logos.nineuhd.xyz/animalplanethd.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet SD
-http://srv.maxptv.net:8080/Ricardo1/123456/231
-#EXTINF:-1 tvg-id="" tvg-name="Arquivo X - 24h" tvg-logo="" group-title="Canais |  24 HORAS",Arquivo X - 24h
-http://srv.maxptv.net:8080/Ricardo1/123456/26712
-#EXTINF:-1 tvg-id="" tvg-name="AS NOIVAS DE COPACABANA - 24" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",AS NOIVAS DE COPACABANA - 24
-http://srv.maxptv.net:8080/Ricardo1/123456/25536
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Canais | FILMES E SÉRIES ",AXN FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20234
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Canais | FILMES E SÉRIES ",AXN HD
-http://srv.maxptv.net:8080/Ricardo1/123456/535
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://i.imgur.com/ZLpNJi8.png" group-title="Canais | FILMES E SÉRIES ",AXN SD
-http://srv.maxptv.net:8080/Ricardo1/123456/227
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV HD" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2018/01/baby-tv-logo-ar.jpg" group-title="Canais | INFANTIL",BabyTV HD
-http://srv.maxptv.net:8080/Ricardo1/123456/226
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV SD" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2018/01/baby-tv-logo-ar.jpg" group-title="Canais | INFANTIL",BabyTV SD
-http://srv.maxptv.net:8080/Ricardo1/123456/225
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Campinas HD" tvg-logo="http://logos.nineuhd.xyz/bandeirantes.png" group-title="Canais | ABERTOS",Band Campinas HD
-http://srv.maxptv.net:8080/Ricardo1/123456/242
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Campinas SD" tvg-logo="http://logos.nineuhd.xyz/bandeirantes.png" group-title="Canais | ABERTOS",Band Campinas SD
-http://srv.maxptv.net:8080/Ricardo1/123456/241
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP HD" tvg-logo="http://logos.nineuhd.xyz/bandeirantes.png" group-title="Canais | ABERTOS",Band SP HD
-http://srv.maxptv.net:8080/Ricardo1/123456/130
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP SD" tvg-logo="http://logos.nineuhd.xyz/bandeirantes.png" group-title="Canais | ABERTOS",Band SP SD
-http://srv.maxptv.net:8080/Ricardo1/123456/129
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports FHD H265" tvg-logo="http://logos.nineuhd.xyz/bandsportshd.png" group-title="Teste-h265",Band Sports FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33244
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports HD" tvg-logo="http://logos.nineuhd.xyz/bandsportshd.png" group-title="Canais | ESPORTES",Band Sports HD
-http://srv.maxptv.net:8080/Ricardo1/123456/221
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="Band Sports SD" tvg-logo="http://logos.nineuhd.xyz/bandsportshd.png" group-title="Canais | ESPORTES",Band Sports SD
-http://srv.maxptv.net:8080/Ricardo1/123456/220
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN E ROBIN - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",BATMAN E ROBIN - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25553
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 - 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",BEN 10 - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25638
-#EXTINF:-1 tvg-id="" tvg-name="BestRadio Brasil" tvg-logo="https://cdn-radiotime-logos.tunein.com/s97728q.png" group-title="Canais I MUSICAS I RÁDIOS",BestRadio Brasil
-http://srv.maxptv.net:8080/Ricardo1/123456/23673
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIZ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Canais | MUSICAIS",BIZ HD
-http://srv.maxptv.net:8080/Ricardo1/123456/219
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIZ SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Canais | MUSICAIS",BIZ SD
-http://srv.maxptv.net:8080/Ricardo1/123456/218
-#EXTINF:-1 tvg-id="" tvg-name="Black Kamen Rider 24H" tvg-logo="" group-title="Canais |  24 HORAS",Black Kamen Rider 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/537
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA T01 A 04 - 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",BOB ESPONJA T01 A 04 - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25633
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA T05 A 08 - 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",BOB ESPONJA T05 A 08 - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25640
-#EXTINF:-1 tvg-id="" tvg-name="BONES - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",BONES - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25614
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Canais | INFANTIL",Boomerang HD
-http://srv.maxptv.net:8080/Ricardo1/123456/217
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Canais | INFANTIL",Boomerang SD
-http://srv.maxptv.net:8080/Ricardo1/123456/216
-#EXTINF:-1 tvg-id="" tvg-name="BUBU E AS CORUJINHAS - 24h" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",BUBU E AS CORUJINHAS - 24h
-http://srv.maxptv.net:8080/Ricardo1/123456/25627
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Canal Band News HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais | NOTÍCIAS ",Canal Band News HD
-http://srv.maxptv.net:8080/Ricardo1/123456/224
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Canal Band News SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Canais | NOTÍCIAS ",Canal Band News SD
-http://srv.maxptv.net:8080/Ricardo1/123456/223
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="Canais | FILMES E SÉRIES ",Canal Brasil FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20227
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil FHD H265" tvg-logo="http://logos.nineuhd.xyz/canalbrasilhd.png" group-title="Teste-h265",Canal Brasil FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33263
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canal Canal Canção SD" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png" group-title="Canais | RELIGIÃO",Canal Canal Canção SD
-http://srv.maxptv.net:8080/Ricardo1/123456/214
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canal Canção Nova HD" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png" group-title="Canais | RELIGIÃO",Canal Canção Nova HD
-http://srv.maxptv.net:8080/Ricardo1/123456/215
-#EXTINF:-1 tvg-id="" tvg-name="Canal CSI 24H" tvg-logo="" group-title="Canais |  24 HORAS",Canal CSI 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/538
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Canal Curta! HD" tvg-logo="http://www.aaerj.org.br/wp-content/uploads/2014/04/logo.png" group-title="Canais | VARIEDADES",Canal Curta! HD
-http://srv.maxptv.net:8080/Ricardo1/123456/213
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Canal Curta! SD" tvg-logo="http://www.aaerj.org.br/wp-content/uploads/2014/04/logo.png" group-title="Canais | VARIEDADES",Canal Curta! SD
-http://srv.maxptv.net:8080/Ricardo1/123456/212
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="http://maxptv.net:25500/assets/images/logoscanais/canal_do_boi.jpg" group-title="Canais | ABERTOS",Canal do Boi HD
-http://srv.maxptv.net:8080/Ricardo1/123456/20467
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Canais | DOCUMENTÁRIOS ",Canal Futura HD
-http://srv.maxptv.net:8080/Ricardo1/123456/211
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Canal Futura SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png" group-title="Canais | DOCUMENTÁRIOS ",Canal Futura SD
-http://srv.maxptv.net:8080/Ricardo1/123456/210
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="Canal HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Canais | DOCUMENTÁRIOS ",Canal HGTV HD
-http://srv.maxptv.net:8080/Ricardo1/123456/193
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="Canal HGTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Canais | DOCUMENTÁRIOS ",Canal HGTV SD
-http://srv.maxptv.net:8080/Ricardo1/123456/192
-#EXTINF:-1 tvg-id="" tvg-name="Canal I Rittv" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png" group-title="Canais | RELIGIÃO",Canal I Rittv
-http://srv.maxptv.net:8080/Ricardo1/123456/23208
-#EXTINF:-1 tvg-id="" tvg-name="Canal I Tv Igreja Mundial do Poder de Deus" tvg-logo="https://i.pinimg.com/originals/4a/8c/06/4a8c065cd0114ea65784d92fbd500e82.png" group-title="Canais | RELIGIÃO",Canal I Tv Igreja Mundial do Poder de Deus
-http://srv.maxptv.net:8080/Ricardo1/123456/23207
-#EXTINF:-1 tvg-id="Off.br" tvg-name="Canal OFF HD" tvg-logo="http://localtrip.com.br/site/wp-content/uploads/2010/10/canaloff.jpg" group-title="Canais | VARIEDADES",Canal OFF HD
-http://srv.maxptv.net:8080/Ricardo1/123456/209
-#EXTINF:-1 tvg-id="Off.br" tvg-name="Canal OFF SD" tvg-logo="http://localtrip.com.br/site/wp-content/uploads/2010/10/canaloff.jpg" group-title="Canais | VARIEDADES",Canal OFF SD
-http://srv.maxptv.net:8080/Ricardo1/123456/208
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_Entertainment_Television_logo.png" group-title="Canais | FILMES E SÉRIES ",Canal Sony FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20233
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_Entertainment_Television_logo.png" group-title="Canais | FILMES E SÉRIES ",Canal Sony HD
-http://srv.maxptv.net:8080/Ricardo1/123456/53
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_Entertainment_Television_logo.png" group-title="Canais | FILMES E SÉRIES ",Canal Sony SD
-http://srv.maxptv.net:8080/Ricardo1/123456/52
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Canal Woohoo HD" tvg-logo="https://3.bp.blogspot.com/--K3pkI0Fhrw/Wh8dXDM8-LI/AAAAAAABBqw/aLYkE3xa-VsQWn0OeWaQ2YbLIqxq1p9GQCLcBGAs/s1600/woohoo.jpg" group-title="Canais | VARIEDADES",Canal Woohoo HD
-http://srv.maxptv.net:8080/Ricardo1/123456/207
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Canal Woohoo SD" tvg-logo="https://3.bp.blogspot.com/--K3pkI0Fhrw/Wh8dXDM8-LI/AAAAAAABBqw/aLYkE3xa-VsQWn0OeWaQ2YbLIqxq1p9GQCLcBGAs/s1600/woohoo.jpg" group-title="Canais | VARIEDADES",Canal Woohoo SD
-http://srv.maxptv.net:8080/Ricardo1/123456/206
-#EXTINF:-1 tvg-id="" tvg-name="CARGA PESADA - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",CARGA PESADA - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25543
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="" group-title="Canais | INFANTIL",Cartoon Network FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20267
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="Canais | INFANTIL",Cartoon Network HD
-http://srv.maxptv.net:8080/Ricardo1/123456/524
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="https://1.bp.blogspot.com/-7tds6UwE2SM/V1biccnDB0I/AAAAAAABg0s/ZKp2xPRrWsgjucW-mYu6qPlWeep3g28UQCLcB/s1600/cartoon%2Blogo.jpg" group-title="Canais | INFANTIL",Cartoon Network SD
-http://srv.maxptv.net:8080/Ricardo1/123456/204
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Chapolin 2 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/19541
-#EXTINF:-1 tvg-id="" tvg-name="CHERNOBYL - 24H" tvg-logo="" group-title="Canais |  24 HORAS",CHERNOBYL - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25631
-#EXTINF:-1 tvg-id="" tvg-name="Chris Country" tvg-logo="https://cdn-profiles.tunein.com/s196675/images/logoq.jpg?t=154117" group-title="Canais I MUSICAS I RÁDIOS",Chris Country
-http://srv.maxptv.net:8080/Ricardo1/123456/23664
-#EXTINF:-1 tvg-id="" tvg-name="CINE 007 - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",CINE 007 - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25616
-#EXTINF:-1 tvg-id="" tvg-name="Cine Action 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Action 24H Ultra HD
-http://srv.maxptv.net:8080/Ricardo1/123456/548
-#EXTINF:-1 tvg-id="" tvg-name="Cine Action HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Action HD
-http://srv.maxptv.net:8080/Ricardo1/123456/28657
-#EXTINF:-1 tvg-id="" tvg-name="Cine Aventura 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Aventura 24H Ultra HD
-http://srv.maxptv.net:8080/Ricardo1/123456/549
-#EXTINF:-1 tvg-id="" tvg-name="Cine Drama 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Drama 24H Ultra HD
-http://srv.maxptv.net:8080/Ricardo1/123456/550
-#EXTINF:-1 tvg-id="" tvg-name="Cine Family 24H" tvg-logo="" group-title="Canais |  24 HORAS",Cine Family 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/551
-#EXTINF:-1 tvg-id="" tvg-name="CINE FAROESTE - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",CINE FAROESTE - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25556
-#EXTINF:-1 tvg-id="" tvg-name="Cine Fiction 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Fiction 24H Ultra HD
-http://srv.maxptv.net:8080/Ricardo1/123456/536
-#EXTINF:-1 tvg-id="" tvg-name="Cine Fun 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Fun 24H Ultra HD
-http://srv.maxptv.net:8080/Ricardo1/123456/552
-#EXTINF:-1 tvg-id="" tvg-name="Cine Guerra 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Guerra 24H Ultra HD
-http://srv.maxptv.net:8080/Ricardo1/123456/1477
-#EXTINF:-1 tvg-id="" tvg-name="Cine Horror 24H Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Horror 24H Ultra HD
-http://srv.maxptv.net:8080/Ricardo1/123456/553
-#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24H ULTRA HD" tvg-logo="" group-title="Canais |  24 HORAS",CINE KIDS 24H ULTRA HD
-http://srv.maxptv.net:8080/Ricardo1/123456/554
-#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL - 24H" tvg-logo="" group-title="Canais |  24 HORAS",CINE MARVEL - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25486
-#EXTINF:-1 tvg-id="" tvg-name="CINE Nacionais 24H" tvg-logo="" group-title="Canais |  24 HORAS",CINE Nacionais 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/555
-#EXTINF:-1 tvg-id="" tvg-name="CINE SESSÃO DA TARDE" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",CINE SESSÃO DA TARDE
-http://srv.maxptv.net:8080/Ricardo1/123456/25484
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 01 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26714
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 02 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26715
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 03 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26716
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 04 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26717
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 05 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26718
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 06 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26719
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 07 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26720
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 08 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26721
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 09 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26722
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 10 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26723
-#EXTINF:-1 tvg-id="" tvg-name="Cine Terror HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Terror HD
-http://srv.maxptv.net:8080/Ricardo1/123456/28659
-#EXTINF:-1 tvg-id="" tvg-name="CINE TRAPALHÕES" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",CINE TRAPALHÕES
-http://srv.maxptv.net:8080/Ricardo1/123456/25480
-#EXTINF:-1 tvg-id="" tvg-name="CINE TRAPALHÕES" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",CINE TRAPALHÕES
-http://srv.maxptv.net:8080/Ricardo1/123456/27553
-#EXTINF:-1 tvg-id="" tvg-name="Cine Western - 24h" tvg-logo="" group-title="Canais |  24 HORAS",Cine Western - 24h
-http://srv.maxptv.net:8080/Ricardo1/123456/28742
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD H265" tvg-logo="http://logos.nineuhd.xyz/cinemaxhd.png" group-title="Teste-h265",Cinemax FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33243
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://1.bp.blogspot.com/-5EVGagNU8T8/VH3hGGkSaOI/AAAAAAAAkFE/E6Fo-mW6nK8/s1600/canal-max-hd.png" group-title="Canais | HBO",Cinemax HD
-http://srv.maxptv.net:8080/Ricardo1/123456/203
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://1.bp.blogspot.com/-5EVGagNU8T8/VH3hGGkSaOI/AAAAAAAAkFE/E6Fo-mW6nK8/s1600/canal-max-hd.png" group-title="Canais | HBO",Cinemax SD
-http://srv.maxptv.net:8080/Ricardo1/123456/202
-#EXTINF:-1 tvg-id="" tvg-name="Classicos Jogos Antigos" tvg-logo="" group-title="Canais | ESPORTES",Classicos Jogos Antigos
-http://srv.maxptv.net:8080/Ricardo1/123456/29537
-#EXTINF:-1 tvg-id="" tvg-name="Clube da Criança" tvg-logo="https://cdn-radiotime-logos.tunein.com/s229632q.png" group-title="Canais I MUSICAS I RÁDIOS",Clube da Criança
-http://srv.maxptv.net:8080/Ricardo1/123456/23652
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="Cnn Brasil HD" tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2019/03/CNN-Brasil-marca.jpg" group-title="Canais | NOTÍCIAS ",Cnn Brasil HD
-http://srv.maxptv.net:8080/Ricardo1/123456/8890
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="Cnn Brasil SD" tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2019/03/CNN-Brasil-marca.jpg" group-title="Canais | NOTÍCIAS ",Cnn Brasil SD
-http://srv.maxptv.net:8080/Ricardo1/123456/8891
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate FHD" tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Canais | PREMIERE",Combate FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/19526
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate FHD H265" tvg-logo="http://logos.nineuhd.xyz/combatehd.png" group-title="Teste-h265",Combate FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33264
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Canais | PREMIERE",COMBATE HD
-http://srv.maxptv.net:8080/Ricardo1/123456/201
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate SD" tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Canais | PREMIERE",Combate SD
-http://srv.maxptv.net:8080/Ricardo1/123456/200
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20263
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central HD
-http://srv.maxptv.net:8080/Ricardo1/123456/199
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central SD
-http://srv.maxptv.net:8080/Ricardo1/123456/198
-#EXTINF:-1 tvg-id="" tvg-name="Como eu Conheci a Sua Mae  24H" tvg-logo="" group-title="Canais |  24 HORAS",Como eu Conheci a Sua Mae  24H
-http://srv.maxptv.net:8080/Ricardo1/123456/567
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 1 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 1 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/18835
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 1 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 1 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/19039
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 2 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 2 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/18836
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 2 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 2 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/19040
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 3 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 3 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/18837
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 3 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 3 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/19041
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name=" CONMEBOL TV 4 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES", CONMEBOL TV 4 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/18838
-#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 4 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 4 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/19042
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | ABERTOS",Cultura HD
-http://srv.maxptv.net:8080/Ricardo1/123456/197
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | ABERTOS",Cultura SD
-http://srv.maxptv.net:8080/Ricardo1/123456/196
-#EXTINF:-1 tvg-id="" tvg-name="Cybercop 24H" tvg-logo="" group-title="Canais |  24 HORAS",Cybercop 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/1479
-#EXTINF:-1 tvg-id="" tvg-name="DANIEL TIGRE - 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",DANIEL TIGRE - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25628
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="" group-title="Canais I ESPORTES STREAMING",DAZN 1
-http://srv.maxptv.net:8080/Ricardo1/123456/19542
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="" group-title="Canais I ESPORTES STREAMING",DAZN 2
-http://srv.maxptv.net:8080/Ricardo1/123456/19543
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="" group-title="Canais I ESPORTES STREAMING",DAZN 3
-http://srv.maxptv.net:8080/Ricardo1/123456/19544
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="" group-title="Canais I ESPORTES STREAMING",DAZN 4
-http://srv.maxptv.net:8080/Ricardo1/123456/19545
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="" group-title="Canais I ESPORTES STREAMING",DAZN 5
-http://srv.maxptv.net:8080/Ricardo1/123456/20459
-#EXTINF:-1 tvg-id="" tvg-name="DE FÉRIAS COM O EX BRASIL - 24H" tvg-logo="" group-title="Canais |  24 HORAS",DE FÉRIAS COM O EX BRASIL - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25643
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home & Health FHD" tvg-logo="" group-title="Canais | VARIEDADES",Disc. Home & Health FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20265
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home & Health FHD H265" tvg-logo="http://logos.nineuhd.xyz/dischomeandhealthhd.png" group-title="Teste-h265",Disc. Home & Health FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33267
-#EXTINF:-1 tvg-id="" tvg-name="Disco Funk" tvg-logo="https://cdn-radiotime-logos.tunein.com/s288903q.png" group-title="Canais I MUSICAS I RÁDIOS",Disco Funk
-http://srv.maxptv.net:8080/Ricardo1/123456/23672
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel FHD" tvg-logo="http://logos.nineuhd.xyz/discoverychannelhd.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20225
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel FHD H265" tvg-logo="http://logos.nineuhd.xyz/discoverychannelhd.png" group-title="Teste-h265",Discovery Channel FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33271
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="http://logos.nineuhd.xyz/discoverychannelhd.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel HD
-http://srv.maxptv.net:8080/Ricardo1/123456/195
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="http://logos.nineuhd.xyz/discoverychannelhd.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel SD
-http://srv.maxptv.net:8080/Ricardo1/123456/194
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png" group-title="Canais | VARIEDADES",Discovery Home & Health HD
-http://srv.maxptv.net:8080/Ricardo1/123456/191
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png" group-title="Canais | VARIEDADES",Discovery Home & Health SD
-http://srv.maxptv.net:8080/Ricardo1/123456/190
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids FHD H265" tvg-logo="http://logos.nineuhd.xyz/discoverykidshd.png" group-title="Teste-h265",Discovery Kids FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33272
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://4.bp.blogspot.com/-cX0An73B5U8/Ugvz2VU5WII/AAAAAAABLdQ/BAv4QTE2h0I/s1600/dk+logo.jpg" group-title="Canais | INFANTIL",Discovery Kids HD
-http://srv.maxptv.net:8080/Ricardo1/123456/189
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="http://4.bp.blogspot.com/-cX0An73B5U8/Ugvz2VU5WII/AAAAAAABLdQ/BAv4QTE2h0I/s1600/dk+logo.jpg" group-title="Canais | INFANTIL",Discovery Kids SD
-http://srv.maxptv.net:8080/Ricardo1/123456/188
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD" tvg-logo="http://logos.nineuhd.xyz/discoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20258
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="http://logos.nineuhd.xyz/discoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science HD
-http://srv.maxptv.net:8080/Ricardo1/123456/187
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="http://logos.nineuhd.xyz/discoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science SD
-http://srv.maxptv.net:8080/Ricardo1/123456/186
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Theater HD
-http://srv.maxptv.net:8080/Ricardo1/123456/185
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/500px-2015_Discovery_theater_HD_logo.svg.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Theater SD
-http://srv.maxptv.net:8080/Ricardo1/123456/184
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://logos.nineuhd.xyz/discoveryturbohd.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20266
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo FHD H265" tvg-logo="http://logos.nineuhd.xyz/discoveryturbohd.png" group-title="Teste-h265",Discovery Turbo FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33268
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo HD
-http://srv.maxptv.net:8080/Ricardo1/123456/183
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo SD
-http://srv.maxptv.net:8080/Ricardo1/123456/182
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World FHD" tvg-logo="http://logos.nineuhd.xyz/discoveryworldhd.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20259
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD" tvg-logo="http://logos.nineuhd.xyz/discoveryworldhd.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World HD
-http://srv.maxptv.net:8080/Ricardo1/123456/181
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD" tvg-logo="http://logos.nineuhd.xyz/discoveryworldhd.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World SD
-http://srv.maxptv.net:8080/Ricardo1/123456/180
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel  HD" tvg-logo="http://3.bp.blogspot.com/-2j402qdyQy4/U9fzYHdD_VI/AAAAAAAAjQo/bpqg22XcTiU/s1600/DC_LGO_E_BLU_RGB-665x400.png" group-title="Canais | INFANTIL",Disney Channel  HD
-http://srv.maxptv.net:8080/Ricardo1/123456/179
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disney Channel FHD" tvg-logo="http://logos.nineuhd.xyz/disney.png" group-title="Canais | INFANTIL",Disney Channel FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20226
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel FHD H265" tvg-logo="http://logos.nineuhd.xyz/disneychannelhd.png" group-title="Teste-h265",Disney Channel FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33269
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="http://logos.nineuhd.xyz/disney.png" group-title="Canais | INFANTIL",Disney Channel SD
-http://srv.maxptv.net:8080/Ricardo1/123456/178
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Canais | INFANTIL",Disney Junior HD
-http://srv.maxptv.net:8080/Ricardo1/123456/177
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Canais | INFANTIL",Disney Junior SD
-http://srv.maxptv.net:8080/Ricardo1/123456/176
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD HD" tvg-logo="http://logos.nineuhd.xyz/disneyxd.png" group-title="Canais | INFANTIL",Disney XD HD
-http://srv.maxptv.net:8080/Ricardo1/123456/175
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD SD" tvg-logo="http://logos.nineuhd.xyz/disneyxd.png" group-title="Canais | INFANTIL",Disney XD SD
-http://srv.maxptv.net:8080/Ricardo1/123456/174
-#EXTINF:-1 tvg-id="" tvg-name="Dog TV HD" tvg-logo="https://image.roku.com/developer_channels/prod/e672caf2666b92af56cab1c839f1ad2669ba39a7aeb4705160680a956995d20d.png" group-title="Canais | DOCUMENTÁRIOS ",Dog TV HD
-http://srv.maxptv.net:8080/Ricardo1/123456/22987
-#EXTINF:-1 tvg-id="" tvg-name="Dog TV SD" tvg-logo="https://image.roku.com/developer_channels/prod/e672caf2666b92af56cab1c839f1ad2669ba39a7aeb4705160680a956995d20d.png" group-title="Canais | DOCUMENTÁRIOS ",Dog TV SD
-http://srv.maxptv.net:8080/Ricardo1/123456/22988
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO T01 A 06 - 24H" tvg-logo="" group-title="Canais |  24 HORAS",DOIS HOMENS E MEIO T01 A 06 - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25641
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO T07 A 12 - 24H" tvg-logo="" group-title="Canais |  24 HORAS",DOIS HOMENS E MEIO T07 A 12 - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25642
-#EXTINF:-1 tvg-id="" tvg-name="DR. House 1 24HR " tvg-logo="" group-title="Canais |  24 HORAS",DR. House 1 24HR 
-http://srv.maxptv.net:8080/Ricardo1/123456/568
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House 2 24H" tvg-logo="" group-title="Canais |  24 HORAS",Dr. House 2 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/20461
-#EXTINF:-1 tvg-id="" tvg-name="Dragoes  24H" tvg-logo="https://i.imgur.com/FjmeFap.jpg" group-title="Canais |  24 HORAS",Dragoes  24H
-http://srv.maxptv.net:8080/Ricardo1/123456/1480
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://www.logolynx.com/images/logolynx/75/7541e486cdf0ee247040c4bda9e9c153.png" group-title="Canais | FILMES E SÉRIES ",E! HD
-http://srv.maxptv.net:8080/Ricardo1/123456/516
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://www.logolynx.com/images/logolynx/75/7541e486cdf0ee247040c4bda9e9c153.png" group-title="Canais | FILMES E SÉRIES ",E! SD
-http://srv.maxptv.net:8080/Ricardo1/123456/172
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 1" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 1
-http://srv.maxptv.net:8080/Ricardo1/123456/20395
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 10" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 10
-http://srv.maxptv.net:8080/Ricardo1/123456/20235
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 2" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 2
-http://srv.maxptv.net:8080/Ricardo1/123456/20244
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 3 " tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 3 
-http://srv.maxptv.net:8080/Ricardo1/123456/20242
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 4" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 4
-http://srv.maxptv.net:8080/Ricardo1/123456/20241
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 5" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 5
-http://srv.maxptv.net:8080/Ricardo1/123456/20240
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 6" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 6
-http://srv.maxptv.net:8080/Ricardo1/123456/20239
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 7" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 7
-http://srv.maxptv.net:8080/Ricardo1/123456/20238
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 8" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 8
-http://srv.maxptv.net:8080/Ricardo1/123456/20237
-#EXTINF:-1 tvg-id="" tvg-name="EI Plus 9" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 9
-http://srv.maxptv.net:8080/Ricardo1/123456/20236
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV Campinas HD" tvg-logo="http://logos.nineuhd.xyz/eptvhdcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas HD
-http://srv.maxptv.net:8080/Ricardo1/123456/238
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV Campinas HD 2" tvg-logo="http://logos.nineuhd.xyz/eptvhdcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas HD 2
-http://srv.maxptv.net:8080/Ricardo1/123456/246
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV Campinas SD" tvg-logo="http://logos.nineuhd.xyz/eptvhdcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas SD
-http://srv.maxptv.net:8080/Ricardo1/123456/237
-#EXTINF:-1 tvg-id="" tvg-name="ESCOLINHA PROFESSOR RAIMUNDO ANOS 90 - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",ESCOLINHA PROFESSOR RAIMUNDO ANOS 90 - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25485
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="Espn  2 HD" tvg-logo="http://cdn.brztvs.live/logos/Esportes/ESPN%202.png" group-title="Canais | ESPORTES",Espn  2 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/171
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="Espn  2 SD " tvg-logo="http://cdn.brztvs.live/logos/Esportes/ESPN%202.png" group-title="Canais | ESPORTES",Espn  2 SD 
-http://srv.maxptv.net:8080/Ricardo1/123456/170
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD H265" tvg-logo="https://static.wixstatic.com/media/b13b12_9937485a4ea54510906e16db40e6ffd2~mv2.png" group-title="Teste-h265",ESPN 2 FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33247
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD H265" tvg-logo="https://static.wixstatic.com/media/b13b12_0d4a5d6ab3d14177921982223a7af984~mv2.png" group-title="Teste-h265",ESPN Brasil FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33246
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="Espn Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Canais | ESPORTES",Espn Brasil HD
-http://srv.maxptv.net:8080/Ricardo1/123456/27272
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="Espn Brasil SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Canais | ESPORTES",Espn Brasil SD
-http://srv.maxptv.net:8080/Ricardo1/123456/27273
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="Espn Extra  SD" tvg-logo="http://cdn.brztvs.live/logos/Esportes/ESPN%20EXTRA.png" group-title="Canais | ESPORTES",Espn Extra  SD
-http://srv.maxptv.net:8080/Ricardo1/123456/164
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD H265" tvg-logo="https://static.wixstatic.com/media/b13b12_91ae3187b1eb480492c19e090a3ca9a1~mv2.png" group-title="Teste-h265",ESPN Extra FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33245
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Espn Extra HD" tvg-logo="http://cdn.brztvs.live/logos/Esportes/ESPN%20EXTRA.png" group-title="Canais | ESPORTES",Espn Extra HD
-http://srv.maxptv.net:8080/Ricardo1/123456/165
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN FHD H265" tvg-logo="http://logos.nineuhd.xyz/espnhd.png" group-title="Teste-h265",ESPN FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33248
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="Espn HD" tvg-logo="http://logos.nineuhd.xyz/espnhd.png" group-title="Canais | ESPORTES",Espn HD
-http://srv.maxptv.net:8080/Ricardo1/123456/167
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="Espn SD" tvg-logo="http://logos.nineuhd.xyz/espnhd.png" group-title="Canais | ESPORTES",Espn SD
-http://srv.maxptv.net:8080/Ricardo1/123456/166
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TNT_Sports_%282021%29.png/800px-TNT_Sports_%282021%29.png" group-title="Canais I TNT SPORTS",ESTADIO TNT SPORT 01 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26738
-#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TNT_Sports_%282021%29.png/800px-TNT_Sports_%282021%29.png" group-title="Canais I TNT SPORTS",ESTADIO TNT SPORT 02 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/26739
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="" group-title="Canais |  24 HORAS",Eu a Patroa e as Crianças
-http://srv.maxptv.net:8080/Ricardo1/123456/321
-#EXTINF:-1 tvg-id="" tvg-name="Familia da Pesada 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Familia da Pesada 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/1481
-#EXTINF:-1 tvg-id="" tvg-name="Familia Dinossauro  24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Familia Dinossauro  24H
-http://srv.maxptv.net:8080/Ricardo1/123456/569
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Film&Arts HD" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais | FILMES",Film&Arts HD
-http://srv.maxptv.net:8080/Ricardo1/123456/163
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Film&Arts SD" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais | FILMES",Film&Arts SD
-http://srv.maxptv.net:8080/Ricardo1/123456/162
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD" tvg-logo="http://logos.nineuhd.xyz/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",FISH TV FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20256
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV HD" tvg-logo="http://logos.nineuhd.xyz/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",FISH TV HD
-http://srv.maxptv.net:8080/Ricardo1/123456/525
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://logos.nineuhd.xyz/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",Fish TV SD
-http://srv.maxptv.net:8080/Ricardo1/123456/161
-#EXTINF:-1 tvg-id="" tvg-name="FM O Dia" tvg-logo="https://cdn-profiles.tunein.com/s6998/images/logoq.png?t=153494" group-title="Canais I MUSICAS I RÁDIOS",FM O Dia
-http://srv.maxptv.net:8080/Ricardo1/123456/23677
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD" tvg-logo="http://www.vcfaz.tv/userpix/209_food_1.jpg" group-title="Canais | VARIEDADES",Food Network HD
-http://srv.maxptv.net:8080/Ricardo1/123456/158
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network SD" tvg-logo="http://www.vcfaz.tv/userpix/209_food_1.jpg" group-title="Canais | VARIEDADES",Food Network SD
-http://srv.maxptv.net:8080/Ricardo1/123456/159
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",FOX FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20274
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",FOX Life FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20245
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",FOX Life HD
-http://srv.maxptv.net:8080/Ricardo1/123456/156
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",FOX Life SD
-http://srv.maxptv.net:8080/Ricardo1/123456/155
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",FOX SD
-http://srv.maxptv.net:8080/Ricardo1/123456/150
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 FHD" tvg-logo="http://logos.nineuhd.xyz/foxsports2hd.png" group-title="Canais | ESPORTES",FOX Sports 2 FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20311
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 FHD H265" tvg-logo="http://logos.nineuhd.xyz/foxsports2hd.png" group-title="Teste-h265",Fox Sports 2 FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33249
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://logos.nineuhd.xyz/foxsports2hd.png" group-title="Canais | ESPORTES",Fox Sports 2 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/529
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 SD" tvg-logo="http://logos.nineuhd.xyz/foxsports2hd.png" group-title="Canais | ESPORTES",Fox Sports 2 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/148
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports FHD" tvg-logo="http://logos.nineuhd.xyz/foxsportshd.png" group-title="Canais | ESPORTES",FOX Sports FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20310
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports FHD H265" tvg-logo="http://logos.nineuhd.xyz/foxsportshd.png" group-title="Teste-h265",Fox Sports FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33250
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://logos.nineuhd.xyz/foxsportshd.png" group-title="Canais | ESPORTES",Fox Sports HD
-http://srv.maxptv.net:8080/Ricardo1/123456/147
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports SD" tvg-logo="http://logos.nineuhd.xyz/foxsportshd.png" group-title="Canais | ESPORTES",Fox Sports SD
-http://srv.maxptv.net:8080/Ricardo1/123456/146
-#EXTINF:-1 tvg-id="" tvg-name="France 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="Canais | MUNDO",France 24 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/23530
-#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 1" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 1
-http://srv.maxptv.net:8080/Ricardo1/123456/25573
-#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 10" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 10
-http://srv.maxptv.net:8080/Ricardo1/123456/25582
-#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 2" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 2
-http://srv.maxptv.net:8080/Ricardo1/123456/25574
-#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 3" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 3
-http://srv.maxptv.net:8080/Ricardo1/123456/25575
-#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 4" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 4
-http://srv.maxptv.net:8080/Ricardo1/123456/25576
-#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 5" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 5
-http://srv.maxptv.net:8080/Ricardo1/123456/25577
-#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 6" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 6
-http://srv.maxptv.net:8080/Ricardo1/123456/25578
-#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 7" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 7
-http://srv.maxptv.net:8080/Ricardo1/123456/25579
-#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 8" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 8
-http://srv.maxptv.net:8080/Ricardo1/123456/25580
-#EXTINF:-1 tvg-id="" tvg-name="Friends Temporada 9" tvg-logo="" group-title="Canais | FRIENDS 24h",Friends Temporada 9
-http://srv.maxptv.net:8080/Ricardo1/123456/25581
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20275
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX HD
-http://srv.maxptv.net:8080/Ricardo1/123456/145
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX SD
-http://srv.maxptv.net:8080/Ricardo1/123456/144
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24H" tvg-logo="https://i.ytimg.com/vi/gjz9PM4iWWg/maxresdefault.jpg" group-title="Canais | INFANTIL 24 HORAS",Galinha Pintadinha 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/1476
-#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA MINI - 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",GALINHA PINTADINHA MINI - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25629
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo -  TV Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg" group-title="Canais I GLOBO REGIONAIS",Globo -  TV Bahia
-http://srv.maxptv.net:8080/Ricardo1/123456/20914
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo - Globo Brasília" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Canais I GLOBO REGIONAIS",Globo - Globo Brasília
-http://srv.maxptv.net:8080/Ricardo1/123456/20923
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Globo - Nordeste" tvg-logo="https://globoesporte.globo.com/platb/files/169/2012/04/Globo_Nordeste.jpg" group-title="Canais I GLOBO REGIONAIS",Globo - Nordeste
-http://srv.maxptv.net:8080/Ricardo1/123456/20915
-#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo - RPC TV Curitiba" tvg-logo="https://s.glbimg.com/og/rg/f/original/2012/02/08/marca-rpc-tv-300x116.jpg" group-title="Canais I GLOBO REGIONAIS",Globo - RPC TV Curitiba
-http://srv.maxptv.net:8080/Ricardo1/123456/20917
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Globo - TV Tem Sorocaba" tvg-logo="https://pbs.twimg.com/profile_images/1014681353/logoTVTEMoficial2010_400x400.jpg" group-title="Canais I GLOBO REGIONAIS",Globo - TV Tem Sorocaba
-http://srv.maxptv.net:8080/Ricardo1/123456/20897
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo - TV Tem São José do Rio Preto" tvg-logo="https://s2.glbimg.com/Leo7Nylu8TwSKxAI-g2UdaGOxV4=/s.glbimg.com/og/rg/f/original/2015/10/23/editado_jo_1.jpg" group-title="Canais I GLOBO REGIONAIS",Globo - TV Tem São José do Rio Preto
-http://srv.maxptv.net:8080/Ricardo1/123456/20912
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="Globo - TV Verdes Mares Fortaleza" tvg-logo="https://i.ytimg.com/vi/ZrGy4KMHw9I/hqdefault.jpg" group-title="Canais I GLOBO REGIONAIS",Globo - TV Verdes Mares Fortaleza
-http://srv.maxptv.net:8080/Ricardo1/123456/20913
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ASA BRANCA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO ASA BRANCA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34140
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Canais I GLOBO REGIONAIS",GLOBO BAHIA SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34090
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAURU SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO BAURU SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34091
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO BRASILIA HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34092
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO CABO BRANCO FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO CABO BRANCO FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34141
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO CENTRO AMERICA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO CENTRO AMERICA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34093
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO CLUBE FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO CLUBE FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34142
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV CAMPINAS FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34094
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CENTRAL SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV CENTRAL SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34095
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV RIBEIRAO PRETO HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34096
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL MINAS HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV SUL MINAS HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34097
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIANIA SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO GOIANIA SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34098
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GRANDE MINAS FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO GRANDE MINAS FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34099
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO GRANDE MINAS HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO GRANDE MINAS HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34100
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEG. JUIZ DE FORA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTEG. JUIZ DE FORA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34143
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTEGRAÇÃO HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34101
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTER TV ALTO LITORAL FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34144
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTER TV CABUGI FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34145
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Canais I GLOBO REGIONAIS",Globo Inter TV Cabugi HD
-http://srv.maxptv.net:8080/Ricardo1/123456/25307
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTER TV DOS VALES FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34102
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MANAUS SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO MANAUS SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34103
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO MINAS FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34104
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO MINAS HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34105
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NORDESTE FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34106
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NORDESTE HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34107
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC CENTRO OESTE FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC CENTRO OESTE FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34146
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC FLORIANOPOLIS FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC FLORIANOPOLIS FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34108
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC FLORIANOPOLIS HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34109
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC TV BLUMENAU FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34110
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC TV CHAPECO FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34147
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CRICIUMA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC TV CRICIUMA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34148
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC TV JOINVILLE FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34149
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34111
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS TV CAXIAS DO SUL FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34150
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS TV PELOTAS FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34151
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PORTO ALEGRE FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS TV PORTO ALEGRE FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34112
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV SANTA CRUZ FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS TV SANTA CRUZ FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34152
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV SANTA MARIA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS TV SANTA MARIA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34159
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RECIFE FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34153
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO REDE AMAZONICA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34154
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Ribeirão SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="Canais | ABERTOS",Globo Ribeirão SD
-http://srv.maxptv.net:8080/Ricardo1/123456/986
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO SUL FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RIO SUL FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34155
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RJ FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34113
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Globo_RJ_%282015%29.png/revision/latest/scale-to-width-down/340?cb=20200726004259" group-title="Canais I GLOBO REGIONAIS",Globo RJ HD
-http://srv.maxptv.net:8080/Ricardo1/123456/20462
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RJ HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34114
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC FOZ DO IGUACU FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34156
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC MARINGA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34157
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAESE SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC PARANAESE SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34115
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PONTA GROSSA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC PONTA GROSSA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34158
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SANTA CRUZ SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO SANTA CRUZ SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34116
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO SERGIPE SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34117
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERRA MAR SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO SERRA MAR SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34118
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SOROCABA SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO SOROCABA SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34119
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO SP FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34120
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://logos.nineuhd.xyz/globosp.png" group-title="Canais | ABERTOS",Globo SP HD
-http://srv.maxptv.net:8080/Ricardo1/123456/72
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO SP HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34121
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://logos.nineuhd.xyz/globosp.png" group-title="Canais | ABERTOS",Globo SP SD
-http://srv.maxptv.net:8080/Ricardo1/123456/71
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SUL DE MINAS FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO SUL DE MINAS FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34122
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TRIBUNA SANTOS SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TRIBUNA SANTOS SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34123
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV ANHANGUERA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34124
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV BAHIA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34125
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BELEM HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV BELEM HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34126
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BRASILIA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV BRASILIA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34127
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV GAZETA ALAGOAS FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34128
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV GAZETA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34129
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV LIBERAL FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34130
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV MIRANTE FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34131
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV MIRANTE SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34132
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV MORENA FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34133
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV SERGIPE FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34134
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM S.J.R.PRETO HD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TEM S.J.R.PRETO HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34139
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FHD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV VERDES MARES FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/34135
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANG. S.J CAMPO SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO VANG. S.J CAMPO SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34136
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANG. TAUBATE SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO VANG. TAUBATE SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34137
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDES MARES FORTALEZA SD" tvg-logo="http://srv.maxptv.net:8080/images/21cdff68260d8db20807e6953b054037.png" group-title="Canais I GLOBO REGIONAIS",GLOBO VERDES MARES FORTALEZA SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34138
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews HD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/globonews-novamarca-mat01112017_ecc36a2c6ac19a7c7217527ac8719ab364361da5.jpeg" group-title="Canais | NOTÍCIAS ",GloboNews HD
-http://srv.maxptv.net:8080/Ricardo1/123456/143
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews SD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/globonews-novamarca-mat01112017_ecc36a2c6ac19a7c7217527ac8719ab364361da5.jpeg" group-title="Canais | NOTÍCIAS ",GloboNews SD
-http://srv.maxptv.net:8080/Ricardo1/123456/142
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="" group-title="Canais | INFANTIL",Gloob HD
-http://srv.maxptv.net:8080/Ricardo1/123456/530
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo-6.png" group-title="Canais | INFANTIL",Gloob SD
-http://srv.maxptv.net:8080/Ricardo1/123456/140
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD H265" tvg-logo="http://logos.nineuhd.xyz/gnthd.png" group-title="Teste-h265",GNT FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33260
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://g.glbimg.com/og/gs/gsat5/f/thumbs/materia/2018/03/29/gnt.png" group-title="Canais | VARIEDADES",GNT HD
-http://srv.maxptv.net:8080/Ricardo1/123456/139
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://g.glbimg.com/og/gs/gsat5/f/thumbs/materia/2018/03/29/gnt.png" group-title="Canais | VARIEDADES",GNT SD
-http://srv.maxptv.net:8080/Ricardo1/123456/138
-#EXTINF:-1 tvg-id="" tvg-name="Greatest Hits of Hip Hop" tvg-logo="https://cdn-radiotime-logos.tunein.com/s213410q.png" group-title="Canais I MUSICAS I RÁDIOS",Greatest Hits of Hip Hop
-http://srv.maxptv.net:8080/Ricardo1/123456/23541
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Canais | DOCUMENTÁRIOS ",H2 FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20260
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://3.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNw/5x4z2seCJVs/s1600/H2_1.png" group-title="Canais | DOCUMENTÁRIOS ",H2 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/137
-#EXTINF:-1 tvg-id="" tvg-name="H2 SD" tvg-logo="https://3.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNw/5x4z2seCJVs/s1600/H2_1.png" group-title="Canais | DOCUMENTÁRIOS ",H2 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/523
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais | HBO",HBO 2 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/135
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais | HBO",HBO 2 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/134
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://www.clipartmax.com/png/small/112-1124200_1-tvg-logo-http-hbo-signature.png" group-title="Canais | HBO",HBO Family FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/19530
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD H265" tvg-logo="http://logos.nineuhd.xyz/hbofamilyhd.png" group-title="Teste-h265",HBO Family FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33256
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Canais | HBO",HBO Family HD
-http://srv.maxptv.net:8080/Ricardo1/123456/133
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Canais | HBO",HBO Family SD
-http://srv.maxptv.net:8080/Ricardo1/123456/132
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Canais | HBO",HBO FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/19527
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD H265" tvg-logo="http://logos.nineuhd.xyz/hbohd.png" group-title="Teste-h265",HBO FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33255
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="Canais | HBO",HBO HD
-http://srv.maxptv.net:8080/Ricardo1/123456/131
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Canais | HBO",HBO MUNDI FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20316
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265" tvg-logo="https://static.wixstatic.com/media/b13b12_0e0ba1058f5843239e01e195fc6ac8f2~mv2.png" group-title="Teste-h265",HBO MUNDI FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33265
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Canais | HBO",HBO Mundi HD
-http://srv.maxptv.net:8080/Ricardo1/123456/521
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Canais | HBO",HBO Mundi SD
-http://srv.maxptv.net:8080/Ricardo1/123456/112
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="HBO Plus FHD H265" tvg-logo="http://logos.nineuhd.xyz/hboplushd.png" group-title="Teste-h265",HBO Plus FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33257
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canais | HBO",HBO Plus HD
-http://srv.maxptv.net:8080/Ricardo1/123456/128
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canais | HBO",HBO Plus SD
-http://srv.maxptv.net:8080/Ricardo1/123456/127
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-hbo-pop-252x252.png" group-title="Canais | HBO",HBO POP FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/19532
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Canais | HBO",HBO Pop HD
-http://srv.maxptv.net:8080/Ricardo1/123456/111
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Canais | HBO",HBO Pop SD
-http://srv.maxptv.net:8080/Ricardo1/123456/110
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="Canais | HBO",HBO SD
-http://srv.maxptv.net:8080/Ricardo1/123456/126
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Canais | HBO",HBO Signature FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/19531
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Canais | HBO",HBO Signature HD
-http://srv.maxptv.net:8080/Ricardo1/123456/531
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Canais | HBO",HBO Signature SD
-http://srv.maxptv.net:8080/Ricardo1/123456/124
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Canais | HBO",HBO XTREME FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20317
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265" tvg-logo="https://static.wixstatic.com/media/b13b12_ff18396c739e4b8cbb3cd50f6cbbc3d2~mv2.png" group-title="Teste-h265",HBO XTREME FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33266
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Canais | HBO",HBO Xtreme HD
-http://srv.maxptv.net:8080/Ricardo1/123456/520
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme SD" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="Canais | HBO",HBO Xtreme SD
-http://srv.maxptv.net:8080/Ricardo1/123456/113
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png" group-title="Canais | HBO",HBO+ FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/19529
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="Canais | FILMES E SÉRIES ",TBS FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20268
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="Tbs HD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/tbs_N.png" group-title="Canais | FILMES E SÉRIES ",Tbs HD
-http://srv.maxptv.net:8080/Ricardo1/123456/39
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="Tbs SD" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/tbs_N.png" group-title="Canais | FILMES E SÉRIES ",Tbs SD
-http://srv.maxptv.net:8080/Ricardo1/123456/38
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="http://logos.nineuhd.xyz/tcm.png" group-title="Canais | FILMES",TCM HD
-http://srv.maxptv.net:8080/Ricardo1/123456/37
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://logos.nineuhd.xyz/tcm.png" group-title="Canais | FILMES",TCM SD
-http://srv.maxptv.net:8080/Ricardo1/123456/36
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="Canais | TELECINE",Telecine Action FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20247
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="Canais | TELECINE",Telecine Action HD
-http://srv.maxptv.net:8080/Ricardo1/123456/35
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="Canais | TELECINE",Telecine Action SD
-http://srv.maxptv.net:8080/Ricardo1/123456/34
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://yippekyyay.files.wordpress.com/2010/12/telecine_cult2.png" group-title="Canais | TELECINE",Telecine Cult FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20246
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="https://yippekyyay.files.wordpress.com/2010/12/telecine_cult2.png" group-title="Canais | TELECINE",Telecine Cult HD
-http://srv.maxptv.net:8080/Ricardo1/123456/33
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="https://yippekyyay.files.wordpress.com/2010/12/telecine_cult2.png" group-title="Canais | TELECINE",Telecine Cult SD
-http://srv.maxptv.net:8080/Ricardo1/123456/32
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Telecine Fun FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Canais | TELECINE",Telecine Fun FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20248
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD H265" tvg-logo="http://logos.nineuhd.xyz/telecinefunhd.png" group-title="Teste-h265",Telecine Fun FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33258
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Canais | TELECINE",Telecine Fun HD
-http://srv.maxptv.net:8080/Ricardo1/123456/31
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Canais | TELECINE",Telecine Fun SD
-http://srv.maxptv.net:8080/Ricardo1/123456/30
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png" group-title="Canais | TELECINE",Telecine Pipoca FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20230
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Telecine_Pipoca_2.png" group-title="Canais | TELECINE",Telecine Pipoca HD
-http://srv.maxptv.net:8080/Ricardo1/123456/29
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Telecine_Pipoca_2.png" group-title="Canais | TELECINE",Telecine Pipoca SD
-http://srv.maxptv.net:8080/Ricardo1/123456/28
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Canais | TELECINE",Telecine Premium FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20228
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://1.bp.blogspot.com/-4v5YG02wIkQ/Uy0naXP_HFI/AAAAAAAAhxg/TbM7durqJYU/s1600/tcpremium.png" group-title="Canais | TELECINE",Telecine Premium HD
-http://srv.maxptv.net:8080/Ricardo1/123456/27
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://1.bp.blogspot.com/-4v5YG02wIkQ/Uy0naXP_HFI/AAAAAAAAhxg/TbM7durqJYU/s1600/tcpremium.png" group-title="Canais | TELECINE",Telecine Premium SD
-http://srv.maxptv.net:8080/Ricardo1/123456/26
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="Canais | TELECINE",Telecine Touch FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20229
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="Canais | TELECINE",Telecine Touch HD
-http://srv.maxptv.net:8080/Ricardo1/123456/25
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="Canais | TELECINE",Telecine Touch SD
-http://srv.maxptv.net:8080/Ricardo1/123456/24
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais | HBO",HBO2 FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/19528
-#EXTINF:-1 tvg-id="" tvg-name="HEROES - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",HEROES - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25548
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD H265" tvg-logo="https://static.wixstatic.com/media/b13b12_af00340137c049c18c78820e71e5ac5a~mv2.png" group-title="Teste-h265",HGTV FHD H265
-http://srv.maxptv.net:8080/Ricardo1/123456/33259
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel FHD" tvg-logo="http://logos.nineuhd.xyz/thehistorychannel.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20231
-#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="http://logos.nineuhd.xyz/thehistorychannel.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel HD
-http://srv.maxptv.net:8080/Ricardo1/123456/532
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel SD" tvg-logo="http://logos.nineuhd.xyz/thehistorychannel.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel SD
-http://srv.maxptv.net:8080/Ricardo1/123456/122
-#EXTINF:-1 tvg-id="" tvg-name="Hits 90's" tvg-logo="http://srv.maxptv.net:8080/images/e9b7dbf423719adac41be4f4b262eaff.png" group-title="Canais I MUSICAS I RÁDIOS",Hits 90's
-http://srv.maxptv.net:8080/Ricardo1/123456/23534
-#EXTINF:-1 tvg-id="" tvg-name="Hits Anos 80" tvg-logo="http://srv.maxptv.net:8080/images/b40fa9bf4cae2fe9f13b0b7833772443.png" group-title="Canais I MUSICAS I RÁDIOS",Hits Anos 80
-http://srv.maxptv.net:8080/Ricardo1/123456/23535
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Homem-Aranha 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/566
-#EXTINF:-1 tvg-id="" tvg-name="HULK CLÁSSICO - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",HULK CLÁSSICO - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25540
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Canais | FILMES E SÉRIES ",ID FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20254
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Canais | FILMES E SÉRIES ",ID HD
-http://srv.maxptv.net:8080/Ricardo1/123456/121
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Canais | FILMES E SÉRIES ",ID SD
-http://srv.maxptv.net:8080/Ricardo1/123456/120
-#EXTINF:-1 tvg-id="" tvg-name="IRMÃOS A OBRA - 24H" tvg-logo="" group-title="Canais |  24 HORAS",IRMÃOS A OBRA - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25625
-#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24H" tvg-logo="" group-title="Canais |  24 HORAS",Jaspion 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/570
-#EXTINF:-1 tvg-id="" tvg-name="Jiraya  O Incrivel Ninja 24H" tvg-logo="https://http2.mlstatic.com/dvd-colecao-jiraya-D_NQ_NP_773820-MLB25537680599_042017-F.jpg" group-title="Canais |  24 HORAS",Jiraya  O Incrivel Ninja 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/1475
-#EXTINF:-1 tvg-id="" tvg-name="KENAN E KEL" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",KENAN E KEL
-http://srv.maxptv.net:8080/Ricardo1/123456/25541
-#EXTINF:-1 tvg-id="" tvg-name="LADY NIGHT - 24H" tvg-logo="" group-title="Canais |  24 HORAS",LADY NIGHT - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25632
-#EXTINF:-1 tvg-id="" tvg-name="LARGADOS E PELADOS - 24H" tvg-logo="" group-title="Canais |  24 HORAS",LARGADOS E PELADOS - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25613
-#EXTINF:-1 tvg-id="" tvg-name="LARGADOS E PELADOS A TRIBO - 24H" tvg-logo="" group-title="Canais |  24 HORAS",LARGADOS E PELADOS A TRIBO - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25482
-#EXTINF:-1 tvg-id="" tvg-name="Larva 24H" tvg-logo="https://i.ytimg.com/vi/hNQ_NbLpgE4/maxresdefault.jpg" group-title="Canais | INFANTIL 24 HORAS",Larva 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/1474
-#EXTINF:-1 tvg-id="" tvg-name="LIE TO ME - 24H" tvg-logo="" group-title="Canais |  24 HORAS",LIE TO ME - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25644
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Lifetime FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20252
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Lifetime HD
-http://srv.maxptv.net:8080/Ricardo1/123456/522
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1024px-Lifetime_logo17.svg.png" group-title="Canais | FILMES E SÉRIES ",Lifetime SD
-http://srv.maxptv.net:8080/Ricardo1/123456/118
-#EXTINF:-1 tvg-id="" tvg-name="Lion Man 24H" tvg-logo="https://i.ytimg.com/vi/YafPBIT19ns/hqdefault.jpg" group-title="Canais |  24 HORAS",Lion Man 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/1473
-#EXTINF:-1 tvg-id="" tvg-name="Looney Tunnes 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Looney Tunnes 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/565
-#EXTINF:-1 tvg-id="" tvg-name="MAIARA E MARAISA #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",MAIARA E MARAISA #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28425
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Mais Globosat HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1200px-Mais_Globosat_logo_2016.svg.png" group-title="Canais | VARIEDADES",Mais Globosat HD
-http://srv.maxptv.net:8080/Ricardo1/123456/117
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Mais Globosat SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1200px-Mais_Globosat_logo_2016.svg.png" group-title="Canais | VARIEDADES",Mais Globosat SD
-http://srv.maxptv.net:8080/Ricardo1/123456/116
-#EXTINF:-1 tvg-id="" tvg-name="MALHAÇÃO 1999 - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",MALHAÇÃO 1999 - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25537
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL DEMOLIDOR - 24H" tvg-logo="" group-title="Canais |  24 HORAS",MARVEL DEMOLIDOR - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25634
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi - 24H" tvg-logo="" group-title="Canais |  24 HORAS",Mazzaropi - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/27640
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Megapix_logo_2011.png/1024px-Megapix_logo_2011.png" group-title="Canais | FILMES",Megapix HD
-http://srv.maxptv.net:8080/Ricardo1/123456/109
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Megapix_logo_2011.png/1024px-Megapix_logo_2011.png" group-title="Canais | FILMES",Megapix SD
-http://srv.maxptv.net:8080/Ricardo1/123456/108
-#EXTINF:-1 tvg-id="" tvg-name="MELHORES MOMENTOS TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TNT_Sports_%282021%29.png/800px-TNT_Sports_%282021%29.png" group-title="Canais I TNT SPORTS",MELHORES MOMENTOS TNT SPORTS
-http://srv.maxptv.net:8080/Ricardo1/123456/26736
-#EXTINF:-1 tvg-id="" tvg-name="MR. Bean 24H" tvg-logo="" group-title="Canais |  24 HORAS",MR. Bean 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/546
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://images.wikia.com/logopedia/images/8/86/MTV_Brazil.png" group-title="Canais | MUSICAIS",MTV FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20261
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://images.wikia.com/logopedia/images/8/86/MTV_Brazil.png" group-title="Canais | MUSICAIS",MTV HD
-http://srv.maxptv.net:8080/Ricardo1/123456/519
-#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1049px-MTV_Live_HD_2017_logo.svg.png" group-title="Canais | MUSICAIS",MTV Live HD
-http://srv.maxptv.net:8080/Ricardo1/123456/20465
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1200px-MTV_Logo_2010.svg.png" group-title="Canais | MUSICAIS",MTV SD
-http://srv.maxptv.net:8080/Ricardo1/123456/106
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="Canais | MUSICAIS",MULTISHOW HD
-http://srv.maxptv.net:8080/Ricardo1/123456/105
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/03/multishow-logo.png" group-title="Canais | MUSICAIS",MULTISHOW SD
-http://srv.maxptv.net:8080/Ricardo1/123456/104
-#EXTINF:-1 tvg-id="" tvg-name="Naruto 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Naruto 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/564
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids FHD" tvg-logo="" group-title="Canais | INFANTIL",Nat Geo Kids FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20312
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids HD" tvg-logo="" group-title="Canais | INFANTIL",Nat Geo Kids HD
-http://srv.maxptv.net:8080/Ricardo1/123456/518
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="Canais | INFANTIL",Nat Geo Kids SD
-http://srv.maxptv.net:8080/Ricardo1/123456/102
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="Nat Geo Wild HD" tvg-logo="http://logos.nineuhd.xyz/natgeowild.png" group-title="Canais | DOCUMENTÁRIOS ",Nat Geo Wild HD
-http://srv.maxptv.net:8080/Ricardo1/123456/101
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="Nat Geo Wild SD" tvg-logo="http://logos.nineuhd.xyz/natgeowild.png" group-title="Canais | DOCUMENTÁRIOS ",Nat Geo Wild SD
-http://srv.maxptv.net:8080/Ricardo1/123456/100
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild FHD" tvg-logo="http://logos.nineuhd.xyz/natgeowild.png" group-title="Canais | DOCUMENTÁRIOS ",NatGeo Wild FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20273
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="http://logos.nineuhd.xyz/nationalgeographic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20272
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="http://logos.nineuhd.xyz/nationalgeographic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic HD
-http://srv.maxptv.net:8080/Ricardo1/123456/99
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="http://logos.nineuhd.xyz/nationalgeographic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic SD
-http://srv.maxptv.net:8080/Ricardo1/123456/98
-#EXTINF:-1 tvg-id="" tvg-name="NATIRUTS #FIQUE EM CASA" tvg-logo="" group-title="Canais | #FIQUE EM CASA",NATIRUTS #FIQUE EM CASA
-http://srv.maxptv.net:8080/Ricardo1/123456/28435
-#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2011/08/nhk_world.png" group-title="Canais | MUNDO",NHK HD
-http://srv.maxptv.net:8080/Ricardo1/123456/97
-#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD" tvg-logo="http://www.jwave.com.br/wp-content/uploads/2011/08/nhk_world.png" group-title="Canais | MUNDO",NHK SD
-http://srv.maxptv.net:8080/Ricardo1/123456/96
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="Canais | INFANTIL",Nick Jr HD
-http://srv.maxptv.net:8080/Ricardo1/123456/95
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="Canais | INFANTIL",Nick Jr SD
-http://srv.maxptv.net:8080/Ricardo1/123456/94
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon FHD" tvg-logo="" group-title="Canais | INFANTIL",Nickelodeon FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20313
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="https://vignette.wikia.nocookie.net/vvikipedia/images/e/e4/559.png/revision/latest?cb=20140305100026&path-prefix=pt" group-title="Canais | INFANTIL",Nickelodeon HD
-http://srv.maxptv.net:8080/Ricardo1/123456/93
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="https://vignette.wikia.nocookie.net/vvikipedia/images/e/e4/559.png/revision/latest?cb=20140305100026&path-prefix=pt" group-title="Canais | INFANTIL",Nickelodeon SD
-http://srv.maxptv.net:8080/Ricardo1/123456/92
-#EXTINF:-1 tvg-id="" tvg-name="Os 3 patetas 24H" tvg-logo="" group-title="Canais |  24 HORAS",Os 3 patetas 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/19540
-#EXTINF:-1 tvg-id="" tvg-name="OS FEITICEIROS DE WAVERLY PLACE - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",OS FEITICEIROS DE WAVERLY PLACE - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25539
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Os Simpsons 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/563
-#EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES - 24H" tvg-logo="" group-title="Canais |  24 HORAS",OS TRAPALHÕES - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25635
-#EXTINF:-1 tvg-id="" tvg-name="OS URSINHOS CARINHOSOS" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",OS URSINHOS CARINHOSOS
-http://srv.maxptv.net:8080/Ricardo1/123456/28239
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24H" tvg-logo="https://i.imgur.com/1PxCVdn.png" group-title="Canais |  24 HORAS",Os Vingadores 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/1482
-#EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno HD" tvg-logo="http://logocanais.ddns.net/Logo/pai.png" group-title="Canais | RELIGIÃO",Pai Eterno HD
-http://srv.maxptv.net:8080/Ricardo1/123456/23850
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel FHD" tvg-logo="http://logos.nineuhd.xyz/paramounthd.png" group-title="Canais | FILMES",Paramount Channel FHD
-http://srv.maxptv.net:8080/Ricardo1/123456/20264
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel HD" tvg-logo="http://logos.nineuhd.xyz/paramounthd.png" group-title="Canais | FILMES",Paramount Channel HD
-http://srv.maxptv.net:8080/Ricardo1/123456/91
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel SD" tvg-logo="http://logos.nineuhd.xyz/paramounthd.png" group-title="Canais | FILMES",Paramount Channel SD
-http://srv.maxptv.net:8080/Ricardo1/123456/90
-#EXTINF:-1 tvg-id="" tvg-name="PEGADINHAS AMERICANAS" tvg-logo="" group-title="Canais |  24 HORAS",PEGADINHAS AMERICANAS
-http://srv.maxptv.net:8080/Ricardo1/123456/25538
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Peppa Pig 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/562
-http://srv.maxptv.net:8080/Ricardo1/123456/561
-#EXTINF:-1 tvg-id="" tvg-name="Pokemon 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Pokemon 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/560
-#EXTINF:-1 tvg-id="" tvg-name="POLICIA 24 HORAS - 24H" tvg-logo="" group-title="Canais |  24 HORAS",POLICIA 24 HORAS - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25621
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE BRASIL HD" tvg-logo="" group-title="Canais I Reality",POWER COUPLE BRASIL HD
-http://srv.maxptv.net:8080/Ricardo1/123456/31715
-#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS - 24H" tvg-logo="" group-title="Canais | CLÁSSICOS 24 HORAS ",POWER RANGERS - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25545
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 1 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/86
-#EXTINF:-1 tvg-id="Premiereinterativo.br" tvg-name="Premiere 1 HD2" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 1 HD2
-http://srv.maxptv.net:8080/Ricardo1/123456/247
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere 1 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 1 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/85
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="" group-title="Canais | PREMIERE",Premiere 2 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/13216
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD Alternativo" tvg-logo="" group-title="Canais | PREMIERE",Premiere 2 HD Alternativo
-http://srv.maxptv.net:8080/Ricardo1/123456/1462
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 2 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/83
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 3 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/82
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD Alternativo" tvg-logo="" group-title="Canais | PREMIERE",Premiere 3 HD Alternativo
-http://srv.maxptv.net:8080/Ricardo1/123456/1463
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 3 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/81
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 4 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/80
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD Alternativo" tvg-logo="" group-title="Canais | PREMIERE",Premiere 4 HD Alternativo
-http://srv.maxptv.net:8080/Ricardo1/123456/1464
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 4 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/79
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 5 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/78
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD Alternativo" tvg-logo="" group-title="Canais | PREMIERE",Premiere 5 HD Alternativo
-http://srv.maxptv.net:8080/Ricardo1/123456/1465
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 5 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/77
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 6 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/76
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 6 SD
-http://srv.maxptv.net:8080/Ricardo1/123456/75
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://1.bp.blogspot.com/-QVSpOHpSgGY/VTllX2dqDTI/AAAAAAAAXwM/mwDL3fCjRL0/s1600/premiere-fc.jpg" group-title="Canais | PREMIERE",Premiere 7 HD
-http://srv.maxptv.net:8080/Ricardo1/123456/74
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD Alternativo" tvg-logo="" group-title="Canais | PREMIERE",Premiere 7 HD Alternativo
-http://srv.maxptv.net:8080/Ricardo1/123456/1467
-#EXTINF:-1 tvg-id="" tvg-name="REALITY Z - 24H" tvg-logo="" group-title="Canais |  24 HORAS",REALITY Z - 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/25622
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record HD
-http://srv.maxptv.net:8080/Ricardo1/123456/240
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD 2" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record HD 2
-http://srv.maxptv.net:8080/Ricardo1/123456/68
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg" group-title="Canais | NOTÍCIAS ",Record News HD
-http://srv.maxptv.net:8080/Ricardo1/123456/67
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg" group-title="Canais | NOTÍCIAS ",Record News SD
-http://srv.maxptv.net:8080/Ricardo1/123456/66
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SD" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record SD
-http://srv.maxptv.net:8080/Ricardo1/123456/239
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP HD" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record SP HD
-http://srv.maxptv.net:8080/Ricardo1/123456/65
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record SP SD" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record SP SD
-http://srv.maxptv.net:8080/Ricardo1/123456/64
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record TV MG" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record TV MG
-http://srv.maxptv.net:8080/Ricardo1/123456/20630
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record TV Rio" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record TV Rio
-http://srv.maxptv.net:8080/Ricardo1/123456/20629
-#EXTINF:-1 tvg-id="" tvg-name="Rede Família SHD" tvg-logo="https://www.redefamilia.com.br/wp-content/uploads/2017/01/logo-rede-familia.png" group-title="Canais | RELIGIÃO",Rede Família SHD
-http://srv.maxptv.net:8080/Ricardo1/123456/31823
-#EXTINF:-1 tvg-id="" tvg-name="REDE MASSA SBT HD" tvg-logo="http://logos.nineuhd.xyz/sbt.png" group-title="Canais | ABERTOS",REDE MASSA SBT HD
-http://srv.maxptv.net:8080/Ricardo1/123456/34300
-#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais | RELIGIÃO",Rede Vida HD
-http://srv.maxptv.net:8080/Ricardo1/123456/62
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais | RELIGIÃO",Rede Vida SD
-http://srv.maxptv.net:8080/Ricardo1/123456/63
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV HD" tvg-logo="http://logos.nineuhd.xyz/redetv.png" group-title="Canais | ABERTOS",RedeTV HD
-http://srv.maxptv.net:8080/Ricardo1/123456/61
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV SD" tvg-logo="http://logos.nineuhd.xyz/redetv.png" group-title="Canais | ABERTOS",RedeTV SD
-http://srv.maxptv.net:8080/Ricardo1/123456/60
-
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="Rá -Tim Bum- HD" tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="Canais | INFANTIL",Rá -Tim Bum- HD
-http://srv.maxptv.net:8080/Ricardo1/123456/70
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="Rá- Tim- Bum SD" tvg-logo="http://images.mi.tv/channels/br_ra-tim-bum-1_m.png" group-title="Canais | INFANTIL",Rá- Tim- Bum SD
-http://srv.maxptv.net:8080/Ricardo1/123456/69
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="Sbt HD" tvg-logo="http://logos.nineuhd.xyz/sbt.png" group-title="Canais | ABERTOS",Sbt HD
-http://srv.maxptv.net:8080/Ricardo1/123456/59
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="Sbt SD" tvg-logo="http://logos.nineuhd.xyz/sbt.png" group-title="Canais | ABERTOS",Sbt SD
-http://srv.maxptv.net:8080/Ricardo1/123456/58
-#EXTINF:-1 tvg-id="" tvg-name="Sessão da Tarde 2 - 24h" tvg-logo="" group-title="Canais |  24 HORAS",Sessão da Tarde 2 - 24h
-http://srv.maxptv.net:8080/Ricardo1/123456/28240
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="1- GLOBO NOW SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",1- GLOBO NOW SD
+http://svrfit.com:25461/Ednar889967/536286/32645
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://img.apksum.com/65/com.aetn.aetv.watch/3.3.2/icon.png" group-title="CANAIS FILMES E SERIES",A&E SD
+http://svrfit.com:25461/Ednar889967/536286/228
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD 2" tvg-logo="https://img.apksum.com/65/com.aetn.aetv.watch/3.3.2/icon.png" group-title="CANAIS ALTERNATIVOS (2)",A&E SD 2
+http://svrfit.com:25461/Ednar889967/536286/44940
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/4COmsGO.png" group-title="CANAIS FILMES E SERIES",AMC SD
+http://svrfit.com:25461/Ednar889967/536286/232
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",AMC SD 2
+http://svrfit.com:25461/Ednar889967/536286/44938
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/CqfEXXq.png" group-title="CANAIS DOCUMENTARIOS",ANIMAL PLANET SD
+http://svrfit.com:25461/Ednar889967/536286/235
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",ANIMAL PLANET SD 2
+http://svrfit.com:25461/Ednar889967/536286/44936
+#EXTINF:-1 tvg-id="" tvg-name="ARAGUAIA TV SD " tvg-logo="https://focamundo.com/images/tvaracati/tv_aracati_oficial.png" group-title="CANAIS ABERTOS",ARAGUAIA TV SD 
+http://svrfit.com:25461/Ednar889967/536286/138838
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="CANAIS FILMES E SERIES",ARTE 1 HD
+http://svrfit.com:25461/Ednar889967/536286/236
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 SD" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="CANAIS FILMES E SERIES",ARTE 1 SD
+http://svrfit.com:25461/Ednar889967/536286/238
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/eZobXtp.png" group-title="CANAIS FILMES E SERIES",AXN SD
+http://svrfit.com:25461/Ednar889967/536286/241
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/eZobXtp.png" group-title="CANAIS FILMES E SERIES",AXN SD
+http://svrfit.com:25461/Ednar889967/536286/44934
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/tUJBJLn.png" group-title="CANAIS INFANTIL",BABY TV SD
+http://svrfit.com:25461/Ednar889967/536286/244
+#EXTINF:-1 tvg-id="band.bahia.br" tvg-name="BAND HD2" tvg-logo="https://i.imgur.com/ZOj6vCC.png" group-title="CANAIS ABERTOS",BAND HD2
+http://svrfit.com:25461/Ednar889967/536286/58895
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/My3GvmW.png" group-title="CANAIS NOTICIA",BAND NEWS SD
+http://svrfit.com:25461/Ednar889967/536286/250
+#EXTINF:-1 tvg-id="" tvg-name="BAND SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="CANAIS ALTERNATIVOS (2)",BAND SD 2
+http://svrfit.com:25461/Ednar889967/536286/44933
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP SD" tvg-logo="https://i.imgur.com/ZOj6vCC.png" group-title="CANAIS ABERTOS",BAND SP SD
+http://svrfit.com:25461/Ednar889967/536286/255
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.imgur.com/vP7OsoP.png" group-title="CANAIS ESPORTE NACIONAL",BAND SPORTS SD
+http://svrfit.com:25461/Ednar889967/536286/6674
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/VM7q5DP.png" group-title="CANAIS VARIEDADE E MUSICA",BIS SD
+http://svrfit.com:25461/Ednar889967/536286/261
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://i.imgur.com/Isybq80.png" group-title="CANAIS INFANTIL",BOOMERANG SD
+http://svrfit.com:25461/Ednar889967/536286/274
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.imgur.com/kTGqlcs.png" group-title="CANAIS ABERTOS",CANAL BRASIL SD
+http://svrfit.com:25461/Ednar889967/536286/276
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/JzgTWuj.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD
+http://svrfit.com:25461/Ednar889967/536286/280
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/dqCeBJF.png" group-title="CANAIS FILMES E SERIES",CINEMAX SD
+http://svrfit.com:25461/Ednar889967/536286/285
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/NewX8wG.png" group-title="CANAIS ESPORTE NACIONAL",COMBATE SD
+http://svrfit.com:25461/Ednar889967/536286/6675
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD 2" tvg-logo="https://i.imgur.com/NewX8wG.png" group-title="CANAIS ESPORTE NACIONAL",COMBATE SD 2
+http://svrfit.com:25461/Ednar889967/536286/6676
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE SD 2" tvg-logo="https://i.imgur.com/NewX8wG.png" group-title="CANAIS ALTERNATIVOS (2)",COMBATE SD 2
+http://svrfit.com:25461/Ednar889967/536286/44931
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://i.imgur.com/BQ0xy45.png" group-title="CANAIS VARIEDADE E MUSICA",COMEDY CENTRAL SD
+http://svrfit.com:25461/Ednar889967/536286/295
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD" tvg-logo="https://i.imgur.com/zHxRyDa.png" group-title="CANAIS VARIEDADE E MUSICA",CURTA! SD
+http://svrfit.com:25461/Ednar889967/536286/301
+#EXTINF:-1 tvg-id="BANDCAMPINASHD" tvg-name="DISCOVERY CHANNEL SD 2" tvg-logo="https://i.imgur.com/bChBXOx.png" group-title="CANAIS ALTERNATIVOS (2)",DISCOVERY CHANNEL SD 2
+http://svrfit.com:25461/Ednar889967/536286/44929
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL SD." tvg-logo="https://i.imgur.com/bChBXOx.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CHANNEL SD.
+http://svrfit.com:25461/Ednar889967/536286/308
+#EXTINF:-1 tvg-id="discovery.civilization.br" tvg-name="DISCOVERY CIVILIZATION SD" tvg-logo="https://i.imgur.com/4EH59qL.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CIVILIZATION SD
+http://svrfit.com:25461/Ednar889967/536286/318
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="https://i.imgur.com/75NuNkN.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY HOME & HEALTH SD
+http://svrfit.com:25461/Ednar889967/536286/323
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://i.imgur.com/ZC9sU87.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS SD
+http://svrfit.com:25461/Ednar889967/536286/332
+#EXTINF:-1 tvg-id="discovery.sciene.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://i.imgur.com/SO9qM3S.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY SCIENCE SD
+http://svrfit.com:25461/Ednar889967/536286/335
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://i.imgur.com/vG2lsl4.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY THEATER SD
+http://svrfit.com:25461/Ednar889967/536286/338
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC SD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY TLC SD
+http://svrfit.com:25461/Ednar889967/536286/340
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://i.imgur.com/kTrySJZ.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY TURBO SD
+http://svrfit.com:25461/Ednar889967/536286/343
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://i.imgur.com/kz7cLP3.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY WORLD SD
+http://svrfit.com:25461/Ednar889967/536286/346
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://i.imgur.com/TAIJxBU.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL SD
+http://svrfit.com:25461/Ednar889967/536286/349
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="DISNEY JR SD" tvg-logo="https://i.imgur.com/4NCrEbS.png" group-title="CANAIS INFANTIL",DISNEY JR SD
+http://svrfit.com:25461/Ednar889967/536286/352
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="DISNEY XD SD" tvg-logo="https://i.imgur.com/JgN9FoK.png" group-title="CANAIS INFANTIL",DISNEY XD SD
+http://svrfit.com:25461/Ednar889967/536286/355
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! SD" tvg-logo="https://i.imgur.com/SBqcgIY.png" group-title="CANAIS VARIEDADE E MUSICA",E! SD
+http://svrfit.com:25461/Ednar889967/536286/357
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN  SD (alter)" tvg-logo="https://i.imgur.com/69VH6Ln.png" group-title="CANAIS ESPORTE NACIONAL",ESPN  SD (alter)
+http://svrfit.com:25461/Ednar889967/536286/6678
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://i.imgur.com/ZkUIQ8X.png" group-title="CANAIS ESPORTE NACIONAL",ESPN BRASIL SD
+http://svrfit.com:25461/Ednar889967/536286/6679
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL SD 2" tvg-logo="https://i.imgur.com/ZkUIQ8X.png" group-title="CANAIS ESPORTE NACIONAL",ESPN BRASIL SD 2
+http://svrfit.com:25461/Ednar889967/536286/6742
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL SD 2" tvg-logo="https://i.imgur.com/ZkUIQ8X.png" group-title="CANAIS ALTERNATIVOS (2)",ESPN BRASIL SD 2
+http://svrfit.com:25461/Ednar889967/536286/44926
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://i.imgur.com/xWKhnHp.png" group-title="CANAIS ESPORTE NACIONAL",ESPN EXTRA SD
+http://svrfit.com:25461/Ednar889967/536286/12981
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/69VH6Ln.png" group-title="CANAIS ESPORTE NACIONAL",ESPN SD
+http://svrfit.com:25461/Ednar889967/536286/6677
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILME & ARTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CANAIS FILMES E SERIES",FILME & ARTS SD
+http://svrfit.com:25461/Ednar889967/536286/44823
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/jRPbrdl.png" group-title="CANAIS ESPORTE NACIONAL",FISH TV SD
+http://svrfit.com:25461/Ednar889967/536286/6682
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOOD NETWORK SD" tvg-logo="https://i.imgur.com/W1Kv5nS.png" group-title="CANAIS VARIEDADE E MUSICA",FOOD NETWORK SD
+http://svrfit.com:25461/Ednar889967/536286/477
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/NDrA2vP.png" group-title="CANAIS ESPORTE NACIONAL",FOX SPORTS 2 SD
+http://svrfit.com:25461/Ednar889967/536286/6681
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 SD 2" tvg-logo="https://i.imgur.com/NDrA2vP.png" group-title="CANAIS ALTERNATIVOS (2)",FOX SPORTS 2 SD 2
+http://svrfit.com:25461/Ednar889967/536286/44923
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://i.imgur.com/clrUXra.png" group-title="CANAIS ESPORTE NACIONAL",FOX SPORTS SD
+http://svrfit.com:25461/Ednar889967/536286/6680
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS SD" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",FOX SPORTS SD
+http://svrfit.com:25461/Ednar889967/536286/44921
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://i.imgur.com/4YmmPKN.png" group-title="CANAIS FILMES E SERIES",FX SD
+http://svrfit.com:25461/Ednar889967/536286/497
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="GAZETA SD" tvg-logo="https://i.imgur.com/GiLhhKt.png" group-title="CANAIS ABERTOS",GAZETA SD
+http://svrfit.com:25461/Ednar889967/536286/391
+#EXTINF:-1 tvg-id="" tvg-name="GIDEOES SD" tvg-logo="https://i.postimg.cc/ZqCrM3sc/1524622547-e07f8fbdf79217547290e012744ef523d12d8bad.jpg" group-title="CANAIS RELIGIOSOS",GIDEOES SD
+http://svrfit.com:25461/Ednar889967/536286/224
+#EXTINF:-1 tvg-id="TVAnhangueraGoiania" tvg-name="GLOBO ANHANGUERA GOIANIA SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO ANHANGUERA GOIANIA SD
+http://svrfit.com:25461/Ednar889967/536286/499
+#EXTINF:-1 tvg-id="AMC" tvg-name="GLOBO ANHANGUERA GOIANIA SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO ANHANGUERA GOIANIA SD 2
+http://svrfit.com:25461/Ednar889967/536286/44919
+#EXTINF:-1 tvg-id="AMC" tvg-name="GLOBO BAHIA SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO BAHIA SD 2
+http://svrfit.com:25461/Ednar889967/536286/44909
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CENTRO AMERICA CUIABA SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO CENTRO AMERICA CUIABA SD 2
+http://svrfit.com:25461/Ednar889967/536286/44918
+#EXTINF:-1 tvg-id="TVCentroAmericaCuiaba" tvg-name="GLOBO CUIABA SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO CUIABA SD
+http://svrfit.com:25461/Ednar889967/536286/500
+#EXTINF:-1 tvg-id="EPTVCampinas" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO EPTV CAMPINAS SD
+http://svrfit.com:25461/Ednar889967/536286/501
+#EXTINF:-1 tvg-id="EPTVCampinas" tvg-name="GLOBO EPTV CAMPINAS SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO EPTV CAMPINAS SD 2
+http://svrfit.com:25461/Ednar889967/536286/44917
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO INTER TV CABUGI SD 2
+http://svrfit.com:25461/Ednar889967/536286/44914
+#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO MINAS SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO MINAS SD 2
+http://svrfit.com:25461/Ednar889967/536286/44838
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://i.imgur.com/qduM5KS.png" group-title="CANAIS NOTICIA",GLOBO NEWS SD
+http://svrfit.com:25461/Ednar889967/536286/508
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO NORDESTE SD 2
+http://svrfit.com:25461/Ednar889967/536286/44913
+#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="Globo NSC Joinville SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",Globo NSC Joinville SD
+http://svrfit.com:25461/Ednar889967/536286/44821
+#EXTINF:-1 tvg-id="AMC" tvg-name="GLOBO RBS PORTO ALEGRE SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO RBS PORTO ALEGRE SD 2
+http://svrfit.com:25461/Ednar889967/536286/44912
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus" tvg-name="GLOBO REDE AMAZONICA MANAUS SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO REDE AMAZONICA MANAUS SD 2
+http://svrfit.com:25461/Ednar889967/536286/44911
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO RJ SD
+http://svrfit.com:25461/Ednar889967/536286/44830
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO RJ SD 2
+http://svrfit.com:25461/Ednar889967/536286/44910
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus" tvg-name="GLOBO RPC FOZ DO IGUACU" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO RPC FOZ DO IGUACU
+http://svrfit.com:25461/Ednar889967/536286/498
+#EXTINF:-1 tvg-id="Example" tvg-name="GLOBO RPC TV CURITIBA SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO RPC TV CURITIBA SD
+http://svrfit.com:25461/Ednar889967/536286/44820
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="GLOBO SERGIPE SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO SERGIPE SD
+http://svrfit.com:25461/Ednar889967/536286/10640
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO SP SD
+http://svrfit.com:25461/Ednar889967/536286/44831
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO SP SD 2
+http://svrfit.com:25461/Ednar889967/536286/44908
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TRIBUNA SANTOS SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO TRIBUNA SANTOS SD 2
+http://svrfit.com:25461/Ednar889967/536286/44907
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO TV BAHIA SD
+http://svrfit.com:25461/Ednar889967/536286/520
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO TV BAHIA SD 2
+http://svrfit.com:25461/Ednar889967/536286/44841
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO TV LIBERAL BELEM SD 2
+http://svrfit.com:25461/Ednar889967/536286/44906
+#EXTINF:-1 tvg-id="TVTemSaoJosedoRioPreto" tvg-name="GLOBO TV TEM S.J. RIO PRETO SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO TV TEM S.J. RIO PRETO SD
+http://svrfit.com:25461/Ednar889967/536286/44945
+#EXTINF:-1 tvg-id="TVTemSaoJosedoRioPreto" tvg-name="GLOBO TV TEM SJ DO RIO PRETO SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO TV TEM SJ DO RIO PRETO SD 2
+http://svrfit.com:25461/Ednar889967/536286/105
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SJ DO RIO PRETO SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO TV TEM SJ DO RIO PRETO SD 2
+http://svrfit.com:25461/Ednar889967/536286/44904
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO TV TEM SOROCABA SD 2
+http://svrfit.com:25461/Ednar889967/536286/44903
+#EXTINF:-1 tvg-id="TVTemSorocaba" tvg-name="GLOBO TV TEM SOROCADA SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO TV TEM SOROCADA SD 2
+http://svrfit.com:25461/Ednar889967/536286/112
+#EXTINF:-1 tvg-id="TVTribunaSantos" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO TV TRIBUNA SANTOS SD
+http://svrfit.com:25461/Ednar889967/536286/31470
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S. J. CAMPOS SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO TV VANGUARDA S. J. CAMPOS SD
+http://svrfit.com:25461/Ednar889967/536286/58892
+#EXTINF:-1 tvg-id="TVVanguardaSJdosCampos" tvg-name="GLOBO VANGUARDA SJ DOS CAMPOS SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO VANGUARDA SJ DOS CAMPOS SD 2
+http://svrfit.com:25461/Ednar889967/536286/113
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANGUARDA SJ DOS CAMPOS SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO VANGUARDA SJ DOS CAMPOS SD 2
+http://svrfit.com:25461/Ednar889967/536286/44902
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDES MARES FORTALEZA SD 2" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO VERDES MARES FORTALEZA SD 2
+http://svrfit.com:25461/Ednar889967/536286/44901
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBOSAT SD
+http://svrfit.com:25461/Ednar889967/536286/527
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="http://i.imgur.com/ipOPsEQ.png" group-title="CANAIS INFANTIL",GLOOB SD
+http://svrfit.com:25461/Ednar889967/536286/530
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/v7DYTx9.png" group-title="CANAIS VARIEDADE E MUSICA",GNT SD
+http://svrfit.com:25461/Ednar889967/536286/532
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD 2" tvg-logo="https://i.imgur.com/v7DYTx9.png" group-title="CANAIS VARIEDADE E MUSICA",GNT SD 2
+http://svrfit.com:25461/Ednar889967/536286/116
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",GNT SD 2
+http://svrfit.com:25461/Ednar889967/536286/44899
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 SD" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1555990853_h2.png" group-title="CANAIS DOCUMENTARIOS",H2 SD
+http://svrfit.com:25461/Ednar889967/536286/535
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HBO2_b_p.png" group-title="CANAIS HBO",HBO 2 SD
+http://svrfit.com:25461/Ednar889967/536286/6744
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS HBO",HBO FAMILY FHD
+http://svrfit.com:25461/Ednar889967/536286/6745
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS HBO",HBO FAMILY SD
+http://svrfit.com:25461/Ednar889967/536286/6747
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANAIS HBO",HBO MUNDI SD
+http://svrfit.com:25461/Ednar889967/536286/563
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO PLUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/400px-HBO_Plus.png" group-title="CANAIS HBO",HBO PLUS SD
+http://svrfit.com:25461/Ednar889967/536286/6746
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD" tvg-logo="https://iconape.com/wp-content/files/bc/122593/png/HBO_Pop.png" group-title="CANAIS HBO",HBO POP SD
+http://svrfit.com:25461/Ednar889967/536286/565
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://skypacotes.com/blog/wp-content/uploads/2019/11/programacao-HBO.png" group-title="CANAIS HBO",HBO SD
+http://svrfit.com:25461/Ednar889967/536286/6743
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO XTREME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1024px-HBO_Xtreme.svg.png" group-title="CANAIS HBO",HBO XTREME SD
+http://svrfit.com:25461/Ednar889967/536286/562
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HGTV_2010.png/1200px-HGTV_2010.png" group-title="CANAIS DOCUMENTARIOS",HGTV SD
+http://svrfit.com:25461/Ednar889967/536286/140823
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://i.imgur.com/mnhGuxB.png" group-title="CANAIS DOCUMENTARIOS",HISTORY CHANNEL SD
+http://svrfit.com:25461/Ednar889967/536286/552
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL SD 2" tvg-logo="https://i.imgur.com/mnhGuxB.png" group-title="CANAIS DOCUMENTARIOS",HISTORY CHANNEL SD 2
+http://svrfit.com:25461/Ednar889967/536286/119
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",HISTORY CHANNEL SD 2
+http://svrfit.com:25461/Ednar889967/536286/44896
+#EXTINF:-1 tvg-id="" tvg-name="ID - INVESTIGACAO DISCOVERY SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",ID - INVESTIGACAO DISCOVERY SD 2
+http://svrfit.com:25461/Ednar889967/536286/44894
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID INVESTIGACAO DISCOVERY SD" tvg-logo="https://i.imgur.com/VeXxv2x.png" group-title="CANAIS DOCUMENTARIOS",ID INVESTIGACAO DISCOVERY SD
+http://svrfit.com:25461/Ednar889967/536286/555
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGACAO DISCOVERY SD 2" tvg-logo="https://i.imgur.com/VeXxv2x.png" group-title="CANAIS DOCUMENTARIOS",INVESTIGACAO DISCOVERY SD 2
+http://svrfit.com:25461/Ednar889967/536286/121
+#EXTINF:-1 tvg-id="AE" tvg-name="k-POP TV SD" tvg-logo="https://www.linflux.com/wp-content/uploads/2020/05/41bk-Y4VL8L.png" group-title="CANAIS VARIEDADE E MUSICA",k-POP TV SD
+http://svrfit.com:25461/Ednar889967/536286/596
+#EXTINF:-1 tvg-id="" tvg-name="LIBERTADORES 1 SD" tvg-logo="https://i.pinimg.com/originals/11/2b/65/112b65d08e4b1ea4a44cd3ea7f532b5a.png" group-title="CANAIS ESPORTE NACIONAL",LIBERTADORES 1 SD
+http://svrfit.com:25461/Ednar889967/536286/32554
+#EXTINF:-1 tvg-id="" tvg-name="LIBERTADORES 2 SD" tvg-logo="https://i.pinimg.com/originals/11/2b/65/112b65d08e4b1ea4a44cd3ea7f532b5a.png" group-title="CANAIS ESPORTE NACIONAL",LIBERTADORES 2 SD
+http://svrfit.com:25461/Ednar889967/536286/32556
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME SD" tvg-logo="https://i.imgur.com/BJZrEHb.png" group-title="CANAIS VARIEDADE E MUSICA",LIFETIME SD
+http://svrfit.com:25461/Ednar889967/536286/557
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME SD 2" tvg-logo="https://i.imgur.com/BJZrEHb.png" group-title="CANAIS ALTERNATIVOS (2)",LIFETIME SD 2
+http://svrfit.com:25461/Ednar889967/536286/123
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",LIFETIME SD 2
+http://svrfit.com:25461/Ednar889967/536286/44892
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES E SERIES",MEGAPIX SD
+http://svrfit.com:25461/Ednar889967/536286/568
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png" group-title="CANAIS VARIEDADE E MUSICA",MTV SD
+http://svrfit.com:25461/Ednar889967/536286/572
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW SD" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="CANAIS VARIEDADE E MUSICA",MULTISHOW SD
+http://svrfit.com:25461/Ednar889967/536286/575
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://i.imgur.com/vbm342j.png" group-title="CANAIS VARIEDADE E MUSICA",MUSIC BOX BRAZIL SD
+http://svrfit.com:25461/Ednar889967/536286/576
+#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NATGEO KIDS SD" tvg-logo="https://i.imgur.com/BtJZzXn.png" group-title="CANAIS INFANTIL",NATGEO KIDS SD
+http://svrfit.com:25461/Ednar889967/536286/579
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO WILD SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS DOCUMENTARIOS",NATGEO WILD SD
+http://svrfit.com:25461/Ednar889967/536286/582
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS DOCUMENTARIOS",NATIONAL GEOGRAPHIC SD
+http://svrfit.com:25461/Ednar889967/536286/585
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC SD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS DOCUMENTARIOS",NATIONAL GEOGRAPHIC SD 2
+http://svrfit.com:25461/Ednar889967/536286/126
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",NATIONAL GEOGRAPHIC SD 2
+http://svrfit.com:25461/Ednar889967/536286/44890
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD" tvg-logo="https://i.imgur.com/raQSfvK.png" group-title="CANAIS INFANTIL",NICK JR SD
+http://svrfit.com:25461/Ednar889967/536286/588
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://i.imgur.com/BuRTIdy.png" group-title="CANAIS INFANTIL",NICKELODEON SD
+http://svrfit.com:25461/Ednar889967/536286/590
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/883Enxv.png" group-title="CANAIS ESPORTE NACIONAL",OFF SD
+http://svrfit.com:25461/Ednar889967/536286/6687
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1112px-Paramount_Channel_logo.svg.png" group-title="CANAIS FILMES E SERIES",PARAMOUNT CHANNEL SD
+http://svrfit.com:25461/Ednar889967/536286/595
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 2 SD
+http://svrfit.com:25461/Ednar889967/536286/601
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 3 SD
+http://svrfit.com:25461/Ednar889967/536286/604
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 3 SD 2
+http://svrfit.com:25461/Ednar889967/536286/129
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE 3 SD 2
+http://svrfit.com:25461/Ednar889967/536286/44887
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 4 SD
+http://svrfit.com:25461/Ednar889967/536286/607
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 4 SD 2
+http://svrfit.com:25461/Ednar889967/536286/131
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE 4 SD 2
+http://svrfit.com:25461/Ednar889967/536286/44885
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 5 SD
+http://svrfit.com:25461/Ednar889967/536286/610
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 5 SD 2
+http://svrfit.com:25461/Ednar889967/536286/5802
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE 5 SD 2
+http://svrfit.com:25461/Ednar889967/536286/44883
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 6 SD
+http://svrfit.com:25461/Ednar889967/536286/612
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 6 SD 2
+http://svrfit.com:25461/Ednar889967/536286/135
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE 6 SD 2
+http://svrfit.com:25461/Ednar889967/536286/44881
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 7 SD
+http://svrfit.com:25461/Ednar889967/536286/613
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 7 SD 2
+http://svrfit.com:25461/Ednar889967/536286/138
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE 7 SD 2
+http://svrfit.com:25461/Ednar889967/536286/44879
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 8 SD
+http://svrfit.com:25461/Ednar889967/536286/614
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE CLUBES SD
+http://svrfit.com:25461/Ednar889967/536286/617
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE CLUBES SD 2
+http://svrfit.com:25461/Ednar889967/536286/44877
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES SD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE CLUBES SD2
+http://svrfit.com:25461/Ednar889967/536286/143
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE SD
+http://svrfit.com:25461/Ednar889967/536286/598
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS SD" tvg-logo="https://i.imgur.com/DOJOTuF.png" group-title="CANAIS NOTICIA",RECORD NEWS SD
+http://svrfit.com:25461/Ednar889967/536286/623
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS SD" tvg-logo="https://i.imgur.com/DOJOTuF.png" group-title="CANAIS NOTICIA",RECORD NEWS SD
+http://svrfit.com:25461/Ednar889967/536286/5793
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",RECORD SP SD 2
+http://svrfit.com:25461/Ednar889967/536286/44876
+#EXTINF:-1 tvg-id="" tvg-name="REDE PLENITUDE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/be/TV_Plenitude.png" group-title="CANAIS RELIGIOSOS",REDE PLENITUDE TV
+http://svrfit.com:25461/Ednar889967/536286/138841
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER SD" tvg-logo="" group-title="CANAIS RELIGIOSOS",REDE SUPER SD
+http://svrfit.com:25461/Ednar889967/536286/223
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="REDE SUPER SD" tvg-logo="" group-title="CANAIS RELIGIOSOS",REDE SUPER SD
+http://svrfit.com:25461/Ednar889967/536286/11460
+#EXTINF:-1 tvg-id="rede.belem.br" tvg-name="REDE TV SD" tvg-logo="https://i.imgur.com/hjNyDIx.png" group-title="CANAIS ABERTOS",REDE TV SD
+http://svrfit.com:25461/Ednar889967/536286/629
+#EXTINF:-1 tvg-id="rede.belem.br" tvg-name="REDE TV SD" tvg-logo="https://i.imgur.com/hjNyDIx.png" group-title="CANAIS ABERTOS",REDE TV SD
+http://svrfit.com:25461/Ednar889967/536286/630
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA SD" tvg-logo="https://i.imgur.com/CDsTcBL.png" group-title="CANAIS RELIGIOSOS",REDE VIDA SD
+http://svrfit.com:25461/Ednar889967/536286/632
+#EXTINF:-1 tvg-id="" tvg-name="RIT TV SD" tvg-logo="" group-title="CANAIS RELIGIOSOS",RIT TV SD
+http://svrfit.com:25461/Ednar889967/536286/237
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD 2" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT SD 2
+http://svrfit.com:25461/Ednar889967/536286/147
+#EXTINF:-1 tvg-id="" tvg-name="SBT SD 2" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ALTERNATIVOS (2)",SBT SD 2
+http://svrfit.com:25461/Ednar889967/536286/44875
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal_Sony.svg/1280px-Canal_Sony.svg.png" group-title="CANAIS FILMES E SERIES",SONY SD
+http://svrfit.com:25461/Ednar889967/536286/447
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/Cq4Z5Od.png" group-title="CANAIS FILMES E SERIES",SPACE SD
+http://svrfit.com:25461/Ednar889967/536286/444
+#EXTINF:-1 tvg-id="" tvg-name="SPACE SD 2" tvg-logo="https://i.imgur.com/Cq4Z5Od.png" group-title="CANAIS ALTERNATIVOS (2)",SPACE SD 2
+http://svrfit.com:25461/Ednar889967/536286/151
+#EXTINF:-1 tvg-id="" tvg-name="SPACE SD 2" tvg-logo="https://i.imgur.com/Cq4Z5Od.png" group-title="CANAIS ALTERNATIVOS (2)",SPACE SD 2
+http://svrfit.com:25461/Ednar889967/536286/44873
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/V0k4CDo.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 2 SD
+http://svrfit.com:25461/Ednar889967/536286/6685
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",SPORTV 2 SD 2
+http://svrfit.com:25461/Ednar889967/536286/44871
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/nvCjg9X.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 3 SD
+http://svrfit.com:25461/Ednar889967/536286/6686
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 SD 2" tvg-logo="https://i.imgur.com/nvCjg9X.png" group-title="CANAIS ALTERNATIVOS (2)",SPORTV 3 SD 2
+http://svrfit.com:25461/Ednar889967/536286/44869
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD" tvg-logo="https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV SD
+http://svrfit.com:25461/Ednar889967/536286/6683
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD 2" tvg-logo="https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV SD 2
+http://svrfit.com:25461/Ednar889967/536286/6684
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV SD 2" tvg-logo="https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png" group-title="CANAIS ALTERNATIVOS (2)",SPORTV SD 2
+http://svrfit.com:25461/Ednar889967/536286/44867
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANAIS FILMES E SERIES",STAR CHANNEL SD
+http://svrfit.com:25461/Ednar889967/536286/488
+#EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="STAR HITS 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/512px-Star_Hits_2020.svg.png" group-title="CANAIS FILMES E SERIES",STAR HITS 1 SD
+http://svrfit.com:25461/Ednar889967/536286/484
+#EXTINF:-1 tvg-id="fox.premium.2.br" tvg-name="STAR HITS 2 SD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360087397331/brasil_-_hits_2.png" group-title="CANAIS FILMES E SERIES",STAR HITS 2 SD
+http://svrfit.com:25461/Ednar889967/536286/487
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="CANAIS FILMES E SERIES",STAR LIFE SD
+http://svrfit.com:25461/Ednar889967/536286/481
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL (Argentina)." tvg-logo="https://i.imgur.com/Sbws5zu.png" group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL (Argentina).
+http://svrfit.com:25461/Ednar889967/536286/432
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1000px-SYFY.svg.png" group-title="CANAIS FILMES E SERIES",SYFY SD
+http://svrfit.com:25461/Ednar889967/536286/429
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD 2" tvg-logo="http://fivetv5.com/logos/syfy.png" group-title="CANAIS ALTERNATIVOS (2)",SYFY SD 2
+http://svrfit.com:25461/Ednar889967/536286/167
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",SYFY SD 2
+http://svrfit.com:25461/Ednar889967/536286/44865
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/XkJNdiR.png" group-title="CANAIS FILMES E SERIES",TCM SD
+http://svrfit.com:25461/Ednar889967/536286/427
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION SD " tvg-logo="https://i.imgur.com/VNquqNg.png" group-title="CANAIS TELECINE",TELECINE ACTION SD 
+http://svrfit.com:25461/Ednar889967/536286/424
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="TELECINE ACTION SD 2" tvg-logo="https://i.imgur.com/VNquqNg.png" group-title="CANAIS ALTERNATIVOS (2)",TELECINE ACTION SD 2
+http://svrfit.com:25461/Ednar889967/536286/171
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE ACTION SD 2
+http://svrfit.com:25461/Ednar889967/536286/44863
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://i.imgur.com/xYb2TAf.png" group-title="CANAIS TELECINE",TELECINE CULT SD
+http://svrfit.com:25461/Ednar889967/536286/421
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="TELECINE CULT SD 2" tvg-logo="https://i.imgur.com/xYb2TAf.png" group-title="CANAIS ALTERNATIVOS (2)",TELECINE CULT SD 2
+http://svrfit.com:25461/Ednar889967/536286/174
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE CULT SD 2
+http://svrfit.com:25461/Ednar889967/536286/44861
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://i.imgur.com/U1bMyBf.png" group-title="CANAIS TELECINE",TELECINE FUN SD
+http://svrfit.com:25461/Ednar889967/536286/418
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="TELECINE FUN SD 2" tvg-logo="https://i.imgur.com/U1bMyBf.png" group-title="CANAIS ALTERNATIVOS (2)",TELECINE FUN SD 2
+http://svrfit.com:25461/Ednar889967/536286/181
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE FUN SD 2
+http://svrfit.com:25461/Ednar889967/536286/44859
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.imgur.com/TIlXJSq.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD
+http://svrfit.com:25461/Ednar889967/536286/415
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="TELECINE PIPOCA SD 2" tvg-logo="https://i.imgur.com/TIlXJSq.png" group-title="CANAIS ALTERNATIVOS (2)",TELECINE PIPOCA SD 2
+http://svrfit.com:25461/Ednar889967/536286/185
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE PIPOCA SD 2
+http://svrfit.com:25461/Ednar889967/536286/44857
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://i.imgur.com/9JmVPYR.png" group-title="CANAIS TELECINE",TELECINE PREMIUM SD
+http://svrfit.com:25461/Ednar889967/536286/412
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="TELECINE PREMIUM SD 2" tvg-logo="https://i.imgur.com/9JmVPYR.png" group-title="CANAIS ALTERNATIVOS (2)",TELECINE PREMIUM SD 2
+http://svrfit.com:25461/Ednar889967/536286/187
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE PREMIUM SD 2
+http://svrfit.com:25461/Ednar889967/536286/44855
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.imgur.com/G3mRvDd.png" group-title="CANAIS TELECINE",TELECINE TOUCH SD
+http://svrfit.com:25461/Ednar889967/536286/409
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="TELECINE TOUCH SD 2" tvg-logo="https://i.imgur.com/G3mRvDd.png" group-title="CANAIS ALTERNATIVOS (2)",TELECINE TOUCH SD 2
+http://svrfit.com:25461/Ednar889967/536286/194
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE TOUCH SD 2
+http://svrfit.com:25461/Ednar889967/536286/44853
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/W87ww2P.png" group-title="CANAIS FILMES E SERIES",TNT SD
+http://svrfit.com:25461/Ednar889967/536286/406
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD 2" tvg-logo="https://i.imgur.com/W87ww2P.png" group-title="CANAIS ALTERNATIVOS (2)",TNT SD 2
+http://svrfit.com:25461/Ednar889967/536286/211
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TNT SD 2
+http://svrfit.com:25461/Ednar889967/536286/44849
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES SD" tvg-logo="https://i.imgur.com/slZQxUh.png" group-title="CANAIS FILMES E SERIES",TNT SERIES SD
+http://svrfit.com:25461/Ednar889967/536286/403
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="CANAIS INFANTIL",TOONCAST SD
+http://svrfit.com:25461/Ednar889967/536286/401
+#EXTINF:-1 tvg-id="" tvg-name="TOP MIX TV SD" tvg-logo="https://topmixtv.com.br/wp-content/uploads/2016/09/logo.png" group-title="CANAIS VARIEDADE E MUSICA",TOP MIX TV SD
+http://svrfit.com:25461/Ednar889967/536286/44944
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO DO SERTAO SD" tvg-logo="" group-title="CANAIS ABERTOS",TV DIARIO DO SERTAO SD
+http://svrfit.com:25461/Ednar889967/536286/169710
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL IMPD SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="CANAIS RELIGIOSOS",TV MUNDIAL IMPD SD
+http://svrfit.com:25461/Ednar889967/536286/138840
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL SD" tvg-logo="https://i.postimg.cc/c6yYKbdk/1516363670-453b552415fa1d742012f168d8919e131490bfe8.jpg" group-title="CANAIS RELIGIOSOS",TV MUNDIAL SD
+http://svrfit.com:25461/Ednar889967/536286/390
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="TV SENADO SD 2" tvg-logo="https://i.imgur.com/LkG6U9w.png" group-title="CANAIS TV PUBLICA",TV SENADO SD 2
+http://svrfit.com:25461/Ednar889967/536286/214
+#EXTINF:-1 tvg-id="" tvg-name="TV VALE DAS ARTES SD" tvg-logo="https://1.bp.blogspot.com/-IF8nxgPutL8/X5hIBE8Ij6I/AAAAAAAADl4/o9p9pqRMlwkmxkaCPdbUoRdFx7jwytpFQCLcBGAsYHQ/s0/TV%2BVALE%2BDAS%2BARTES.png" group-title="CANAIS ABERTOS",TV VALE DAS ARTES SD
+http://svrfit.com:25461/Ednar889967/536286/138837
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://3.bp.blogspot.com/-SwyPin6YdYY/UkSO6baMobI/AAAAAAAACfg/Ci26ar4WO54/s1600/Logo_Universal-Channel_HD.svg.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL SD
+http://svrfit.com:25461/Ednar889967/536286/387
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL SD 2" tvg-logo="https://3.bp.blogspot.com/-SwyPin6YdYY/UkSO6baMobI/AAAAAAAACfg/Ci26ar4WO54/s1600/Logo_Universal-Channel_HD.svg.png" group-title="CANAIS ALTERNATIVOS (2)",UNIVERSAL CHANNEL SD 2
+http://svrfit.com:25461/Ednar889967/536286/216
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL SD 2" tvg-logo="https://3.bp.blogspot.com/-SwyPin6YdYY/UkSO6baMobI/AAAAAAAACfg/Ci26ar4WO54/s1600/Logo_Universal-Channel_HD.svg.png" group-title="CANAIS ALTERNATIVOS (2)",UNIVERSAL CHANNEL SD 2
+http://svrfit.com:25461/Ednar889967/536286/44846
+#EXTINF:-1 tvg-id="BANDCAMPINASHD" tvg-name="VH1 HD" tvg-logo="http://images.mi.tv/channels/br_vh1_m.png" group-title="CANAIS VARIEDADE E MUSICA",VH1 HD
+http://svrfit.com:25461/Ednar889967/536286/384
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD" tvg-logo="https://i.imgur.com/gONN2WV.png" group-title="CANAIS VARIEDADE E MUSICA",VIVA SD
+http://svrfit.com:25461/Ednar889967/536286/381
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD 2" tvg-logo="https://i.imgur.com/gONN2WV.png" group-title="CANAIS VARIEDADE E MUSICA",VIVA SD 2
+http://svrfit.com:25461/Ednar889967/536286/218
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA SD 2" tvg-logo="https://i.imgur.com/gONN2WV.png" group-title="CANAIS VARIEDADE E MUSICA",VIVA SD 2
+http://svrfit.com:25461/Ednar889967/536286/44844
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://i.imgur.com/NUrsG5a.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL SD
+http://svrfit.com:25461/Ednar889967/536286/379
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL SD 2" tvg-logo="https://i.imgur.com/NUrsG5a.png" group-title="CANAIS ALTERNATIVOS (2)",WARNER CHANNEL SD 2
+http://svrfit.com:25461/Ednar889967/536286/220
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL SD 2" tvg-logo="https://i.imgur.com/NUrsG5a.png" group-title="CANAIS ALTERNATIVOS (2)",WARNER CHANNEL SD 2
+http://svrfit.com:25461/Ednar889967/536286/44842
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://i.imgur.com/TKimMVw.png" group-title="CANAIS INFANTIL",ZOOMOO SD
+http://svrfit.com:25461/Ednar889967/536286/374
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 SD" tvg-logo="https://4.bp.blogspot.com/-6PAxnx2KIL8/WRztWqRfVKI/AAAAAAAA5kY/WH3cRpu__rIsX7Bpkh5ZjOLjP3PsSWBAQCLcB/s640/sportv4.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 4 SD
+http://svrfit.com:25461/Ednar889967/536286/188993
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://img.apksum.com/65/com.aetn.aetv.watch/3.3.2/icon.png" group-title="CANAIS FILMES E SERIES",A&E HD
+http://svrfit.com:25461/Ednar889967/536286/227
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD 2" tvg-logo="https://img.apksum.com/65/com.aetn.aetv.watch/3.3.2/icon.png" group-title="CANAIS FILMES E SERIES",A&E HD 2
+http://svrfit.com:25461/Ednar889967/536286/44941
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS SD*" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="CANAIS ESPORTE NACIONAL",ALL SPORTS SD*
+http://svrfit.com:25461/Ednar889967/536286/12950
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/4COmsGO.png" group-title="CANAIS FILMES E SERIES",AMC FHD
+http://svrfit.com:25461/Ednar889967/536286/231
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/4COmsGO.png" group-title="CANAIS FILMES E SERIES",AMC HD
+http://svrfit.com:25461/Ednar889967/536286/42207
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/CqfEXXq.png" group-title="CANAIS DOCUMENTARIOS",ANIMAL PLANET HD
+http://svrfit.com:25461/Ednar889967/536286/234
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD 2" tvg-logo="https://i.imgur.com/CqfEXXq.png" group-title="CANAIS DOCUMENTARIOS",ANIMAL PLANET HD 2
+http://svrfit.com:25461/Ednar889967/536286/44937
+#EXTINF:-1 tvg-id="AMC" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/eZobXtp.png" group-title="CANAIS FILMES E SERIES",AXN HD
+http://svrfit.com:25461/Ednar889967/536286/240
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/eZobXtp.png" group-title="CANAIS FILMES E SERIES",AXN HD
+http://svrfit.com:25461/Ednar889967/536286/44935
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN MOVIES HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="CANAIS FILMES E SERIES",AXN MOVIES HD
+http://svrfit.com:25461/Ednar889967/536286/42219
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV HD" tvg-logo="https://i.imgur.com/tUJBJLn.png" group-title="CANAIS INFANTIL",BABY TV HD
+http://svrfit.com:25461/Ednar889967/536286/242
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND (BAHIA) HD" tvg-logo="https://i.imgur.com/ZOj6vCC.png" group-title="CANAIS ABERTOS",BAND (BAHIA) HD
+http://svrfit.com:25461/Ednar889967/536286/62316
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND PARA HD (RBATV)" tvg-logo="https://i.imgur.com/ZOj6vCC.png" group-title="CANAIS ABERTOS",BAND PARA HD (RBATV)
+http://svrfit.com:25461/Ednar889967/536286/58894
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/vP7OsoP.png" group-title="CANAIS ESPORTE NACIONAL",BAND SPORTS HD
+http://svrfit.com:25461/Ednar889967/536286/6713
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/VM7q5DP.png" group-title="CANAIS VARIEDADE E MUSICA",BIS HD
+http://svrfit.com:25461/Ednar889967/536286/260
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://i.imgur.com/Isybq80.png" group-title="CANAIS INFANTIL",BOOMERANG HD
+http://svrfit.com:25461/Ednar889967/536286/265
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 (Cabo Frio)" tvg-logo="https://i.imgur.com/b2JSTx0.png" group-title="CANAIS ABERTOS",CANAL 10 (Cabo Frio)
+http://svrfit.com:25461/Ednar889967/536286/141733
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL HD" tvg-logo="https://1.bp.blogspot.com/-zT7KK8NT_b8/X2-Bobje1VI/AAAAAAAADW0/JK5RPjSosfATBMoKWhYLJ3z3uyq0Zh0DwCPcBGAYYCw/s0/CANAL%2BRURAL.png" group-title="CANAIS ABERTOS",CANAL RURAL HD
+http://svrfit.com:25461/Ednar889967/536286/170255
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SANTA CECILIA SD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3c98bd1a061f04f8f2ef85528cd6b253.png" group-title="CANAIS ABERTOS",CANAL SANTA CECILIA SD
+http://svrfit.com:25461/Ednar889967/536286/138836
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SAUDE RJ HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/245d0e1a9266a0570fde3621c804a2d3.jpg" group-title="CANAIS TV PUBLICA",CANAL SAUDE RJ HD
+http://svrfit.com:25461/Ednar889967/536286/144669
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="CANÇÃO NOVA HD*" tvg-logo="https://i.imgur.com/miBsg70.png" group-title="CANAIS RELIGIOSOS",CANÇÃO NOVA HD*
+http://svrfit.com:25461/Ednar889967/536286/5808
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/JzgTWuj.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
+http://svrfit.com:25461/Ednar889967/536286/278
+#EXTINF:-1 tvg-id="" tvg-name="CHEF TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1100825897605754883/llKj-za1.png" group-title="CANAIS VARIEDADE E MUSICA",CHEF TV HD
+http://svrfit.com:25461/Ednar889967/536286/60911
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca (Gospel)" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Explos%C3%A3o-Pipoca-Cinema-PNG-1280x720.png" group-title="CANAIS CINEMA COM PIPOCA",Cine Pipoca (Gospel)
+http://svrfit.com:25461/Ednar889967/536286/79723
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/dqCeBJF.png" group-title="CANAIS FILMES E SERIES",CINEMAX HD
+http://svrfit.com:25461/Ednar889967/536286/283
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL HD " tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="CANAIS NOTICIA",CNN BRASIL HD 
+http://svrfit.com:25461/Ednar889967/536286/32647
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="CANAIS NOTICIA",CNN BRASIL HD 2
+http://svrfit.com:25461/Ednar889967/536286/38789
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="CANAIS NOTICIA",CNN BRASIL HD*
+http://svrfit.com:25461/Ednar889967/536286/59563
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/NewX8wG.png" group-title="CANAIS ESPORTE NACIONAL",COMBATE HD
+http://svrfit.com:25461/Ednar889967/536286/6714
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD 2" tvg-logo="https://i.imgur.com/NewX8wG.png" group-title="CANAIS ESPORTE NACIONAL",COMBATE HD 2
+http://svrfit.com:25461/Ednar889967/536286/6715
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/BQ0xy45.png" group-title="CANAIS VARIEDADE E MUSICA",COMEDY CENTRAL HD
+http://svrfit.com:25461/Ednar889967/536286/293
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS ESPORTE NACIONAL",CONMEBOL TV 3
+http://svrfit.com:25461/Ednar889967/536286/167831
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOLL TV ALTERNATIVO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS ESPORTE NACIONAL",CONMEBOLL TV ALTERNATIVO 1
+http://svrfit.com:25461/Ednar889967/536286/84186
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOLL TV ALTERNATIVO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS ESPORTE NACIONAL",CONMEBOLL TV ALTERNATIVO 2
+http://svrfit.com:25461/Ednar889967/536286/84187
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOLL TV ALTERNATIVO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS ESPORTE NACIONAL",CONMEBOLL TV ALTERNATIVO 3
+http://svrfit.com:25461/Ednar889967/536286/188803
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOLL TV ALTERNATIVO 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS ESPORTE NACIONAL",CONMEBOLL TV ALTERNATIVO 4
+http://svrfit.com:25461/Ednar889967/536286/188804
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOLL TV ALTERNATIVO 5" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS ESPORTE NACIONAL",CONMEBOLL TV ALTERNATIVO 5
+http://svrfit.com:25461/Ednar889967/536286/188805
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOLL TV ALTERNATIVO 6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS ESPORTE NACIONAL",CONMEBOLL TV ALTERNATIVO 6
+http://svrfit.com:25461/Ednar889967/536286/188806
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 001" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="COPA NORDESTE 2020",COPA NORDESTE 001
+http://svrfit.com:25461/Ednar889967/536286/167422
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD" tvg-logo="https://i.imgur.com/zHxRyDa.png" group-title="CANAIS VARIEDADE E MUSICA",CURTA! HD
+http://svrfit.com:25461/Ednar889967/536286/299
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/598px-DAZN_Logo.png" group-title="CANAIS ESPORTE NACIONAL",DAZN 1 HD
+http://svrfit.com:25461/Ednar889967/536286/10639
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/598px-DAZN_Logo.png" group-title="CANAIS ESPORTE NACIONAL",DAZN 2 HD
+http://svrfit.com:25461/Ednar889967/536286/12947
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DAZN_Logo.png/598px-DAZN_Logo.png" group-title="CANAIS ESPORTE NACIONAL",DAZN 3 HD
+http://svrfit.com:25461/Ednar889967/536286/12949
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/bChBXOx.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://svrfit.com:25461/Ednar889967/536286/306
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD 2" tvg-logo="https://i.imgur.com/bChBXOx.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CHANNEL HD 2
+http://svrfit.com:25461/Ednar889967/536286/44930
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD1" tvg-logo="https://i.imgur.com/bChBXOx.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CHANNEL HD1
+http://svrfit.com:25461/Ednar889967/536286/42233
+#EXTINF:-1 tvg-id="discovery.civilization.br" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="https://i.imgur.com/4EH59qL.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CIVILIZATION HD
+http://svrfit.com:25461/Ednar889967/536286/316
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/75NuNkN.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+http://svrfit.com:25461/Ednar889967/536286/322
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/ZC9sU87.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD
+http://svrfit.com:25461/Ednar889967/536286/330
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/SO9qM3S.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://svrfit.com:25461/Ednar889967/536286/334
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/SO9qM3S.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://svrfit.com:25461/Ednar889967/536286/5800
+#EXTINF:-1 tvg-id="discovery.sciene.br" tvg-name="DISCOVERY SCIENCE HD 2" tvg-logo="https://i.imgur.com/SO9qM3S.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY SCIENCE HD 2
+http://svrfit.com:25461/Ednar889967/536286/44928
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.imgur.com/vG2lsl4.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY THEATER HD
+http://svrfit.com:25461/Ednar889967/536286/337
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC FHD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY TLC FHD
+http://svrfit.com:25461/Ednar889967/536286/339
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="DISCOVERY TLC HD 2" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY TLC HD 2
+http://svrfit.com:25461/Ednar889967/536286/68548
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/kTrySJZ.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY TURBO HD
+http://svrfit.com:25461/Ednar889967/536286/342
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.imgur.com/kz7cLP3.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY WORLD HD
+http://svrfit.com:25461/Ednar889967/536286/345
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/TAIJxBU.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL HD
+http://svrfit.com:25461/Ednar889967/536286/348
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="DISNEY JR HD" tvg-logo="https://i.imgur.com/4NCrEbS.png" group-title="CANAIS INFANTIL",DISNEY JR HD
+http://svrfit.com:25461/Ednar889967/536286/350
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="DISNEY XD HD" tvg-logo="https://i.imgur.com/JgN9FoK.png" group-title="CANAIS INFANTIL",DISNEY XD HD
+http://svrfit.com:25461/Ednar889967/536286/354
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOGTV HD" tvg-logo="https://2l1u9e17xv36q4vh49azw1wb-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/DOGTV-logo_COLOR-horiz.png" group-title="CANAIS VARIEDADE E MUSICA",DOGTV HD
+http://svrfit.com:25461/Ednar889967/536286/42131
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/SBqcgIY.png" group-title="CANAIS FILMES E SERIES",E! HD
+http://svrfit.com:25461/Ednar889967/536286/356
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 1" tvg-logo="https://www-tvdigitaldivide-it.cdn.ampproject.org/ii/AW/s/www.tvdigitaldivide.it/wp-content/uploads/2021/02/eleven-sports.png" group-title="CANAIS ELEVEN SPORTS BR ",ELEVEN SPORT 1
+http://svrfit.com:25461/Ednar889967/536286/187233
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://www-tvdigitaldivide-it.cdn.ampproject.org/ii/AW/s/www.tvdigitaldivide.it/wp-content/uploads/2021/02/eleven-sports.png" group-title="CANAIS ELEVEN SPORTS BR ",ELEVEN SPORTS 2
+http://svrfit.com:25461/Ednar889967/536286/187234
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://www-tvdigitaldivide-it.cdn.ampproject.org/ii/AW/s/www.tvdigitaldivide.it/wp-content/uploads/2021/02/eleven-sports.png" group-title="CANAIS ELEVEN SPORTS BR ",ELEVEN SPORTS 3
+http://svrfit.com:25461/Ednar889967/536286/187235
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 SD" tvg-logo="https://www-tvdigitaldivide-it.cdn.ampproject.org/ii/AW/s/www.tvdigitaldivide.it/wp-content/uploads/2021/02/eleven-sports.png" group-title="CANAIS ELEVEN SPORTS BR ",ELEVEN SPORTS 3 SD
+http://svrfit.com:25461/Ednar889967/536286/187236
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://www-tvdigitaldivide-it.cdn.ampproject.org/ii/AW/s/www.tvdigitaldivide.it/wp-content/uploads/2021/02/eleven-sports.png" group-title="CANAIS ELEVEN SPORTS BR ",ELEVEN SPORTS 4
+http://svrfit.com:25461/Ednar889967/536286/187237
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5" tvg-logo="https://www-tvdigitaldivide-it.cdn.ampproject.org/ii/AW/s/www.tvdigitaldivide.it/wp-content/uploads/2021/02/eleven-sports.png" group-title="CANAIS ELEVEN SPORTS BR ",ELEVEN SPORTS 5
+http://svrfit.com:25461/Ednar889967/536286/187238
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6" tvg-logo="https://www-tvdigitaldivide-it.cdn.ampproject.org/ii/AW/s/www.tvdigitaldivide.it/wp-content/uploads/2021/02/eleven-sports.png" group-title="CANAIS ELEVEN SPORTS BR ",ELEVEN SPORTS 6
+http://svrfit.com:25461/Ednar889967/536286/187239
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 7" tvg-logo="https://www-tvdigitaldivide-it.cdn.ampproject.org/ii/AW/s/www.tvdigitaldivide.it/wp-content/uploads/2021/02/eleven-sports.png" group-title="CANAIS ELEVEN SPORTS BR ",ELEVEN SPORTS 7
+http://svrfit.com:25461/Ednar889967/536286/187240
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 8" tvg-logo="https://www-tvdigitaldivide-it.cdn.ampproject.org/ii/AW/s/www.tvdigitaldivide.it/wp-content/uploads/2021/02/eleven-sports.png" group-title="CANAIS ELEVEN SPORTS BR ",ELEVEN SPORTS 8
+http://svrfit.com:25461/Ednar889967/536286/187241
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 9" tvg-logo="https://www-tvdigitaldivide-it.cdn.ampproject.org/ii/AW/s/www.tvdigitaldivide.it/wp-content/uploads/2021/02/eleven-sports.png" group-title="CANAIS ELEVEN SPORTS BR ",ELEVEN SPORTS 9
+http://svrfit.com:25461/Ednar889967/536286/187242
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS HD" tvg-logo="https://www-tvdigitaldivide-it.cdn.ampproject.org/ii/AW/s/www.tvdigitaldivide.it/wp-content/uploads/2021/02/eleven-sports.png" group-title="CANAIS ELEVEN SPORTS BR ",ELEVEN SPORTS HD
+http://svrfit.com:25461/Ednar889967/536286/187243
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",EPTV Campinas SD
+http://svrfit.com:25461/Ednar889967/536286/183790
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",EPTV Campinas SD²
+http://svrfit.com:25461/Ednar889967/536286/183878
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Central HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",EPTV Central HD
+http://svrfit.com:25461/Ednar889967/536286/183876
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Central SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",EPTV Central SD
+http://svrfit.com:25461/Ednar889967/536286/183831
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Central SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",EPTV Central SD²
+http://svrfit.com:25461/Ednar889967/536286/183919
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",EPTV Ribeirão HD
+http://svrfit.com:25461/Ednar889967/536286/183836
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",EPTV Ribeirão SD
+http://svrfit.com:25461/Ednar889967/536286/183791
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",EPTV Ribeirão SD²
+http://svrfit.com:25461/Ednar889967/536286/183879
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",EPTV Sul de Minas HD
+http://svrfit.com:25461/Ednar889967/536286/183874
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",EPTV Sul de Minas SD
+http://svrfit.com:25461/Ednar889967/536286/183829
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",EPTV Sul de Minas SD²
+http://svrfit.com:25461/Ednar889967/536286/183917
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/69VH6Ln.png" group-title="CANAIS ESPORTE NACIONAL",ESPN 2 HD
+http://svrfit.com:25461/Ednar889967/536286/6725
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://i.imgur.com/ZkUIQ8X.png" group-title="CANAIS ESPORTE NACIONAL",ESPN BRASIL FHD
+http://svrfit.com:25461/Ednar889967/536286/6726
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL HD  (alter)" tvg-logo="https://i.imgur.com/ZkUIQ8X.png" group-title="CANAIS ESPORTE NACIONAL",ESPN BRASIL HD  (alter)
+http://svrfit.com:25461/Ednar889967/536286/6727
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL HD 2" tvg-logo="https://i.imgur.com/ZkUIQ8X.png" group-title="CANAIS ESPORTE NACIONAL",ESPN BRASIL HD 2
+http://svrfit.com:25461/Ednar889967/536286/44927
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/xWKhnHp.png" group-title="CANAIS ESPORTE NACIONAL",ESPN EXTRA HD
+http://svrfit.com:25461/Ednar889967/536286/12982
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD 2" tvg-logo="https://i.imgur.com/xWKhnHp.png" group-title="CANAIS ESPORTE NACIONAL",ESPN EXTRA HD 2
+http://svrfit.com:25461/Ednar889967/536286/6728
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/69VH6Ln.png" group-title="CANAIS ESPORTE NACIONAL",ESPN HD
+http://svrfit.com:25461/Ednar889967/536286/6724
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 2 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="CANAIS ESPORTE NACIONAL",ESTADIO TNT SPORTS 2 HD
+http://svrfit.com:25461/Ednar889967/536286/167180
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 3 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="CANAIS ESPORTE NACIONAL",ESTADIO TNT SPORTS 3 HD
+http://svrfit.com:25461/Ednar889967/536286/167181
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS 4 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="CANAIS ESPORTE NACIONAL",ESTADIO TNT SPORTS 4 HD
+http://svrfit.com:25461/Ednar889967/536286/167182
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="CANAIS ESPORTE NACIONAL",ESTADIO TNT SPORTS HD
+http://svrfit.com:25461/Ednar889967/536286/167139
+#EXTINF:-1 tvg-id="" tvg-name="FACEBOOK / HD" tvg-logo="https://download.logo.wine/logo/Facebook_Watch/Facebook_Watch-Logo.wine.png" group-title="CANAIS ESPORTE NACIONAL",FACEBOOK / HD
+http://svrfit.com:25461/Ednar889967/536286/87420
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/jRPbrdl.png" group-title="CANAIS ESPORTE NACIONAL",FISH TV HD
+http://svrfit.com:25461/Ednar889967/536286/6723
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV 2 HD" tvg-logo="https://storage.googleapis.com/cpt-partners-content-prod/cbfb8300-89de-4236-a8c3-d41cda80ccd9.png" group-title="CANAIS ESPORTE NACIONAL",FLA TV 2 HD
+http://svrfit.com:25461/Ednar889967/536286/167995
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV 3" tvg-logo="https://storage.googleapis.com/cpt-partners-content-prod/cbfb8300-89de-4236-a8c3-d41cda80ccd9.png" group-title="CANAIS ESPORTE NACIONAL",FLA TV 3
+http://svrfit.com:25461/Ednar889967/536286/170202
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV HD" tvg-logo="https://storage.googleapis.com/cpt-partners-content-prod/cbfb8300-89de-4236-a8c3-d41cda80ccd9.png" group-title="CANAIS ESPORTE NACIONAL",FLA TV HD
+http://svrfit.com:25461/Ednar889967/536286/167421
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/W1Kv5nS.png" group-title="CANAIS VARIEDADE E MUSICA",FOOD NETWORK HD
+http://svrfit.com:25461/Ednar889967/536286/42254
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/W1Kv5nS.png" group-title="CANAIS VARIEDADE E MUSICA",FOOD NETWORK HD
+http://svrfit.com:25461/Ednar889967/536286/476
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/NDrA2vP.png" group-title="CANAIS ESPORTE NACIONAL",FOX SPORTS 2 HD
+http://svrfit.com:25461/Ednar889967/536286/6722
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD 2" tvg-logo="https://i.imgur.com/NDrA2vP.png" group-title="CANAIS ESPORTE NACIONAL",FOX SPORTS 2 HD 2
+http://svrfit.com:25461/Ednar889967/536286/44924
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/clrUXra.png" group-title="CANAIS ESPORTE NACIONAL",FOX SPORTS HD
+http://svrfit.com:25461/Ednar889967/536286/6720
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/clrUXra.png" group-title="CANAIS ESPORTE NACIONAL",FOX SPORTS HD
+http://svrfit.com:25461/Ednar889967/536286/44922
+#EXTINF:-1 tvg-id="canal.futura.br" tvg-name="FUTURA (UNISC TV RS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="CANAIS ABERTOS",FUTURA (UNISC TV RS)
+http://svrfit.com:25461/Ednar889967/536286/84189
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="FUTURA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png" group-title="CANAIS ABERTOS",FUTURA HD
+http://svrfit.com:25461/Ednar889967/536286/84188
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/4YmmPKN.png" group-title="CANAIS FILMES E SERIES",FX HD
+http://svrfit.com:25461/Ednar889967/536286/496
+#EXTINF:-1 tvg-id="globo.internacional.br" tvg-name="GLOBO ( INTERNACIONAL 2 )*" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO ( INTERNACIONAL 2 )*
+http://svrfit.com:25461/Ednar889967/536286/188774
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="GLOBO GAZETA ALAGOAS HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO GAZETA ALAGOAS HD
+http://svrfit.com:25461/Ednar889967/536286/166279
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA VITORIA ES HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO GAZETA VITORIA ES HD
+http://svrfit.com:25461/Ednar889967/536286/70354
+#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO MINAS HD
+http://svrfit.com:25461/Ednar889967/536286/5774
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/qduM5KS.png" group-title="CANAIS NOTICIA",GLOBO NEWS HD
+http://svrfit.com:25461/Ednar889967/536286/507
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="GLOBO NSC SANTA CATARINA HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO NSC SANTA CATARINA HD
+http://svrfit.com:25461/Ednar889967/536286/84612
+#EXTINF:-1 tvg-id="AMC" tvg-name="GLOBO RBS CAXIA DO SUL HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO RBS CAXIA DO SUL HD
+http://svrfit.com:25461/Ednar889967/536286/30151
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS PELOTAS RS HD*" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO RBS PELOTAS RS HD*
+http://svrfit.com:25461/Ednar889967/536286/100532
+#EXTINF:-1 tvg-id="AMC" tvg-name="GLOBO RBS PORTO ALEGRE (alter)" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO RBS PORTO ALEGRE (alter)
+http://svrfit.com:25461/Ednar889967/536286/9468
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO REDE AMAZONICA MANAUS HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO REDE AMAZONICA MANAUS HD
+http://svrfit.com:25461/Ednar889967/536286/166280
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="GLOBO RJ HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO RJ HD
+http://svrfit.com:25461/Ednar889967/536286/5778
+#EXTINF:-1 tvg-id="rpc.ponta.grossa.br" tvg-name="GLOBO RPC PONTA GROSSA HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO RPC PONTA GROSSA HD
+http://svrfit.com:25461/Ednar889967/536286/166557
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="GLOBO SERGIPE HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO SERGIPE HD
+http://svrfit.com:25461/Ednar889967/536286/10637
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP  HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO SP  HD
+http://svrfit.com:25461/Ednar889967/536286/5845
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO SP HD
+http://svrfit.com:25461/Ednar889967/536286/5844
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO SP HD
+http://svrfit.com:25461/Ednar889967/536286/5846
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP SD*" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",Globo SP SD*
+http://svrfit.com:25461/Ednar889967/536286/58976
+#EXTINF:-1 tvg-id="TVBahia" tvg-name="Globo TV Bahia HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",Globo TV Bahia HD
+http://svrfit.com:25461/Ednar889967/536286/40255
+#EXTINF:-1 tvg-id="tv.mirante.sao.luis.br" tvg-name="GLOBO TV MIRANTE MARANHAO HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO TV MIRANTE MARANHAO HD
+http://svrfit.com:25461/Ednar889967/536286/166281
+#EXTINF:-1 tvg-id="tv.morena.ponta.pora.br" tvg-name="GLOBO TV MORENA PONTA PORA HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO TV MORENA PONTA PORA HD
+http://svrfit.com:25461/Ednar889967/536286/14015
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",GLOBO TV RIO SUL HD
+http://svrfit.com:25461/Ednar889967/536286/183834
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",GLOBO TV RIO SUL SD
+http://svrfit.com:25461/Ednar889967/536286/183833
+#EXTINF:-1 tvg-id="tv.vitoria.br" tvg-name="GLOBO TV VITORIA ES HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO TV VITORIA ES HD
+http://svrfit.com:25461/Ednar889967/536286/32583
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",GLOBOSAT HD
+http://svrfit.com:25461/Ednar889967/536286/183788
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBOSAT HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Globosat_wordmark.svg/1280px-Globosat_wordmark.svg.png" group-title="CANAIS FILMES E SERIES",GLOBOSAT HD*
+http://svrfit.com:25461/Ednar889967/536286/12580
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",GLOBOSAT SD
+http://svrfit.com:25461/Ednar889967/536286/183789
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://i.imgur.com/ipOPsEQ.png" group-title="CANAIS INFANTIL",GLOOB HD
+http://svrfit.com:25461/Ednar889967/536286/529
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="CANAIS INFANTIL",GLOOBINHO SD
+http://svrfit.com:25461/Ednar889967/536286/67918
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/v7DYTx9.png" group-title="CANAIS VARIEDADE E MUSICA",GNT HD
+http://svrfit.com:25461/Ednar889967/536286/531
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD 2" tvg-logo="https://i.imgur.com/v7DYTx9.png" group-title="CANAIS VARIEDADE E MUSICA",GNT HD 2
+http://svrfit.com:25461/Ednar889967/536286/115
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD 2" tvg-logo="https://i.imgur.com/v7DYTx9.png" group-title="CANAIS VARIEDADE E MUSICA",GNT HD 2
+http://svrfit.com:25461/Ednar889967/536286/44900
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="CANAIS ESPORTE NACIONAL",GOLF CHANNEL HD
+http://svrfit.com:25461/Ednar889967/536286/166770
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON HD" tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-15-12-44.png" group-title="CANAIS INFANTIL",GOSPEL CARTOON HD
+http://svrfit.com:25461/Ednar889967/536286/62312
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1555990853_h2.png" group-title="CANAIS DOCUMENTARIOS",H2 HD
+http://svrfit.com:25461/Ednar889967/536286/534
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD 2" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1555990853_h2.png" group-title="CANAIS DOCUMENTARIOS",H2 HD 2
+http://svrfit.com:25461/Ednar889967/536286/117
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD 2" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1555990853_h2.png" group-title="CANAIS DOCUMENTARIOS",H2 HD 2
+http://svrfit.com:25461/Ednar889967/536286/44898
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS HBO",HBO FAMILY HD
+http://svrfit.com:25461/Ednar889967/536286/6750
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://skypacotes.com/blog/wp-content/uploads/2019/11/programacao-HBO.png" group-title="CANAIS HBO",HBO HD
+http://svrfit.com:25461/Ednar889967/536286/6748
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANAIS HBO",HBO MUNDI HD
+http://svrfit.com:25461/Ednar889967/536286/559
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/400px-HBO_Plus.png" group-title="CANAIS HBO",HBO PLUS HD
+http://svrfit.com:25461/Ednar889967/536286/6751
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO XTREME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1024px-HBO_Xtreme.svg.png" group-title="CANAIS HBO",HBO XTREME HD
+http://svrfit.com:25461/Ednar889967/536286/561
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HGTV_2010.png/1200px-HGTV_2010.png" group-title="CANAIS DOCUMENTARIOS",HGTV HD
+http://svrfit.com:25461/Ednar889967/536286/12477
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HGTV_2010.png/1200px-HGTV_2010.png" group-title="CANAIS DOCUMENTARIOS",HGTV HD*
+http://svrfit.com:25461/Ednar889967/536286/140822
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.imgur.com/mnhGuxB.png" group-title="CANAIS DOCUMENTARIOS",HISTORY CHANNEL HD
+http://svrfit.com:25461/Ednar889967/536286/551
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD 2" tvg-logo="https://i.imgur.com/mnhGuxB.png" group-title="CANAIS DOCUMENTARIOS",HISTORY CHANNEL HD 2
+http://svrfit.com:25461/Ednar889967/536286/118
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD 2" tvg-logo="https://i.imgur.com/VeXxv2x.png" group-title="CANAIS DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY HD 2
+http://svrfit.com:25461/Ednar889967/536286/44895
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Alto Litoral HD
+http://svrfit.com:25461/Ednar889967/536286/183837
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Alto Litoral SD
+http://svrfit.com:25461/Ednar889967/536286/183792
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Alto Litoral SD²
+http://svrfit.com:25461/Ednar889967/536286/183880
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Cabugi HD
+http://svrfit.com:25461/Ednar889967/536286/183838
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Cabugi SD
+http://svrfit.com:25461/Ednar889967/536286/183793
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Cabugi SD²
+http://svrfit.com:25461/Ednar889967/536286/183881
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV dos Vales HD
+http://svrfit.com:25461/Ednar889967/536286/183839
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV dos Vales SD
+http://svrfit.com:25461/Ednar889967/536286/183794
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV dos Vales SD²
+http://svrfit.com:25461/Ednar889967/536286/183882
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Grande Minas HD
+http://svrfit.com:25461/Ednar889967/536286/183840
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Grande Minas SD
+http://svrfit.com:25461/Ednar889967/536286/183795
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Grande Minas SD²
+http://svrfit.com:25461/Ednar889967/536286/183883
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Planície HD
+http://svrfit.com:25461/Ednar889967/536286/183875
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Planície SD
+http://svrfit.com:25461/Ednar889967/536286/183830
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Planície SD²
+http://svrfit.com:25461/Ednar889967/536286/183918
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Serra Mar HD
+http://svrfit.com:25461/Ednar889967/536286/183841
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Serra Mar SD
+http://svrfit.com:25461/Ednar889967/536286/183796
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Inter TV Serra Mar SD²
+http://svrfit.com:25461/Ednar889967/536286/183884
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com/VeXxv2x.png" group-title="CANAIS DOCUMENTARIOS",INVESTIGACAO DISCOVERY HD
+http://svrfit.com:25461/Ednar889967/536286/554
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGACAO DISCOVERY HD 2" tvg-logo="https://i.imgur.com/VeXxv2x.png" group-title="CANAIS DOCUMENTARIOS",INVESTIGACAO DISCOVERY HD 2
+http://svrfit.com:25461/Ednar889967/536286/120
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS KIDS HD" tvg-logo="https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-11-16-51-42.png" group-title="CANAIS INFANTIL",KURIAKOS KIDS HD
+http://svrfit.com:25461/Ednar889967/536286/41740
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS KIDS HD." tvg-logo="https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-11-16-51-42.png" group-title="CANAIS INFANTIL",KURIAKOS KIDS HD.
+http://svrfit.com:25461/Ednar889967/536286/41739
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS KIDS." tvg-logo="https://4.bp.blogspot.com/-LTqIzRhhBYE/XQAGxT5AB3I/AAAAAAAABB0/Uih_3IGEJtIyTisWutKyU_qbn75_rW0rACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-11-16-51-42.png" group-title="CANAIS INFANTIL",KURIAKOS KIDS.
+http://svrfit.com:25461/Ednar889967/536286/40272
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HD" tvg-logo="https://files.laligasports.es/seccion_logos/laligasports-h-color-positivo-v2/laligasports-h-color-positivo-v2-1200x1200.png" group-title="CANAIS ESPORTE NACIONAL",LALIGA TV HD
+http://svrfit.com:25461/Ednar889967/536286/167179
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HD2" tvg-logo="https://files.laligasports.es/seccion_logos/laligasports-h-color-positivo-v2/laligasports-h-color-positivo-v2-1200x1200.png" group-title="CANAIS ESPORTE NACIONAL",LALIGA TV HD2
+http://svrfit.com:25461/Ednar889967/536286/169679
+#EXTINF:-1 tvg-id="" tvg-name="LIBERTADORES 3 HD" tvg-logo="https://i.pinimg.com/originals/11/2b/65/112b65d08e4b1ea4a44cd3ea7f532b5a.png" group-title="CANAIS ESPORTE NACIONAL",LIBERTADORES 3 HD
+http://svrfit.com:25461/Ednar889967/536286/32555
+#EXTINF:-1 tvg-id="" tvg-name="LIBERTADORES HD" tvg-logo="https://i.pinimg.com/originals/11/2b/65/112b65d08e4b1ea4a44cd3ea7f532b5a.png" group-title="CANAIS ESPORTE NACIONAL",LIBERTADORES HD
+http://svrfit.com:25461/Ednar889967/536286/32553
+#EXTINF:-1 tvg-id="AMC" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/BJZrEHb.png" group-title="CANAIS VARIEDADE E MUSICA",LIFETIME HD
+http://svrfit.com:25461/Ednar889967/536286/556
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFETIME HD 2" tvg-logo="https://i.imgur.com/BJZrEHb.png" group-title="CANAIS VARIEDADE E MUSICA",LIFETIME HD 2
+http://svrfit.com:25461/Ednar889967/536286/122
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="CANAIS DOCUMENTARIOS",LIFETIME HD 2
+http://svrfit.com:25461/Ednar889967/536286/44893
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="CANAIS ESPORTE NACIONAL",LIGA FUTSAL HD
+http://svrfit.com:25461/Ednar889967/536286/169680
+#EXTINF:-1 tvg-id="" tvg-name="LIGA FUTSAL HD2" tvg-logo="https://ligafutsal.com.br/wp-content/uploads/2016/06/logo_LNF_1.png" group-title="CANAIS ESPORTE NACIONAL",LIGA FUTSAL HD2
+http://svrfit.com:25461/Ednar889967/536286/169681
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://i.imgur.com/TIviYnz.png" group-title="CANAIS FILMES E SERIES",MAIS GLOBOSAT HD
+http://svrfit.com:25461/Ednar889967/536286/526
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES E SERIES",MEGAPIX HD
+http://svrfit.com:25461/Ednar889967/536286/567
+#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1044px-MTV_Classic_2017_logo.svg.png" group-title="CANAIS VARIEDADE E MUSICA",MTV PORTUGAL HD
+http://svrfit.com:25461/Ednar889967/536286/166951
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png" group-title="CANAIS VARIEDADE E MUSICA",MTV HD
+http://svrfit.com:25461/Ednar889967/536286/570
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/qpV1u04.png" group-title="CANAIS VARIEDADE E MUSICA",MTV LIVE
+http://svrfit.com:25461/Ednar889967/536286/173
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV LIVE HD" tvg-logo="https://i.imgur.com/qpV1u04.png" group-title="CANAIS VARIEDADE E MUSICA",MTV LIVE HD
+http://svrfit.com:25461/Ednar889967/536286/571
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MTV PORTUGAL- HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/2000px-MTV-Logo.svg.png" group-title="CANAIS VARIEDADE E MUSICA",MTV PORTUGAL- HD
+http://svrfit.com:25461/Ednar889967/536286/166766
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW HD" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="CANAIS VARIEDADE E MUSICA",MULTISHOW HD
+http://svrfit.com:25461/Ednar889967/536286/574
+#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NATGEO KIDS HD" tvg-logo="https://i.imgur.com/BtJZzXn.png" group-title="CANAIS INFANTIL",NATGEO KIDS HD
+http://svrfit.com:25461/Ednar889967/536286/578
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO WILD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS DOCUMENTARIOS",NATGEO WILD HD
+http://svrfit.com:25461/Ednar889967/536286/581
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
+http://svrfit.com:25461/Ednar889967/536286/42234
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
+http://svrfit.com:25461/Ednar889967/536286/584
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD 2
+http://svrfit.com:25461/Ednar889967/536286/124
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD 3" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD 3
+http://svrfit.com:25461/Ednar889967/536286/44891
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="CANAIS ESPORTE NACIONAL",NBA TV HD
+http://svrfit.com:25461/Ednar889967/536286/32900
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="https://i.imgur.com/raQSfvK.png" group-title="CANAIS INFANTIL",NICK JR HD
+http://svrfit.com:25461/Ednar889967/536286/587
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NICKELODEON HD" tvg-logo="https://i.imgur.com/BuRTIdy.png" group-title="CANAIS INFANTIL",NICKELODEON HD
+http://svrfit.com:25461/Ednar889967/536286/589
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/883Enxv.png" group-title="CANAIS ESPORTE NACIONAL",OFF HD
+http://svrfit.com:25461/Ednar889967/536286/6732
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1112px-Paramount_Channel_logo.svg.png" group-title="CANAIS FILMES E SERIES",PARAMOUNT CHANNEL HD
+http://svrfit.com:25461/Ednar889967/536286/594
+#EXTINF:-1 tvg-id="" tvg-name="PLAYKIDS HD" tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/playkids-logo.png" group-title="CANAIS INFANTIL",PLAYKIDS HD
+http://svrfit.com:25461/Ednar889967/536286/226
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP TV SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo.png" group-title="CANAIS VARIEDADE E MUSICA",POLISHOP TV SD
+http://svrfit.com:25461/Ednar889967/536286/69469
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD" tvg-logo="https://www.playplus.com/Content/images/registerpowercouple/power_couple_logo.png" group-title="REALITY SHOW ",POWER COUPLE HD
+http://svrfit.com:25461/Ednar889967/536286/169664
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD4" tvg-logo="https://www.playplus.com/Content/images/registerpowercouple/power_couple_logo.png" group-title="REALITY SHOW ",POWER COUPLE HD4
+http://svrfit.com:25461/Ednar889967/536286/169654
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE 2 HD 2
+http://svrfit.com:25461/Ednar889967/536286/127
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 2 HD 2
+http://svrfit.com:25461/Ednar889967/536286/44889
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 3 HD
+http://svrfit.com:25461/Ednar889967/536286/603
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE 3 HD 2
+http://svrfit.com:25461/Ednar889967/536286/128
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 3 HD 2
+http://svrfit.com:25461/Ednar889967/536286/44888
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 4 HD
+http://svrfit.com:25461/Ednar889967/536286/606
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PREMIERE 4 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE 4 HD 2
+http://svrfit.com:25461/Ednar889967/536286/130
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 4 HD 2
+http://svrfit.com:25461/Ednar889967/536286/44886
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 5 HD
+http://svrfit.com:25461/Ednar889967/536286/609
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PREMIERE 5 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE 5 HD 2
+http://svrfit.com:25461/Ednar889967/536286/132
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 5 HD 2
+http://svrfit.com:25461/Ednar889967/536286/44884
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PREMIERE 6 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE 6 HD 2
+http://svrfit.com:25461/Ednar889967/536286/133
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 6 HD 2
+http://svrfit.com:25461/Ednar889967/536286/44882
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PREMIERE 7 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE 7 HD 2
+http://svrfit.com:25461/Ednar889967/536286/137
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 7 HD 2
+http://svrfit.com:25461/Ednar889967/536286/44880
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE CLUBES HD
+http://svrfit.com:25461/Ednar889967/536286/42183
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="PREMIERE CLUBES HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS ALTERNATIVOS (2)",PREMIERE CLUBES HD 2
+http://svrfit.com:25461/Ednar889967/536286/141
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE CLUBES HD 2
+http://svrfit.com:25461/Ednar889967/536286/44878
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE CLUBES HD*
+http://svrfit.com:25461/Ednar889967/536286/616
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",RBS TV Florianópolis HD
+http://svrfit.com:25461/Ednar889967/536286/183842
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",RBS TV Florianópolis SD
+http://svrfit.com:25461/Ednar889967/536286/183797
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",RBS TV Florianópolis SD²
+http://svrfit.com:25461/Ednar889967/536286/183885
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",RBS TV Porto Alegre HD
+http://svrfit.com:25461/Ednar889967/536286/183843
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",RBS TV Porto Alegre SD
+http://svrfit.com:25461/Ednar889967/536286/183798
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",RBS TV Porto Alegre SD²
+http://svrfit.com:25461/Ednar889967/536286/183886
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD BAHIA SD
+http://svrfit.com:25461/Ednar889967/536286/70344
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD BELEM HD
+http://svrfit.com:25461/Ednar889967/536286/70359
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD BELEM SD
+http://svrfit.com:25461/Ednar889967/536286/70340
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD BRASILIA HD
+http://svrfit.com:25461/Ednar889967/536286/40299
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="RECORD CAMPINAS SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD CAMPINAS SD
+http://svrfit.com:25461/Ednar889967/536286/619
+#EXTINF:-1 tvg-id="" tvg-name="RECORD DF SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD DF SD
+http://svrfit.com:25461/Ednar889967/536286/620
+#EXTINF:-1 tvg-id="" tvg-name="RECORD ES SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD ES SD
+http://svrfit.com:25461/Ednar889967/536286/70339
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD GOIAS HD
+http://svrfit.com:25461/Ednar889967/536286/70351
+#EXTINF:-1 tvg-id="GloboMinas" tvg-name="RECORD MG HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD MG HD
+http://svrfit.com:25461/Ednar889967/536286/40256
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD MINAS HD
+http://svrfit.com:25461/Ednar889967/536286/70346
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD MINAS SD
+http://svrfit.com:25461/Ednar889967/536286/70336
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FHD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD NEWS FHD
+http://svrfit.com:25461/Ednar889967/536286/70363
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD NEWS HD
+http://svrfit.com:25461/Ednar889967/536286/70364
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD NEWS SD
+http://svrfit.com:25461/Ednar889967/536286/70365
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NORDESTE HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD NORDESTE HD
+http://svrfit.com:25461/Ednar889967/536286/624
+#EXTINF:-1 tvg-id="rede.record.porto.alegre.br" tvg-name="RECORD PA HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD PA HD
+http://svrfit.com:25461/Ednar889967/536286/10638
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PARA HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD PARA HD
+http://svrfit.com:25461/Ednar889967/536286/70366
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PARANA PR HD*" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD PARANA PR HD*
+http://svrfit.com:25461/Ednar889967/536286/169608
+#EXTINF:-1 tvg-id="record.rio.janeiro.br" tvg-name="RECORD RJ HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD RJ HD
+http://svrfit.com:25461/Ednar889967/536286/625
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD RJ HD
+http://svrfit.com:25461/Ednar889967/536286/70345
+#EXTINF:-1 tvg-id="record.rio.janeiro.br" tvg-name="RECORD RJ HD 2" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS ALTERNATIVOS (2)",RECORD RJ HD 2
+http://svrfit.com:25461/Ednar889967/536286/144
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD RJ SD
+http://svrfit.com:25461/Ednar889967/536286/626
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD RJ SD
+http://svrfit.com:25461/Ednar889967/536286/70337
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD RJ SD
+http://svrfit.com:25461/Ednar889967/536286/70367
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD**" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD RS HD**
+http://svrfit.com:25461/Ednar889967/536286/70350
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD RS SD
+http://svrfit.com:25461/Ednar889967/536286/70343
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SERGIPE TV ATALAIA HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD SERGIPE TV ATALAIA HD
+http://svrfit.com:25461/Ednar889967/536286/62317
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RECORD SP HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS ABERTOS",RECORD SP HD
+http://svrfit.com:25461/Ednar889967/536286/70348
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="RECORD SP HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD SP HD
+http://svrfit.com:25461/Ednar889967/536286/627
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD SP HD
+http://svrfit.com:25461/Ednar889967/536286/70368
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP INTERIOR HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD SP INTERIOR HD
+http://svrfit.com:25461/Ednar889967/536286/58891
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="RECORD SP SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD SP SD
+http://svrfit.com:25461/Ednar889967/536286/628
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD SP SD
+http://svrfit.com:25461/Ednar889967/536286/70338
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD SP SD
+http://svrfit.com:25461/Ednar889967/536286/70369
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="RECORD SP SD 2" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD SP SD 2
+http://svrfit.com:25461/Ednar889967/536286/146
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV CABRALIA HD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD",RECORD TV CABRALIA HD
+http://svrfit.com:25461/Ednar889967/536286/70349
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV SD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="CANAIS ESPORTE NACIONAL",RED BULL TV SD
+http://svrfit.com:25461/Ednar889967/536286/138843
+#EXTINF:-1 tvg-id="" tvg-name="REDBULL TV HD" tvg-logo="" group-title="CANAIS ESPORTE INTERNACIONAL (cortesia)",REDBULL TV HD
+http://svrfit.com:25461/Ednar889967/536286/62274
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Boa Vista HD
+http://svrfit.com:25461/Ednar889967/536286/183844
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Boa Vista SD
+http://svrfit.com:25461/Ednar889967/536286/183799
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Boa Vista SD²
+http://svrfit.com:25461/Ednar889967/536286/183887
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Macapá HD
+http://svrfit.com:25461/Ednar889967/536286/183845
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Macapá SD
+http://svrfit.com:25461/Ednar889967/536286/183800
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Macapá SD²
+http://svrfit.com:25461/Ednar889967/536286/183888
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Manaus HD
+http://svrfit.com:25461/Ednar889967/536286/183846
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Manaus SD
+http://svrfit.com:25461/Ednar889967/536286/183801
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Manaus SD²
+http://svrfit.com:25461/Ednar889967/536286/183889
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Porto Velho HD
+http://svrfit.com:25461/Ednar889967/536286/183847
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Porto Velho SD
+http://svrfit.com:25461/Ednar889967/536286/183802
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Porto Velho SD²
+http://svrfit.com:25461/Ednar889967/536286/183890
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Rio Branco HD
+http://svrfit.com:25461/Ednar889967/536286/183848
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Rio Branco SD
+http://svrfit.com:25461/Ednar889967/536286/183803
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Rede Amazônica Rio Branco SD²
+http://svrfit.com:25461/Ednar889967/536286/183891
+#EXTINF:-1 tvg-id="" tvg-name="REDE CNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="CANAIS ABERTOS",REDE CNT HD
+http://svrfit.com:25461/Ednar889967/536286/166413
+#EXTINF:-1 tvg-id="" tvg-name="RIO TV CAMARA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5998ed8ba8ba442dabec594fe98e5ff8.jpg" group-title="CANAIS TV PUBLICA",RIO TV CAMARA HD
+http://svrfit.com:25461/Ednar889967/536286/144670
+#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",RPC Curitiba HD
+http://svrfit.com:25461/Ednar889967/536286/183849
+#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",RPC Curitiba SD
+http://svrfit.com:25461/Ednar889967/536286/183804
+#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",RPC Curitiba SD²
+http://svrfit.com:25461/Ednar889967/536286/183892
+#EXTINF:-1 tvg-id="rtpi.radiotv.portuguesa.intl.br" tvg-name="RT DOCUMENTARY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="CANAIS DOCUMENTARIOS",RT DOCUMENTARY CHANNEL HD
+http://svrfit.com:25461/Ednar889967/536286/32644
+#EXTINF:-1 tvg-id="sbt.vitoria.br" tvg-name="SBT 2 HD" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT 2 HD
+http://svrfit.com:25461/Ednar889967/536286/44824
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT MG (TV ALTEROSA MG)*" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT MG (TV ALTEROSA MG)*
+http://svrfit.com:25461/Ednar889967/536286/188170
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT MG 2 (TV ALTEROSA MG)*" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT MG 2 (TV ALTEROSA MG)*
+http://svrfit.com:25461/Ednar889967/536286/188171
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PARANA HD" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT PARANA HD
+http://svrfit.com:25461/Ednar889967/536286/166558
+#EXTINF:-1 tvg-id="" tvg-name="SHOPTIME HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/shoptime-logo.png" group-title="CANAIS VARIEDADE E MUSICA",SHOPTIME HD
+http://svrfit.com:25461/Ednar889967/536286/38444
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN   CHANNEL HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/880px-Smithsonian_logo_color.svg.png" group-title="CANAIS DOCUMENTARIOS",SMITHSONIAN   CHANNEL HD 1
+http://svrfit.com:25461/Ednar889967/536286/167184
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/880px-Smithsonian_logo_color.svg.png" group-title="CANAIS DOCUMENTARIOS",SMITHSONIAN CHANNEL FHD
+http://svrfit.com:25461/Ednar889967/536286/167183
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal_Sony.svg/1280px-Canal_Sony.svg.png" group-title="CANAIS FILMES E SERIES",SONY HD
+http://svrfit.com:25461/Ednar889967/536286/448
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/Cq4Z5Od.png" group-title="CANAIS FILMES E SERIES",SPACE HD
+http://svrfit.com:25461/Ednar889967/536286/445
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD 2" tvg-logo="https://i.imgur.com/Cq4Z5Od.png" group-title="CANAIS FILMES E SERIES",SPACE HD 2
+http://svrfit.com:25461/Ednar889967/536286/150
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD 2" tvg-logo="https://i.imgur.com/Cq4Z5Od.png" group-title="CANAIS FILMES E SERIES",SPACE HD 2
+http://svrfit.com:25461/Ednar889967/536286/44874
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/V0k4CDo.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 2 HD
+http://svrfit.com:25461/Ednar889967/536286/6730
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/nvCjg9X.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 3 HD
+http://svrfit.com:25461/Ednar889967/536286/6731
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV HD
+http://svrfit.com:25461/Ednar889967/536286/6729
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD 2" tvg-logo="https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV HD 2
+http://svrfit.com:25461/Ednar889967/536286/44868
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANAIS FILMES E SERIES",STAR CHANNEL HD
+http://svrfit.com:25461/Ednar889967/536286/479
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANAIS FILMES E SERIES",STAR CHANNEL HD 2
+http://svrfit.com:25461/Ednar889967/536286/42223
+#EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="STAR HITS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/512px-Star_Hits_2020.svg.png" group-title="CANAIS FILMES E SERIES",STAR HITS 1 HD
+http://svrfit.com:25461/Ednar889967/536286/483
+#EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="STAR HITS 1 HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/512px-Star_Hits_2020.svg.png" group-title="CANAIS FILMES E SERIES",STAR HITS 1 HD 2
+http://svrfit.com:25461/Ednar889967/536286/44925
+#EXTINF:-1 tvg-id="fox.premium.2.br" tvg-name="STAR HITS 2 HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360087397331/brasil_-_hits_2.png" group-title="CANAIS FILMES E SERIES",STAR HITS 2 HD
+http://svrfit.com:25461/Ednar889967/536286/486
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="CANAIS FILMES E SERIES",STAR LIFE HD
+http://svrfit.com:25461/Ednar889967/536286/42227
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/Sbws5zu.png" group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL HD
+http://svrfit.com:25461/Ednar889967/536286/433
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CINE 1 HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/589e46cf579fb3ae22f1c2c6/1487636643728-XYD56YUF3YXML22ZBN6T/ke17ZwdGBToddI8pDm48kLgVGMx6fPuITWBSg8B9VoVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyjzZwvqgkHP4h-JgDDRHgFwgWqtkbRiosDEiEqVJAWZzsVf_PkkhRg42gYLfi689s/image-asset.png" group-title="CANAIS SUPER CINE ",SUPER CINE 1 HD
+http://svrfit.com:25461/Ednar889967/536286/52122
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CINE 2 HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/589e46cf579fb3ae22f1c2c6/1487636643728-XYD56YUF3YXML22ZBN6T/ke17ZwdGBToddI8pDm48kLgVGMx6fPuITWBSg8B9VoVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyjzZwvqgkHP4h-JgDDRHgFwgWqtkbRiosDEiEqVJAWZzsVf_PkkhRg42gYLfi689s/image-asset.png" group-title="CANAIS SUPER CINE ",SUPER CINE 2 HD
+http://svrfit.com:25461/Ednar889967/536286/52114
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CINE 3 HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/589e46cf579fb3ae22f1c2c6/1487636643728-XYD56YUF3YXML22ZBN6T/ke17ZwdGBToddI8pDm48kLgVGMx6fPuITWBSg8B9VoVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyjzZwvqgkHP4h-JgDDRHgFwgWqtkbRiosDEiEqVJAWZzsVf_PkkhRg42gYLfi689s/image-asset.png" group-title="CANAIS SUPER CINE ",SUPER CINE 3 HD
+http://svrfit.com:25461/Ednar889967/536286/52115
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CINE 4 HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/589e46cf579fb3ae22f1c2c6/1487636643728-XYD56YUF3YXML22ZBN6T/ke17ZwdGBToddI8pDm48kLgVGMx6fPuITWBSg8B9VoVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyjzZwvqgkHP4h-JgDDRHgFwgWqtkbRiosDEiEqVJAWZzsVf_PkkhRg42gYLfi689s/image-asset.png" group-title="CANAIS SUPER CINE ",SUPER CINE 4 HD
+http://svrfit.com:25461/Ednar889967/536286/52116
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CINE 5 HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/589e46cf579fb3ae22f1c2c6/1487636643728-XYD56YUF3YXML22ZBN6T/ke17ZwdGBToddI8pDm48kLgVGMx6fPuITWBSg8B9VoVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyjzZwvqgkHP4h-JgDDRHgFwgWqtkbRiosDEiEqVJAWZzsVf_PkkhRg42gYLfi689s/image-asset.png" group-title="CANAIS SUPER CINE ",SUPER CINE 5 HD
+http://svrfit.com:25461/Ednar889967/536286/52117
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CINE 6 HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/589e46cf579fb3ae22f1c2c6/1487636643728-XYD56YUF3YXML22ZBN6T/ke17ZwdGBToddI8pDm48kLgVGMx6fPuITWBSg8B9VoVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyjzZwvqgkHP4h-JgDDRHgFwgWqtkbRiosDEiEqVJAWZzsVf_PkkhRg42gYLfi689s/image-asset.png" group-title="CANAIS SUPER CINE ",SUPER CINE 6 HD
+http://svrfit.com:25461/Ednar889967/536286/52118
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CINE 7 HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/589e46cf579fb3ae22f1c2c6/1487636643728-XYD56YUF3YXML22ZBN6T/ke17ZwdGBToddI8pDm48kLgVGMx6fPuITWBSg8B9VoVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyjzZwvqgkHP4h-JgDDRHgFwgWqtkbRiosDEiEqVJAWZzsVf_PkkhRg42gYLfi689s/image-asset.png" group-title="CANAIS SUPER CINE ",SUPER CINE 7 HD
+http://svrfit.com:25461/Ednar889967/536286/52119
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CINE 8 HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/589e46cf579fb3ae22f1c2c6/1487636643728-XYD56YUF3YXML22ZBN6T/ke17ZwdGBToddI8pDm48kLgVGMx6fPuITWBSg8B9VoVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyjzZwvqgkHP4h-JgDDRHgFwgWqtkbRiosDEiEqVJAWZzsVf_PkkhRg42gYLfi689s/image-asset.png" group-title="CANAIS SUPER CINE ",SUPER CINE 8 HD
+http://svrfit.com:25461/Ednar889967/536286/52120
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CINE 9 HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/589e46cf579fb3ae22f1c2c6/1487636643728-XYD56YUF3YXML22ZBN6T/ke17ZwdGBToddI8pDm48kLgVGMx6fPuITWBSg8B9VoVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyjzZwvqgkHP4h-JgDDRHgFwgWqtkbRiosDEiEqVJAWZzsVf_PkkhRg42gYLfi689s/image-asset.png" group-title="CANAIS SUPER CINE ",SUPER CINE 9 HD
+http://svrfit.com:25461/Ednar889967/536286/52121
+#EXTINF:-1 tvg-id="" tvg-name="SUPER CINE HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/589e46cf579fb3ae22f1c2c6/1487636643728-XYD56YUF3YXML22ZBN6T/ke17ZwdGBToddI8pDm48kLgVGMx6fPuITWBSg8B9VoVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyjzZwvqgkHP4h-JgDDRHgFwgWqtkbRiosDEiEqVJAWZzsVf_PkkhRg42gYLfi689s/image-asset.png" group-title="CANAIS SUPER CINE ",SUPER CINE HD
+http://svrfit.com:25461/Ednar889967/536286/52113
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1000px-SYFY.svg.png" group-title="CANAIS FILMES E SERIES",SYFY HD
+http://svrfit.com:25461/Ednar889967/536286/430
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1000px-SYFY.svg.png" group-title="CANAIS FILMES E SERIES",SYFY HD 2
+http://svrfit.com:25461/Ednar889967/536286/166
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1000px-SYFY.svg.png" group-title="CANAIS FILMES E SERIES",SYFY HD 2
+http://svrfit.com:25461/Ednar889967/536286/44866
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="CANAIS FILMES E SERIES",TBS HD
+http://svrfit.com:25461/Ednar889967/536286/52602
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="CANAIS FILMES E SERIES",TBS SD
+http://svrfit.com:25461/Ednar889967/536286/71510
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION  HD" tvg-logo="https://i.imgur.com/VNquqNg.png" group-title="CANAIS TELECINE",TELECINE ACTION  HD
+http://svrfit.com:25461/Ednar889967/536286/425
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE ACTION HD 2
+http://svrfit.com:25461/Ednar889967/536286/44864
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD H264" tvg-logo="https://i.imgur.com/VNquqNg.png" group-title="CANAIS TELECINE",TELECINE ACTION HD H264
+http://svrfit.com:25461/Ednar889967/536286/169
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.imgur.com/xYb2TAf.png" group-title="CANAIS TELECINE",TELECINE CULT HD
+http://svrfit.com:25461/Ednar889967/536286/422
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="TELECINE CULT HD 2" tvg-logo="https://i.imgur.com/xYb2TAf.png" group-title="CANAIS ALTERNATIVOS (2)",TELECINE CULT HD 2
+http://svrfit.com:25461/Ednar889967/536286/172
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE CULT HD 2
+http://svrfit.com:25461/Ednar889967/536286/44862
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.imgur.com/U1bMyBf.png" group-title="CANAIS TELECINE",TELECINE FUN HD
+http://svrfit.com:25461/Ednar889967/536286/419
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="TELECINE FUN HD 2" tvg-logo="https://i.imgur.com/U1bMyBf.png" group-title="CANAIS ALTERNATIVOS (2)",TELECINE FUN HD 2
+http://svrfit.com:25461/Ednar889967/536286/176
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE FUN HD 2
+http://svrfit.com:25461/Ednar889967/536286/44860
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/TIlXJSq.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD
+http://svrfit.com:25461/Ednar889967/536286/416
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE PIPOCA HD 2
+http://svrfit.com:25461/Ednar889967/536286/44858
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA HD H264" tvg-logo="https://i.imgur.com/TIlXJSq.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD H264
+http://svrfit.com:25461/Ednar889967/536286/183
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/9JmVPYR.png" group-title="CANAIS TELECINE",TELECINE PREMIUM HD
+http://svrfit.com:25461/Ednar889967/536286/413
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="TELECINE PREMIUM HD 2" tvg-logo="https://i.imgur.com/9JmVPYR.png" group-title="CANAIS ALTERNATIVOS (2)",TELECINE PREMIUM HD 2
+http://svrfit.com:25461/Ednar889967/536286/186
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE PREMIUM HD 2
+http://svrfit.com:25461/Ednar889967/536286/44856
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.imgur.com/G3mRvDd.png" group-title="CANAIS TELECINE",TELECINE TOUCH HD
+http://svrfit.com:25461/Ednar889967/536286/410
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="TELECINE TOUCH HD 2" tvg-logo="https://i.imgur.com/G3mRvDd.png" group-title="CANAIS ALTERNATIVOS (2)",TELECINE TOUCH HD 2
+http://svrfit.com:25461/Ednar889967/536286/190
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD 2" tvg-logo="" group-title="CANAIS ALTERNATIVOS (2)",TELECINE TOUCH HD 2
+http://svrfit.com:25461/Ednar889967/536286/44854
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD " tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="CANAIS DOCUMENTARIOS",TLC HD 
+http://svrfit.com:25461/Ednar889967/536286/196
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC SD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="CANAIS DOCUMENTARIOS",TLC SD
+http://svrfit.com:25461/Ednar889967/536286/44852
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/W87ww2P.png" group-title="CANAIS FILMES E SERIES",TNT HD
+http://svrfit.com:25461/Ednar889967/536286/407
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD 2" tvg-logo="https://i.imgur.com/W87ww2P.png" group-title="CANAIS FILMES E SERIES",TNT HD 2
+http://svrfit.com:25461/Ednar889967/536286/210
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD 2" tvg-logo="https://i.imgur.com/W87ww2P.png" group-title="CANAIS FILMES E SERIES",TNT HD 2
+http://svrfit.com:25461/Ednar889967/536286/44850
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TNT-oficial.png/600px-TNT-oficial.png" group-title="CANAIS ESPORTE NACIONAL",TNT HD**
+http://svrfit.com:25461/Ednar889967/536286/68536
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/slZQxUh.png" group-title="CANAIS FILMES E SERIES",TNT SERIES HD
+http://svrfit.com:25461/Ednar889967/536286/404
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="CANAIS ESPORTE NACIONAL",TNT SPORTS 3
+http://svrfit.com:25461/Ednar889967/536286/87419
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="CANAIS ESPORTE NACIONAL",TNT SPORTS HD
+http://svrfit.com:25461/Ednar889967/536286/358
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="CANAIS ESPORTE NACIONAL",TNT SPORTS HD 2
+http://svrfit.com:25461/Ednar889967/536286/68547
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="CANAIS INFANTIL",TOONCAST HD
+http://svrfit.com:25461/Ednar889967/536286/402
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Anhanguera Goiânia HD
+http://svrfit.com:25461/Ednar889967/536286/183850
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Anhanguera Goiânia SD
+http://svrfit.com:25461/Ednar889967/536286/183805
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Anhanguera Goiânia SD²
+http://svrfit.com:25461/Ednar889967/536286/183893
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS RELIGIOSOS",TV APARECIDA HD2
+http://svrfit.com:25461/Ednar889967/536286/77252
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS RELIGIOSOS",TV APARECIDA SD
+http://svrfit.com:25461/Ednar889967/536286/96811
+#EXTINF:-1 tvg-id="" tvg-name="TV ASSEMBLEIA BAHIA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/af1d7349674a4783de3cb92df389e3fe.png" group-title="CANAIS TV PUBLICA",TV ASSEMBLEIA BAHIA HD
+http://svrfit.com:25461/Ednar889967/536286/144667
+#EXTINF:-1 tvg-id="" tvg-name="TV ASSEMBLEIA CEARA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/45828a4f42fb7576a6df251a6c52408b.png" group-title="CANAIS TV PUBLICA",TV ASSEMBLEIA CEARA HD
+http://svrfit.com:25461/Ednar889967/536286/144666
+#EXTINF:-1 tvg-id="" tvg-name="TV ASSEMBLEIA PARAIBA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/873e4acc282522805e58be020909f00c.png" group-title="CANAIS TV PUBLICA",TV ASSEMBLEIA PARAIBA HD
+http://svrfit.com:25461/Ednar889967/536286/144668
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Bahia HD
+http://svrfit.com:25461/Ednar889967/536286/183851
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Bahia SD
+http://svrfit.com:25461/Ednar889967/536286/183806
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Bahia SD²
+http://svrfit.com:25461/Ednar889967/536286/183894
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="CANAIS TV PUBLICA",TV BRASIL HD
+http://svrfit.com:25461/Ednar889967/536286/144663
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="TV CABO BRANCO GLOBO" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",TV CABO BRANCO GLOBO
+http://svrfit.com:25461/Ednar889967/536286/141788
+#EXTINF:-1 tvg-id="" tvg-name="TV CABO MOSSORO HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ae36bf348d8b7c869d333e732413fd88.png" group-title="CANAIS ABERTOS",TV CABO MOSSORO HD
+http://svrfit.com:25461/Ednar889967/536286/144662
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3164f442867991978299da9684b6b44b.jpg" group-title="CANAIS TV PUBLICA",TV CAMARA HD
+http://svrfit.com:25461/Ednar889967/536286/144664
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA SP" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da4f3b9f4f48aa35f878d0f896949724.jpg" group-title="CANAIS TV PUBLICA",TV CAMARA SP
+http://svrfit.com:25461/Ednar889967/536286/144665
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Centro-américa Cuiabá HD
+http://svrfit.com:25461/Ednar889967/536286/183877
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Centro-américa Cuiabá SD
+http://svrfit.com:25461/Ednar889967/536286/183832
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",TV Centro-américa Cuiabá SD²
+http://svrfit.com:25461/Ednar889967/536286/183920
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="TV DIARIO HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvdiarioce.png" group-title="CANAIS ABERTOS",TV DIARIO HD*
+http://svrfit.com:25461/Ednar889967/536286/62318
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="CANAIS RELIGIOSOS",TV EVANGELIZAR 
+http://svrfit.com:25461/Ednar889967/536286/77251
+#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Fronteira HD
+http://svrfit.com:25461/Ednar889967/536286/183852
+#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Fronteira SD
+http://svrfit.com:25461/Ednar889967/536286/183807
+#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Fronteira SD²
+http://svrfit.com:25461/Ednar889967/536286/183895
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="https://4.bp.blogspot.com/-WoyAbHmtFRk/XQlyNE_F0gI/AAAAAAAABHE/0I8aKX_x6tEtaarSLuMvW6w6Rp1ZiwBPwCLcBGAs/s320/Screenshot_2019-06-18-20-19-51.png" group-title="CANAIS ABERTOS",TV GAZETA HD
+http://svrfit.com:25461/Ednar889967/536286/62315
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Gazeta HD
+http://svrfit.com:25461/Ednar889967/536286/183853
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Gazeta SD
+http://svrfit.com:25461/Ednar889967/536286/183808
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Gazeta SD²
+http://svrfit.com:25461/Ednar889967/536286/183896
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Brasília HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Brasília HD
+http://svrfit.com:25461/Ednar889967/536286/183854
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Brasília SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Brasília SD
+http://svrfit.com:25461/Ednar889967/536286/183809
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Brasília SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Brasília SD²
+http://svrfit.com:25461/Ednar889967/536286/183897
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Minas HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Minas HD
+http://svrfit.com:25461/Ednar889967/536286/183855
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Minas SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Minas SD
+http://svrfit.com:25461/Ednar889967/536286/183810
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Minas SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Minas SD²
+http://svrfit.com:25461/Ednar889967/536286/183898
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Nordeste HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Nordeste HD
+http://svrfit.com:25461/Ednar889967/536286/183856
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Nordeste SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Nordeste SD
+http://svrfit.com:25461/Ednar889967/536286/183811
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Nordeste SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Nordeste SD²
+http://svrfit.com:25461/Ednar889967/536286/183899
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Rio HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Rio HD
+http://svrfit.com:25461/Ednar889967/536286/183857
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Rio SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Rio SD
+http://svrfit.com:25461/Ednar889967/536286/183812
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo Rio SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo Rio SD²
+http://svrfit.com:25461/Ednar889967/536286/183900
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo São Paulo HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo São Paulo HD
+http://svrfit.com:25461/Ednar889967/536286/183858
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo São Paulo SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo São Paulo SD
+http://svrfit.com:25461/Ednar889967/536286/183813
+#EXTINF:-1 tvg-id="" tvg-name="TV Globo São Paulo SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Globo São Paulo SD²
+http://svrfit.com:25461/Ednar889967/536286/183901
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Integração Uberlândia HD
+http://svrfit.com:25461/Ednar889967/536286/183859
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Integração Uberlândia SD
+http://svrfit.com:25461/Ednar889967/536286/183814
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Integração Uberlândia SD²
+http://svrfit.com:25461/Ednar889967/536286/183902
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Liberal Belém HD
+http://svrfit.com:25461/Ednar889967/536286/183860
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Liberal Belém SD
+http://svrfit.com:25461/Ednar889967/536286/183815
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Liberal Belém SD²
+http://svrfit.com:25461/Ednar889967/536286/183903
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Mirante Cocais HD
+http://svrfit.com:25461/Ednar889967/536286/183861
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Mirante Cocais SD
+http://svrfit.com:25461/Ednar889967/536286/183816
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Mirante Cocais SD²
+http://svrfit.com:25461/Ednar889967/536286/183904
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Mirante Imperatriz HD
+http://svrfit.com:25461/Ednar889967/536286/183862
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Mirante Imperatriz SD
+http://svrfit.com:25461/Ednar889967/536286/183817
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Mirante Imperatriz SD²
+http://svrfit.com:25461/Ednar889967/536286/183905
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luiz HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Mirante São Luiz HD
+http://svrfit.com:25461/Ednar889967/536286/183863
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luiz SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Mirante São Luiz SD
+http://svrfit.com:25461/Ednar889967/536286/183818
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luiz SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Mirante São Luiz SD²
+http://svrfit.com:25461/Ednar889967/536286/183906
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Morena Campo Grande HD
+http://svrfit.com:25461/Ednar889967/536286/183864
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Morena Campo Grande SD
+http://svrfit.com:25461/Ednar889967/536286/183819
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande SD²" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Morena Campo Grande SD²
+http://svrfit.com:25461/Ednar889967/536286/183907
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO MILENIO " tvg-logo="" group-title="CANAIS RELIGIOSOS",TV NOVO MILENIO 
+http://svrfit.com:25461/Ednar889967/536286/80140
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS 01 HD" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/001/logo/thumbnail/nsports-site.png" group-title="CANAIS ESPORTE NACIONAL",TV NSPORTS 01 HD
+http://svrfit.com:25461/Ednar889967/536286/188384
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS 02 HD" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/001/logo/thumbnail/nsports-site.png" group-title="CANAIS ESPORTE NACIONAL",TV NSPORTS 02 HD
+http://svrfit.com:25461/Ednar889967/536286/188385
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS 03 HD" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/001/logo/thumbnail/nsports-site.png" group-title="CANAIS ESPORTE NACIONAL",TV NSPORTS 03 HD
+http://svrfit.com:25461/Ednar889967/536286/188386
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS 04 HD" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/001/logo/thumbnail/nsports-site.png" group-title="CANAIS ESPORTE NACIONAL",TV NSPORTS 04 HD
+http://svrfit.com:25461/Ednar889967/536286/188387
+#EXTINF:-1 tvg-id="" tvg-name="TV NSPORTS 05 HD" tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/001/logo/thumbnail/nsports-site.png" group-title="CANAIS ESPORTE NACIONAL",TV NSPORTS 05 HD
+http://svrfit.com:25461/Ednar889967/536286/188388
+#EXTINF:-1 tvg-id="" tvg-name="TV ON FM PORTUGAL HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/cc4cd15f95807d0d3c794fa75b574ac3.png" group-title="CANAIS VARIEDADE E MUSICA",TV ON FM PORTUGAL HD
+http://svrfit.com:25461/Ednar889967/536286/169609
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD " tvg-logo="http://www.paroquiasaojoseassai.com.br/site/images/pascom/paieterno.png" group-title="CANAIS RELIGIOSOS",TV PAI ETERNO HD 
+http://svrfit.com:25461/Ednar889967/536286/141756
+#EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV PAMPA RS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="CANAIS ABERTOS",TV PAMPA RS HD
+http://svrfit.com:25461/Ednar889967/536286/58893
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="CANAIS INFANTIL",TV RA TIM BUM HD
+http://svrfit.com:25461/Ednar889967/536286/12951
+#EXTINF:-1 tvg-id="" tvg-name="TV REDE GOSPEL SD" tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png/v1/fit/w_2500,h_1330,al_c/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png" group-title="CANAIS RELIGIOSOS",TV REDE GOSPEL SD
+http://svrfit.com:25461/Ednar889967/536286/138842
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV TEM Bauru HD
+http://svrfit.com:25461/Ednar889967/536286/183865
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV TEM Bauru SD
+http://svrfit.com:25461/Ednar889967/536286/183820
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",TV TEM Bauru SD²
+http://svrfit.com:25461/Ednar889967/536286/183908
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV TEM Itapetininga HD
+http://svrfit.com:25461/Ednar889967/536286/183866
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV TEM Itapetininga SD
+http://svrfit.com:25461/Ednar889967/536286/183821
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",TV TEM Itapetininga SD²
+http://svrfit.com:25461/Ednar889967/536286/183909
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV TEM Sorocaba HD
+http://svrfit.com:25461/Ednar889967/536286/183868
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV TEM Sorocaba SD
+http://svrfit.com:25461/Ednar889967/536286/183823
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",TV TEM Sorocaba SD²
+http://svrfit.com:25461/Ednar889967/536286/183911
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV TEM São José do Rio Preto HD
+http://svrfit.com:25461/Ednar889967/536286/183867
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV TEM São José do Rio Preto SD
+http://svrfit.com:25461/Ednar889967/536286/183822
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",TV TEM São José do Rio Preto SD²
+http://svrfit.com:25461/Ednar889967/536286/183910
+#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Tribuna HD
+http://svrfit.com:25461/Ednar889967/536286/183869
+#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Tribuna SD
+http://svrfit.com:25461/Ednar889967/536286/183824
+#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",TV Tribuna SD²
+http://svrfit.com:25461/Ednar889967/536286/183912
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Verdes Mares Cariri HD
+http://svrfit.com:25461/Ednar889967/536286/183870
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Verdes Mares Cariri SD
+http://svrfit.com:25461/Ednar889967/536286/183825
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",TV Verdes Mares Cariri SD²
+http://svrfit.com:25461/Ednar889967/536286/183913
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Verdes Mares Fortaleza HD
+http://svrfit.com:25461/Ednar889967/536286/183871
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",TV Verdes Mares Fortaleza SD
+http://svrfit.com:25461/Ednar889967/536286/183826
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",TV Verdes Mares Fortaleza SD²
+http://svrfit.com:25461/Ednar889967/536286/183914
+#EXTINF:-1 tvg-id="" tvg-name="TVE RS" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da95b302b2bbbda893559bceda5e2b13.png" group-title="CANAIS TV PUBLICA",TVE RS
+http://svrfit.com:25461/Ednar889967/536286/144671
+#EXTINF:-1 tvg-id="tv.jornal.br" tvg-name="TVJN NORDESTE HD" tvg-logo="https://2.bp.blogspot.com/-zZN76xxZcpg/Xt_EsRKjmII/AAAAAAAAC-4/qXbnkSGOuqUJQ7eMolPBlzTmb3pUqiv9QCPcBGAYYCw/s320/Screenshot_2020-06-09-14-10-37.png" group-title="CANAIS ABERTOS",TVJN NORDESTE HD
+http://svrfit.com:25461/Ednar889967/536286/62313
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://3.bp.blogspot.com/-SwyPin6YdYY/UkSO6baMobI/AAAAAAAACfg/Ci26ar4WO54/s1600/Logo_Universal-Channel_HD.svg.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://svrfit.com:25461/Ednar889967/536286/388
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD 2" tvg-logo="https://3.bp.blogspot.com/-SwyPin6YdYY/UkSO6baMobI/AAAAAAAACfg/Ci26ar4WO54/s1600/Logo_Universal-Channel_HD.svg.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL HD 2
+http://svrfit.com:25461/Ednar889967/536286/215
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL HD 2" tvg-logo="https://3.bp.blogspot.com/-SwyPin6YdYY/UkSO6baMobI/AAAAAAAACfg/Ci26ar4WO54/s1600/Logo_Universal-Channel_HD.svg.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL HD 2
+http://svrfit.com:25461/Ednar889967/536286/44847
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",Vanguarda São José dos Campos HD
+http://svrfit.com:25461/Ednar889967/536286/183872
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",Vanguarda São José dos Campos SD
+http://svrfit.com:25461/Ednar889967/536286/183827
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Vanguarda São José dos Campos SD²
+http://svrfit.com:25461/Ednar889967/536286/183915
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté HD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",Vanguarda Taubaté HD
+http://svrfit.com:25461/Ednar889967/536286/183873
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté SD" tvg-logo="" group-title="GLOBO (ALTERNATIVO)",Vanguarda Taubaté SD
+http://svrfit.com:25461/Ednar889967/536286/183828
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté SD²" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",Vanguarda Taubaté SD²
+http://svrfit.com:25461/Ednar889967/536286/183916
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD 2" tvg-logo="http://images.mi.tv/channels/br_vh1_m.png" group-title="CANAIS VARIEDADE E MUSICA",VH1 HD 2
+http://svrfit.com:25461/Ednar889967/536286/385
+#EXTINF:-1 tvg-id="vh1.megahits.br" tvg-name="VH1 MEGA HITS HD (Rússia)" tvg-logo="https://www.pngitem.com/pimgs/m/296-2960741_vh1-mega-hits-font-logo-canal-vh1-megahits.png" group-title="CANAIS VARIEDADE E MUSICA",VH1 MEGA HITS HD (Rússia)
+http://svrfit.com:25461/Ednar889967/536286/166765
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/gONN2WV.png" group-title="CANAIS VARIEDADE E MUSICA",VIVA HD
+http://svrfit.com:25461/Ednar889967/536286/382
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD 2" tvg-logo="https://i.imgur.com/gONN2WV.png" group-title="CANAIS VARIEDADE E MUSICA",VIVA HD 2
+http://svrfit.com:25461/Ednar889967/536286/44845
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD 2" tvg-logo="https://i.imgur.com/gONN2WV.png" group-title="CANAIS VARIEDADE E MUSICA",VIVA HD 2
+http://svrfit.com:25461/Ednar889967/536286/217
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.imgur.com/NUrsG5a.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL HD
+http://svrfit.com:25461/Ednar889967/536286/378
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD 2" tvg-logo="https://i.imgur.com/NUrsG5a.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL HD 2
+http://svrfit.com:25461/Ednar889967/536286/219
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD 2" tvg-logo="https://i.imgur.com/NUrsG5a.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL HD 2
+http://svrfit.com:25461/Ednar889967/536286/44843
+#EXTINF:-1 tvg-id="" tvg-name="YEEAAH TV HD" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="CANAL GAMES ON-LINE (cortesia)",YEEAAH TV HD
+http://svrfit.com:25461/Ednar889967/536286/169611
+#EXTINF:-1 tvg-id="" tvg-name="YEEAAH TV HD1" tvg-logo="http://canalyeeah.com.br/wp-content/uploads/2021/01/YEEAAHTV-2021_SITE.png" group-title="CANAL GAMES ON-LINE (cortesia)",YEEAAH TV HD1
+http://svrfit.com:25461/Ednar889967/536286/183405
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/TKimMVw.png" group-title="CANAIS INFANTIL",ZOOMOO HD
+http://svrfit.com:25461/Ednar889967/536286/375
+#EXTINF:-1 tvg-id="" tvg-name="﻿EPTV Campinas HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="GLOBO (ALTERNATIVO)",﻿EPTV Campinas HD
+http://svrfit.com:25461/Ednar889967/536286/183835
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV 4 HD" tvg-logo="https://4.bp.blogspot.com/-6PAxnx2KIL8/WRztWqRfVKI/AAAAAAAA5kY/WH3cRpu__rIsX7Bpkh5ZjOLjP3PsSWBAQCLcB/s640/sportv4.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 4 HD
+http://svrfit.com:25461/Ednar889967/536286/188992
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://img.apksum.com/65/com.aetn.aetv.watch/3.3.2/icon.png" group-title="CANAIS FILMES E SERIES",A&E FHD
+http://svrfit.com:25461/Ednar889967/536286/222
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/4COmsGO.png" group-title="CANAIS FILMES E SERIES",AMC FHD
+http://svrfit.com:25461/Ednar889967/536286/230
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/CqfEXXq.png" group-title="CANAIS DOCUMENTARIOS",ANIMAL PLANET FHD
+http://svrfit.com:25461/Ednar889967/536286/233
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="CANAIS FILMES E SERIES",ARTE 1 FHD
+http://svrfit.com:25461/Ednar889967/536286/252
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/eZobXtp.png" group-title="CANAIS FILMES E SERIES",AXN FHD
+http://svrfit.com:25461/Ednar889967/536286/239
+#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://i.imgur.com/ZOj6vCC.png" group-title="CANAIS ABERTOS",BAND CAMPINAS HD
+http://svrfit.com:25461/Ednar889967/536286/246
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FHD" tvg-logo="https://i.imgur.com/My3GvmW.png" group-title="CANAIS NOTICIA",BAND NEWS FHD
+http://svrfit.com:25461/Ednar889967/536286/247
+#EXTINF:-1 tvg-id="band.rj.br" tvg-name="BAND RS HD" tvg-logo="https://i.imgur.com/ZOj6vCC.png" group-title="CANAIS ABERTOS",BAND RS HD
+http://svrfit.com:25461/Ednar889967/536286/251
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD" tvg-logo="https://i.imgur.com/ZOj6vCC.png" group-title="CANAIS ABERTOS",BAND SP FHD
+http://svrfit.com:25461/Ednar889967/536286/70077
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/ZOj6vCC.png" group-title="CANAIS ABERTOS",BAND SP HD
+http://svrfit.com:25461/Ednar889967/536286/254
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="https://i.imgur.com/Isybq80.png" group-title="CANAIS INFANTIL",BOOMERANG FHD
+http://svrfit.com:25461/Ednar889967/536286/263
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA SD*" tvg-logo="https://i.imgur.com/miBsg70.png" group-title="CANAIS RELIGIOSOS",CANCAO NOVA SD*
+http://svrfit.com:25461/Ednar889967/536286/5784
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.imgur.com/miBsg70.png" group-title="CANAIS RELIGIOSOS",CANÇÃO NOVA
+http://svrfit.com:25461/Ednar889967/536286/5783
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://i.imgur.com/JzgTWuj.png" group-title="CANAIS INFANTIL",CARTOON NETWORK FHD
+http://svrfit.com:25461/Ednar889967/536286/277
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 01" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Explos%C3%A3o-Pipoca-Cinema-PNG-1280x720.png" group-title="CANAIS CINEMA COM PIPOCA",Cine Pipoca 01
+http://svrfit.com:25461/Ednar889967/536286/69455
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 02" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Explos%C3%A3o-Pipoca-Cinema-PNG-1280x720.png" group-title="CANAIS CINEMA COM PIPOCA",Cine Pipoca 02
+http://svrfit.com:25461/Ednar889967/536286/69456
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 03" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Explos%C3%A3o-Pipoca-Cinema-PNG-1280x720.png" group-title="CANAIS CINEMA COM PIPOCA",Cine Pipoca 03
+http://svrfit.com:25461/Ednar889967/536286/69457
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 04" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Explos%C3%A3o-Pipoca-Cinema-PNG-1280x720.png" group-title="CANAIS CINEMA COM PIPOCA",Cine Pipoca 04
+http://svrfit.com:25461/Ednar889967/536286/69458
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 05" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Explos%C3%A3o-Pipoca-Cinema-PNG-1280x720.png" group-title="CANAIS CINEMA COM PIPOCA",Cine Pipoca 05
+http://svrfit.com:25461/Ednar889967/536286/69459
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 06" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Explos%C3%A3o-Pipoca-Cinema-PNG-1280x720.png" group-title="CANAIS CINEMA COM PIPOCA",Cine Pipoca 06
+http://svrfit.com:25461/Ednar889967/536286/69460
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 07" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Explos%C3%A3o-Pipoca-Cinema-PNG-1280x720.png" group-title="CANAIS CINEMA COM PIPOCA",Cine Pipoca 07
+http://svrfit.com:25461/Ednar889967/536286/69461
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 08" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Explos%C3%A3o-Pipoca-Cinema-PNG-1280x720.png" group-title="CANAIS CINEMA COM PIPOCA",Cine Pipoca 08
+http://svrfit.com:25461/Ednar889967/536286/69462
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 9" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2020/06/Explos%C3%A3o-Pipoca-Cinema-PNG-1280x720.png" group-title="CANAIS CINEMA COM PIPOCA",Cine Pipoca 9
+http://svrfit.com:25461/Ednar889967/536286/69464
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://i.imgur.com/dqCeBJF.png" group-title="CANAIS FILMES E SERIES",CINEMAX FHD
+http://svrfit.com:25461/Ednar889967/536286/282
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="CANAIS NOTICIA",CNN BRASIL FHD
+http://svrfit.com:25461/Ednar889967/536286/32648
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="https://i.imgur.com/NewX8wG.png" group-title="CANAIS ESPORTE NACIONAL",COMBATE FHD
+http://svrfit.com:25461/Ednar889967/536286/6734
+#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://i.imgur.com/BQ0xy45.png" group-title="CANAIS VARIEDADE E MUSICA",COMEDY CENTRAL FHD
+http://svrfit.com:25461/Ednar889967/536286/292
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS ESPORTE NACIONAL",CONMEBOL TV
+http://svrfit.com:25461/Ednar889967/536286/77141
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS ESPORTE NACIONAL",CONMEBOL TV 2
+http://svrfit.com:25461/Ednar889967/536286/77142
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS ESPORTE NACIONAL",CONMEBOL TV 4 FHD
+http://svrfit.com:25461/Ednar889967/536286/167832
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://i.imgur.com/bChBXOx.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CHANNEL FHD
+http://svrfit.com:25461/Ednar889967/536286/304
+#EXTINF:-1 tvg-id="discovery.civilization.br" tvg-name="DISCOVERY CIVILIZATION FHD" tvg-logo="https://i.imgur.com/4EH59qL.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY CIVILIZATION FHD
+http://svrfit.com:25461/Ednar889967/536286/314
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://i.imgur.com/75NuNkN.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY H&H FHD
+http://svrfit.com:25461/Ednar889967/536286/336
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://i.imgur.com/75NuNkN.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY HOME & HEALTH FHD
+http://svrfit.com:25461/Ednar889967/536286/320
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://i.imgur.com/ZC9sU87.png" group-title="CANAIS INFANTIL",DISCOVERY KIDS FHD
+http://svrfit.com:25461/Ednar889967/536286/325
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://i.imgur.com/SO9qM3S.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+http://svrfit.com:25461/Ednar889967/536286/333
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://i.imgur.com/kTrySJZ.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY TURBO FHD
+http://svrfit.com:25461/Ednar889967/536286/341
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://i.imgur.com/kz7cLP3.png" group-title="CANAIS DOCUMENTARIOS",DISCOVERY WORLD FHD
+http://svrfit.com:25461/Ednar889967/536286/344
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://i.imgur.com/TAIJxBU.png" group-title="CANAIS INFANTIL",DISNEY CHANNEL FHD
+http://svrfit.com:25461/Ednar889967/536286/347
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="DISNEY JR FHD" tvg-logo="https://i.imgur.com/4NCrEbS.png" group-title="CANAIS INFANTIL",DISNEY JR FHD
+http://svrfit.com:25461/Ednar889967/536286/351
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="DISNEY XD FHD" tvg-logo="https://i.imgur.com/JgN9FoK.png" group-title="CANAIS INFANTIL",DISNEY XD FHD
+http://svrfit.com:25461/Ednar889967/536286/353
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN  FHD (alter)" tvg-logo="https://i.imgur.com/69VH6Ln.png" group-title="CANAIS ESPORTE NACIONAL",ESPN  FHD (alter)
+http://svrfit.com:25461/Ednar889967/536286/6738
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/69VH6Ln.png" group-title="CANAIS ESPORTE NACIONAL",ESPN FHD
+http://svrfit.com:25461/Ednar889967/536286/6737
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="FOOD NETWORK FHD" tvg-logo="https://i.imgur.com/W1Kv5nS.png" group-title="CANAIS VARIEDADE E MUSICA",FOOD NETWORK FHD
+http://svrfit.com:25461/Ednar889967/536286/475
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://i.imgur.com/NDrA2vP.png" group-title="CANAIS ESPORTE NACIONAL",FOX SPORTS 2 FHD
+http://svrfit.com:25461/Ednar889967/536286/6736
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS FHD" tvg-logo="https://i.imgur.com/clrUXra.png" group-title="CANAIS ESPORTE NACIONAL",FOX SPORTS FHD
+http://svrfit.com:25461/Ednar889967/536286/6735
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="https://i.imgur.com/4YmmPKN.png" group-title="CANAIS FILMES E SERIES",FX FHD
+http://svrfit.com:25461/Ednar889967/536286/495
+#EXTINF:-1 tvg-id="" tvg-name="GAMETOON" tvg-logo="" group-title="CANAL GAMES ON-LINE (cortesia)",GAMETOON
+http://svrfit.com:25461/Ednar889967/536286/38787
+#EXTINF:-1 tvg-id="TVBahia" tvg-name="GLOBO CABRALIA BAHIA HD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 2",GLOBO CABRALIA BAHIA HD
+http://svrfit.com:25461/Ednar889967/536286/40254
+#EXTINF:-1 tvg-id="EPTVRibeiraoPreto" tvg-name="GLOBO EPTV RIBEIRAO PRETO FHD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO EPTV RIBEIRAO PRETO FHD
+http://svrfit.com:25461/Ednar889967/536286/249
+#EXTINF:-1 tvg-id="globo.rio.br" tvg-name="GLOBO FHD (PT)" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO FHD (PT)
+http://svrfit.com:25461/Ednar889967/536286/32683
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://i.imgur.com/qduM5KS.png" group-title="CANAIS NOTICIA",GLOBO NEWS FHD
+http://svrfit.com:25461/Ednar889967/536286/506
+#EXTINF:-1 tvg-id="rbs.rio.grande.br" tvg-name="GLOBO RBS PELOTAS SD (ALTERNATIVO)" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO RBS PELOTAS SD (ALTERNATIVO)
+http://svrfit.com:25461/Ednar889967/536286/96456
+#EXTINF:-1 tvg-id="AMC" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO RJ FHD
+http://svrfit.com:25461/Ednar889967/536286/514
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO 1",GLOBO SP FHD
+http://svrfit.com:25461/Ednar889967/536286/40059
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://i.imgur.com/ipOPsEQ.png" group-title="CANAIS INFANTIL",GLOOB FHD
+http://svrfit.com:25461/Ednar889967/536286/528
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 FHD" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1555990853_h2.png" group-title="CANAIS DOCUMENTARIOS",H2 FHD
+http://svrfit.com:25461/Ednar889967/536286/533
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HBO2_b_p.png" group-title="CANAIS HBO",HBO 2 FHD
+http://svrfit.com:25461/Ednar889967/536286/6754
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://skypacotes.com/blog/wp-content/uploads/2019/11/programacao-HBO.png" group-title="CANAIS HBO",HBO FHD
+http://svrfit.com:25461/Ednar889967/536286/6753
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANAIS HBO",HBO MUNDI FHD
+http://svrfit.com:25461/Ednar889967/536286/77145
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO PLUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/400px-HBO_Plus.png" group-title="CANAIS HBO",HBO PLUS FHD
+http://svrfit.com:25461/Ednar889967/536286/6755
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD (BR)" tvg-logo="https://iconape.com/wp-content/files/bc/122593/png/HBO_Pop.png" group-title="CANAIS HBO",HBO POP FHD (BR)
+http://svrfit.com:25461/Ednar889967/536286/84433
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD (ING)" tvg-logo="https://iconape.com/wp-content/files/bc/122593/png/HBO_Pop.png" group-title="CANAIS HBO",HBO POP FHD (ING)
+http://svrfit.com:25461/Ednar889967/536286/77146
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CANAIS HBO",HBO SIGNATURE FHD
+http://svrfit.com:25461/Ednar889967/536286/6756
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="HBO XTREME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1024px-HBO_Xtreme.svg.png" group-title="CANAIS HBO",HBO XTREME FHD
+http://svrfit.com:25461/Ednar889967/536286/560
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HGTV_2010.png/1200px-HGTV_2010.png" group-title="CANAIS DOCUMENTARIOS",HGTV FHD
+http://svrfit.com:25461/Ednar889967/536286/140821
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://i.imgur.com/mnhGuxB.png" group-title="CANAIS DOCUMENTARIOS",HISTORY CHANNEL FHD
+http://svrfit.com:25461/Ednar889967/536286/550
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD" tvg-logo="https://i.imgur.com/VeXxv2x.png" group-title="CANAIS DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY FHD
+http://svrfit.com:25461/Ednar889967/536286/5797
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID Investigation Discovery FHD" tvg-logo="https://i.imgur.com/VeXxv2x.png" group-title="CANAIS DOCUMENTARIOS",ID Investigation Discovery FHD
+http://svrfit.com:25461/Ednar889967/536286/42229
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY FHD" tvg-logo="https://i.imgur.com/VeXxv2x.png" group-title="CANAIS DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY FHD
+http://svrfit.com:25461/Ednar889967/536286/245
+#EXTINF:-1 tvg-id="" tvg-name="M20 MUSIC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/936px-Radio_m2o_-_Logo_2019.svg.png" group-title="CANAIS VARIEDADE E MUSICA",M20 MUSIC 
+http://svrfit.com:25461/Ednar889967/536286/558
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES E SERIES",MEGAPIX FHD
+http://svrfit.com:25461/Ednar889967/536286/566
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png" group-title="CANAIS VARIEDADE E MUSICA",MTV FHD
+http://svrfit.com:25461/Ednar889967/536286/569
+#EXTINF:-1 tvg-id="Multishow" tvg-name="MULTISHOW FHD" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="CANAIS VARIEDADE E MUSICA",MULTISHOW FHD
+http://svrfit.com:25461/Ednar889967/536286/573
+#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="https://i.imgur.com/BtJZzXn.png" group-title="CANAIS INFANTIL",NAT GEO KIDS FHD
+http://svrfit.com:25461/Ednar889967/536286/577
+#EXTINF:-1 tvg-id="natgeo.wild.br" tvg-name="NATGEO WILD FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS DOCUMENTARIOS",NATGEO WILD FHD
+http://svrfit.com:25461/Ednar889967/536286/580
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="CANAIS DOCUMENTARIOS",NATIONAL GEOGRAPHIC FHD
+http://svrfit.com:25461/Ednar889967/536286/583
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NHK Japan" tvg-logo="https://listaiptv.gratis/logos/imagens/bnr_world.png" group-title="CANAIS NOTICIA",NHK Japan
+http://svrfit.com:25461/Ednar889967/536286/61812
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD" tvg-logo="https://i.imgur.com/raQSfvK.png" group-title="CANAIS INFANTIL",NICK JR FHD
+http://svrfit.com:25461/Ednar889967/536286/586
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR FHD" tvg-logo="https://i.imgur.com/raQSfvK.png" group-title="CANAIS INFANTIL",NICK JR FHD
+http://svrfit.com:25461/Ednar889967/536286/12638
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/1112px-Paramount_Channel_logo.svg.png" group-title="CANAIS FILMES E SERIES",PARAMOUNT CHANNEL FHD
+http://svrfit.com:25461/Ednar889967/536286/593
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 2 FHD
+http://svrfit.com:25461/Ednar889967/536286/599
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 3 FHD
+http://svrfit.com:25461/Ednar889967/536286/602
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 4 FHD
+http://svrfit.com:25461/Ednar889967/536286/605
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 5 FHD
+http://svrfit.com:25461/Ednar889967/536286/608
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE 6 FHD
+http://svrfit.com:25461/Ednar889967/536286/611
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="CANAIS PREMIERES",PREMIERE CLUBES FHD
+http://svrfit.com:25461/Ednar889967/536286/615
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://i.imgur.com/DOJOTuF.png" group-title="CANAIS NOTICIA",RECORD NEWS FHD
+http://svrfit.com:25461/Ednar889967/536286/621
+#EXTINF:-1 tvg-id="rede.belem.br" tvg-name="REDE TV HD" tvg-logo="https://i.imgur.com/hjNyDIx.png" group-title="CANAIS ABERTOS",REDE TV HD
+http://svrfit.com:25461/Ednar889967/536286/631
+#EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="CANAIS VARIEDADE E MUSICA",RETRO MUSIC TV
+http://svrfit.com:25461/Ednar889967/536286/459
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT (ALTERNATIVO)" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT (ALTERNATIVO)
+http://svrfit.com:25461/Ednar889967/536286/225
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT FHD
+http://svrfit.com:25461/Ednar889967/536286/458
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT FHD" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT FHD
+http://svrfit.com:25461/Ednar889967/536286/455
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT HD
+http://svrfit.com:25461/Ednar889967/536286/453
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT HD
+http://svrfit.com:25461/Ednar889967/536286/456
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SBT RJ HD 2" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT RJ HD 2
+http://svrfit.com:25461/Ednar889967/536286/457
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT RS HD
+http://svrfit.com:25461/Ednar889967/536286/148
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RS HD²" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT RS HD²
+http://svrfit.com:25461/Ednar889967/536286/454
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal_Sony.svg/1280px-Canal_Sony.svg.png" group-title="CANAIS FILMES E SERIES",SONY FHD
+http://svrfit.com:25461/Ednar889967/536286/449
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://i.imgur.com/Cq4Z5Od.png" group-title="CANAIS FILMES E SERIES",SPACE FHD
+http://svrfit.com:25461/Ednar889967/536286/446
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://i.imgur.com/V0k4CDo.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 2 FHD
+http://svrfit.com:25461/Ednar889967/536286/6740
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://i.imgur.com/nvCjg9X.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV 3 FHD
+http://svrfit.com:25461/Ednar889967/536286/6741
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://bestswimming.swimchannel.net/wp-content/uploads/2018/04/facebook.png" group-title="CANAIS ESPORTE NACIONAL",SPORTV FHD
+http://svrfit.com:25461/Ednar889967/536286/6739
+#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANAIS FILMES E SERIES",STAR CHANNEL FHD
+http://svrfit.com:25461/Ednar889967/536286/478
+#EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="STAR CINEMA FHD" tvg-logo="https://seeklogo.com/images/S/star-cinema-logo-DA286E4FA2-seeklogo.com.png" group-title="CANAIS FILMES E SERIES",STAR CINEMA FHD
+http://svrfit.com:25461/Ednar889967/536286/42211
+#EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="STAR HITS 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/512px-Star_Hits_2020.svg.png" group-title="CANAIS FILMES E SERIES",STAR HITS 1 FHD
+http://svrfit.com:25461/Ednar889967/536286/482
+#EXTINF:-1 tvg-id="fox.premium.2.br" tvg-name="STAR HITS 2 FHD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360087397331/brasil_-_hits_2.png" group-title="CANAIS FILMES E SERIES",STAR HITS 2 FHD
+http://svrfit.com:25461/Ednar889967/536286/485
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="CANAIS FILMES E SERIES",STAR LIFE FHD
+http://svrfit.com:25461/Ednar889967/536286/480
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://i.imgur.com/Sbws5zu.png" group-title="CANAIS FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://svrfit.com:25461/Ednar889967/536286/434
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1000px-SYFY.svg.png" group-title="CANAIS FILMES E SERIES",SYFY FHD
+http://svrfit.com:25461/Ednar889967/536286/431
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1000px-SYFY.svg.png" group-title="CANAIS FILMES E SERIES",SYFY FHD
+http://svrfit.com:25461/Ednar889967/536286/12708
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1000px-SYFY.svg.png" group-title="CANAIS FILMES E SERIES",SYFY FHD
+http://svrfit.com:25461/Ednar889967/536286/42213
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://i.imgur.com/VNquqNg.png" group-title="CANAIS TELECINE",TELECINE ACTION FHD
+http://svrfit.com:25461/Ednar889967/536286/426
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://i.imgur.com/xYb2TAf.png" group-title="CANAIS TELECINE",TELECINE CULT FHD
+http://svrfit.com:25461/Ednar889967/536286/423
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://i.imgur.com/U1bMyBf.png" group-title="CANAIS TELECINE",TELECINE FUN FHD
+http://svrfit.com:25461/Ednar889967/536286/420
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://i.imgur.com/TIlXJSq.png" group-title="CANAIS TELECINE",TELECINE PIPOCA FHD
+http://svrfit.com:25461/Ednar889967/536286/417
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://i.imgur.com/9JmVPYR.png" group-title="CANAIS TELECINE",TELECINE PREMIUM FHD
+http://svrfit.com:25461/Ednar889967/536286/414
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://i.imgur.com/G3mRvDd.png" group-title="CANAIS TELECINE",TELECINE TOUCH FHD
+http://svrfit.com:25461/Ednar889967/536286/411
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/W87ww2P.png" group-title="CANAIS FILMES E SERIES",TNT FHD
+http://svrfit.com:25461/Ednar889967/536286/408
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD" tvg-logo="https://i.imgur.com/slZQxUh.png" group-title="CANAIS FILMES E SERIES",TNT SERIES FHD
+http://svrfit.com:25461/Ednar889967/536286/405
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="CANAIS ESPORTE NACIONAL",TNT SPORTS
+http://svrfit.com:25461/Ednar889967/536286/31744
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="CANAIS VARIEDADE E MUSICA",TOP LATINO
+http://svrfit.com:25461/Ednar889967/536286/400
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA*" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS RELIGIOSOS",TV APARECIDA*
+http://svrfit.com:25461/Ednar889967/536286/5809
+#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo" tvg-logo="" group-title="CANAIS RELIGIOSOS",TV Novo Tempo
+http://svrfit.com:25461/Ednar889967/536286/11587
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO*" tvg-logo="https://i.imgur.com/NfuMpbZ.png" group-title="CANAIS RELIGIOSOS",TV NOVO TEMPO*
+http://svrfit.com:25461/Ednar889967/536286/5786
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="https://3.bp.blogspot.com/-SwyPin6YdYY/UkSO6baMobI/AAAAAAAACfg/Ci26ar4WO54/s1600/Logo_Universal-Channel_HD.svg.png" group-title="CANAIS FILMES E SERIES",UNIVERSAL CHANNEL FHD
+http://svrfit.com:25461/Ednar889967/536286/389
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA FHD" tvg-logo="https://i.imgur.com/gONN2WV.png" group-title="CANAIS VARIEDADE E MUSICA",VIVA FHD
+http://svrfit.com:25461/Ednar889967/536286/383
+#EXTINF:-1 tvg-id="" tvg-name="Viva FHD" tvg-logo="https://i.imgur.com/gONN2WV.png" group-title="CANAIS VARIEDADE E MUSICA",Viva FHD
+http://svrfit.com:25461/Ednar889967/536286/42265
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FHD*" tvg-logo="https://i.imgur.com/NUrsG5a.png" group-title="CANAIS FILMES E SERIES",WARNER CHANNEL FHD*
+http://svrfit.com:25461/Ednar889967/536286/187386
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO (ALT) " tvg-logo="https://i.imgur.com/TKimMVw.png" group-title="CANAIS INFANTIL",ZOOMOO (ALT) 
+http://svrfit.com:25461/Ednar889967/536286/11594
 
 #EXTINF:-1 tvg-id="" tvg-name="+ Velozes + Furiosos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title="Filmes | COLEÇÃO VELOZES E FURIOSOS",+ Velozes + Furiosos
 http://srv.maxptv.net:8080/movie/Ricardo1/123456/2313.mp4
